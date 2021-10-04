@@ -8,7 +8,7 @@
 			<key>AutoJoin</key>
 			<true/>
 			<key>CaptiveBypass</key>
-			<true/>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<true/>
 			<key>EncryptionType</key>
@@ -67,7 +67,7 @@
 			<key>AutoJoin</key>
 			<true/>
 			<key>CaptiveBypass</key>
-			<true/>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<true/>
 			<key>EncryptionType</key>
@@ -124,7 +124,7 @@
 			<key>AutoJoin</key>
 			<true/>
 			<key>CaptiveBypass</key>
-			<true/>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<true/>
 			<key>EncryptionType</key>
@@ -181,7 +181,7 @@
 			<key>AutoJoin</key>
 			<true/>
 			<key>CaptiveBypass</key>
-			<true/>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<true/>
 			<key>EncryptionType</key>
