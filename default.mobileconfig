@@ -173,7 +173,7 @@
  				</array>
 
                                 <key>ProxyType</key>
- 			        <string>None</string>                                 <key>ProxyType</key>
+ 			        <string>None</string>
 
   			        <key>ProxyType</key>
  			        <string>Manual</string>
