@@ -32,7 +32,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyType</key>
-			<string>None</string>
+			<string>Manual</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -44,7 +44,7 @@
  				</array>
 
   			        <key>ProxyType</key>
- 			        <string>None</string>
+ 			        <string>Manual</string>
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <false/>
 
@@ -82,7 +82,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyType</key>
-			<string>None</string>
+			<string>Manual</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -93,7 +93,7 @@
  				<array>
  				</array>
   			        <key>ProxyType</key>
- 			        <string>None</string>
+ 			        <string>Manual</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
  			</dict>
@@ -129,7 +129,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyType</key>
-			<string>None</string>
+			<string>Manual</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -140,7 +140,7 @@
  				<array>
  				</array>
   			        <key>ProxyType</key>
- 			        <string>None</string>
+ 			        <string>Manual</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
  			</dict>
@@ -177,7 +177,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyType</key>
-			<string>None</string>
+			<string>Manual</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -188,7 +188,7 @@
  				<array>
  				</array>
   			        <key>ProxyType</key>
- 			        <string>None</string>
+ 			        <string>Manual</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
  			</dict>
