@@ -6,13 +6,13 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>Password</key>
@@ -69,13 +69,13 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>Password</key>
@@ -131,13 +131,13 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>Password</key>
@@ -192,13 +192,13 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>Password</key>
