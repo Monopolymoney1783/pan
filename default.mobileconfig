@@ -10,7 +10,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
@@ -35,17 +35,27 @@
 			<string>None</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
+
+                        <key>EAPClientConfiguration</key>
+ 			<dict>
+  			        <key>ProxyType</key>
+ 			        <string>None</string>
+                                 <key>ProxyCaptiveLoginAllowed</key>
+                                 <false/>
+
+ 			</dict>
+
                         <key>SSID_STR</key>
                         <string>ShawGo</string>
 		</dict>
 
-<dict>
+                <dict>
 			<key>AutoJoin</key>
 			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
@@ -70,6 +80,14 @@
 			<string>None</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
+
+                        <key>EAPClientConfiguration</key>
+ 			<dict>
+  			        <key>ProxyType</key>
+ 			        <string>None</string>
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+ 			</dict>
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
 		</dict>
@@ -80,9 +98,9 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -105,6 +123,15 @@
 			<string>None</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
+
+                        <key>EAPClientConfiguration</key>
+ 			<dict>
+  			        <key>ProxyType</key>
+ 			        <string>None</string>
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+ 			</dict>
+
                         <key>SSID_STR</key>
                         <string>ShawPasspoint</string>
 		</dict>
@@ -115,9 +142,9 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -140,6 +167,15 @@
 			<string>None</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
+
+                        <key>EAPClientConfiguration</key>
+ 			<dict>
+  			        <key>ProxyType</key>
+ 			        <string>None</string>
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+ 			</dict>
+
                         <key>SSID_STR</key>
                         <string>ShawPasspoint</string>
 		</dict>
