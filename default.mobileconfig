@@ -33,9 +33,12 @@
 			<integer>1</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
+			<key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <string>594</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-
                         <key>EAPClientConfiguration</key>
  			<dict>
 
@@ -45,8 +48,14 @@
 
   			        <key>ProxyType</key>
  			        <string>Manual</string>
-                                 <key>ProxyCaptiveLoginAllowed</key>
-                                 <false/>
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+
+			<key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <string>594</string>
+
 
  			</dict>
 
@@ -86,6 +95,12 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
+			<key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <string>594</string>
+
+
                         <key>EAPClientConfiguration</key>
  			<dict>
 
@@ -96,6 +111,12 @@
  			        <string>Manual</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
+
+			<key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <string>594</string>
+
  			</dict>
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
@@ -133,6 +154,12 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
+			<key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <string>594</string>
+
+
                         <key>EAPClientConfiguration</key>
  			<dict>
 
@@ -143,6 +170,12 @@
  			        <string>Manual</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
+
+			<key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <string>594</string>
+
  			</dict>
 
                         <key>SSID_STR</key>
@@ -181,6 +214,12 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
+			<key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <string>594</string>
+
+
                         <key>EAPClientConfiguration</key>
  			<dict>
 
@@ -191,6 +230,12 @@
  			        <string>Manual</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
+
+			<key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <string>594</string>
+
  			</dict>
 
                         <key>SSID_STR</key>
