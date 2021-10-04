@@ -38,6 +38,11 @@
 
                         <key>EAPClientConfiguration</key>
  			<dict>
+
+                                <key>AcceptEAPTypes</key>
+ 				<array>
+ 				</array>
+
   			        <key>ProxyType</key>
  			        <string>None</string>
                                  <key>ProxyCaptiveLoginAllowed</key>
@@ -83,6 +88,10 @@
 
                         <key>EAPClientConfiguration</key>
  			<dict>
+
+                                <key>AcceptEAPTypes</key>
+ 				<array>
+ 				</array>
   			        <key>ProxyType</key>
  			        <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
@@ -126,6 +135,10 @@
 
                         <key>EAPClientConfiguration</key>
  			<dict>
+
+                                <key>AcceptEAPTypes</key>
+ 				<array>
+ 				</array>
   			        <key>ProxyType</key>
  			        <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
@@ -170,6 +183,10 @@
 
                         <key>EAPClientConfiguration</key>
  			<dict>
+
+                                <key>AcceptEAPTypes</key>
+ 				<array>
+ 				</array>
   			        <key>ProxyType</key>
  			        <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
