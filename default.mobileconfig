@@ -251,7 +251,7 @@
  			</dict>
 
                         <key>SSID_STR</key>
-                        <string>ShawPasspoint</string>
+                        <string>ShawMobileHotspot</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
