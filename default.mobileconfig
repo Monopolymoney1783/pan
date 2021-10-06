@@ -12,7 +12,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<true/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>Password</key>
