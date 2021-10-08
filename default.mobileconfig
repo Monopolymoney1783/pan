@@ -7,9 +7,9 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<true/>
-			<key>CaptiveBypass</key>
 			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -62,9 +62,9 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<true/>
-			<key>CaptiveBypass</key>
 			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -118,9 +118,9 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<true/>
-			<key>CaptiveBypass</key>
 			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -173,9 +173,9 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<true/>
-			<key>CaptiveBypass</key>
 			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -227,9 +227,9 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
-			<key>CaptiveBypass</key>
 			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -281,9 +281,9 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
-			<key>CaptiveBypass</key>
 			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -337,9 +337,9 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
-			<key>CaptiveBypass</key>
 			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -392,9 +392,9 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
-			<key>CaptiveBypass</key>
 			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
