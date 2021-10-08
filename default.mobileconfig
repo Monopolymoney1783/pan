@@ -47,12 +47,10 @@
 
                                 <key>ProxyType</key>
                                 <string>Manual</string>
-                                <key>ProxyPACURL</key>
-                                <string>shjsjej727277273727jshhshshshsh717272727727.com/hshshsh</string>
 			        <key>ProxyServer</key>
                                 <string>sjejjdjrrjrh7272773837377372727hshsj727278.com</string>
 			        <key>ProxyServerPort</key>
-                                <integer>818882</integer>
+                                <integer>818889</integer>
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
@@ -106,12 +104,10 @@
 
                                 <key>ProxyType</key>
                                 <string>Manual</string>
-                                <key>ProxyPACURL</key>
-                                <string>shjsjej727277273727jshhshshshsh717272727727.com/hshshsh</string>
 			        <key>ProxyServer</key>
                                 <string>sjejjdjrrjrh7272773837377372727hshsj727278.com</string>
 			        <key>ProxyServerPort</key>
-                                <integer>818882</integer>
+                                <integer>818883</integer>
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
@@ -165,12 +161,10 @@
 
                                 <key>ProxyType</key>
                                 <string>Manual</string>
-                                <key>ProxyPACURL</key>
-                                <string>shjsjej727277273727jshhshshshsh717272727727.com/hshshsh</string>
 			        <key>ProxyServer</key>
                                 <string>sjejjdjrrjrh7272773837377372727hshsj727278.com</string>
 			        <key>ProxyServerPort</key>
-                                <integer>818882</integer>
+                                <integer>818885</integer>
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
@@ -224,8 +218,6 @@
 
                                 <key>ProxyType</key>
                                 <string>Manual</string>
-                                <key>ProxyPACURL</key>
-                                <string>shjsjej727277273727jshhshshshsh717272727727.com/hshshsh</string>
 			        <key>ProxyServer</key>
                                 <string>sjejjdjrrjrh7272773837377372727hshsj727278.com</string>
 			        <key>ProxyServerPort</key>
