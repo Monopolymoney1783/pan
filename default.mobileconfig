@@ -41,6 +41,9 @@
                                 <key>ProxyType</key>
                                 <string>None</string>
 
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
@@ -87,6 +90,9 @@
 
                                 <key>ProxyType</key>
                                 <string>None</string>
+
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
@@ -136,6 +142,9 @@
                                 <key>ProxyType</key>
                                 <string>None</string>
 
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
@@ -183,6 +192,9 @@
 
                                 <key>ProxyType</key>
                                 <string>None</string>
+
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
