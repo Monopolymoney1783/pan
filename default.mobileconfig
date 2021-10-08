@@ -6,9 +6,9 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
 			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -69,9 +69,9 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
 			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -131,9 +131,9 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
 			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -192,9 +192,9 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
 			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
