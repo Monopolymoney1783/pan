@@ -6,7 +6,7 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
@@ -31,15 +31,27 @@
 			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-                        <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+
+                        <key>EAPClientConfiguration</key>
+ 			<dict>
+
+                                <key>AcceptEAPTypes</key>
+ 				<array>
+ 				</array>
+
+                                <key>ProxyType</key>
+                                <string>None</string>
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+
+ 			</dict>
                         <key>SSID_STR</key>
                         <string>ShawGo</string>
 		</dict>
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
@@ -64,15 +76,28 @@
 			<string>5D55F257-13FT-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-                        <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+
+                        <key>EAPClientConfiguration</key>
+ 			<dict>
+
+                                <key>AcceptEAPTypes</key>
+ 				<array>
+ 				</array>
+
+                                <key>ProxyType</key>
+                                <string>None</string>
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+
+ 			</dict>
+
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
 		</dict>
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
@@ -97,15 +122,28 @@
 			<string>5D55F258-13FK-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-                        <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+
+                        <key>EAPClientConfiguration</key>
+ 			<dict>
+
+                                <key>AcceptEAPTypes</key>
+ 				<array>
+ 				</array>
+
+                                <key>ProxyType</key>
+                                <string>None</string>
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+
+ 			</dict>
+
                         <key>SSID_STR</key>
                         <string>ShawPasspoint</string>
 		</dict>
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
@@ -130,8 +168,21 @@
 			<string>5D55F254-13FE-4F59-AADF-BD0B4C477348</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-                        <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+
+                        <key>EAPClientConfiguration</key>
+ 			<dict>
+
+                                <key>AcceptEAPTypes</key>
+ 				<array>
+ 				</array>
+
+                                <key>ProxyType</key>
+                                <string>None</string>
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+
+ 			</dict>
+
                         <key>SSID_STR</key>
                         <string>ShawMobileHotspot</string>
 		</dict>
