@@ -7,7 +7,7 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -33,22 +33,19 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-			<key>ProxyType</key>
-			<string>None</string>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
                         <integer>594</integer>
-                        <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-  			        <key>ProxyType</key>
- 			        <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -65,7 +62,7 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -91,22 +88,19 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-			<key>ProxyType</key>
-			<string>None</string>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
                         <integer>594</integer>
-                        <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-  			        <key>ProxyType</key>
- 			        <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -123,7 +117,7 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -149,22 +143,19 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-			<key>ProxyType</key>
-			<string>None</string>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
                         <integer>594</integer>
-                        <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-  			        <key>ProxyType</key>
- 			        <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -181,7 +172,7 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -207,22 +198,19 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-			<key>ProxyType</key>
-			<string>None</string>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
                         <integer>594</integer>
-                        <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-  			        <key>ProxyType</key>
- 			        <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -238,7 +226,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -262,24 +250,20 @@
 			<key>PayloadUUID</key>
 			<string>5D55F259-13FM-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
-			<integer>1</integer>			
-
-			<key>ProxyType</key>
-			<string>None</string>
+			<integer>1</integer>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
                         <integer>594</integer>
-                        <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-  			        <key>ProxyType</key>
- 			        <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -296,7 +280,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -322,22 +306,19 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-			<key>ProxyType</key>
-			<string>None</string>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
                         <integer>594</integer>
-                        <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-  			        <key>ProxyType</key>
- 			        <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -354,7 +335,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -380,22 +361,19 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-			<key>ProxyType</key>
-			<string>None</string>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
                         <integer>594</integer>
-                        <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-  			        <key>ProxyType</key>
- 			        <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -412,7 +390,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -438,22 +416,19 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-			<key>ProxyType</key>
-			<string>None</string>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
                         <integer>594</integer>
-                        <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-  			        <key>ProxyType</key>
- 			        <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
