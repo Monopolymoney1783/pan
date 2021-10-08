@@ -30,8 +30,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                        <key>ProxyPACURL</key>
-                        <string>jdjsjsjejsj727277273737377377hdhdjjdjdjdjuq7172737373773.com</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
                         <key>EAPClientConfiguration</key>
@@ -40,9 +38,7 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-
-                        <key>ProxyPACURL</key>
-                        <string>jdjsjsjejsj727277273737377377hdhdjjdjdjdjuq7172737373773.com</string>                        <key>ProxyCaptiveLoginAllowed</key>
+                        <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
  			</dict>
@@ -77,8 +73,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                        <key>ProxyPACURL</key>
-                        <string>jdjsjsjejsj727277273737377377hdhdjjdjdjdjuq7172737373773.com</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
                         <key>EAPClientConfiguration</key>
@@ -87,9 +81,7 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-
-                        <key>ProxyPACURL</key>
-                        <string>jdjsjsjejsj727277273737377377hdhdjjdjdjdjuq7172737373773.com</string>                        <key>ProxyCaptiveLoginAllowed</key>
+                        <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
 			</dict>
@@ -124,8 +116,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>			
 
-                        <key>ProxyPACURL</key>
-                        <string>jdjsjsjejsj727277273737377377hdhdjjdjdjdjuq7172737373773.com</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
                         <key>EAPClientConfiguration</key>
@@ -134,9 +124,7 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-
-                        <key>ProxyPACURL</key>
-                        <string>jdjsjsjejsj727277273737377377hdhdjjdjdjdjuq7172737373773.com</string>                        <key>ProxyCaptiveLoginAllowed</key>
+                        <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
  			</dict>
@@ -171,8 +159,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                        <key>ProxyPACURL</key>
-                        <string>jdjsjsjejsj727277273737377377hdhdjjdjdjdjuq7172737373773.com</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
                         <key>EAPClientConfiguration</key>
@@ -181,9 +167,7 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-
-                        <key>ProxyPACURL</key>
-                        <string>jdjsjsjejsj727277273737377377hdhdjjdjdjdjuq7172737373773.com</string>                        <key>ProxyCaptiveLoginAllowed</key>
+                        <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
  			</dict>
