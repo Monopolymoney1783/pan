@@ -8,11 +8,11 @@
 			<key>AutoJoin</key>
 			<true/>
 			<key>CaptiveBypass</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -32,17 +32,19 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
+
+                                <key>ProxyType</key>
+                                <string>None</string>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
 
-                                <key>ProxyType</key>
-                                <string>None</string>
-                                <key>ProxyCaptiveLoginAllowed</key>
-                                <false/>
 
  			</dict>
                         <key>SSID_STR</key>
@@ -53,11 +55,11 @@
 			<key>AutoJoin</key>
 			<true/>
 			<key>CaptiveBypass</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -77,17 +79,19 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
+
+                                <key>ProxyType</key>
+                                <string>None</string>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
 
-                                <key>ProxyType</key>
-                                <string>None</string>
-                                <key>ProxyCaptiveLoginAllowed</key>
-                                <false/>
 
  			</dict>
 
@@ -99,9 +103,9 @@
 			<key>AutoJoin</key>
 			<true/>
 			<key>CaptiveBypass</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
@@ -123,17 +127,19 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
+
+                                <key>ProxyType</key>
+                                <string>None</string>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
 
-                                <key>ProxyType</key>
-                                <string>None</string>
-                                <key>ProxyCaptiveLoginAllowed</key>
-                                <false/>
 
  			</dict>
 
@@ -145,9 +151,9 @@
 			<key>AutoJoin</key>
 			<true/>
 			<key>CaptiveBypass</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
@@ -169,17 +175,19 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
+
+                                <key>ProxyType</key>
+                                <string>None</string>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
 
-                                <key>ProxyType</key>
-                                <string>None</string>
-                                <key>ProxyCaptiveLoginAllowed</key>
-                                <false/>
 
  			</dict>
 
