@@ -7,11 +7,11 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
@@ -31,11 +31,6 @@
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594737</integer>
-
                         <key>EAPClientConfiguration</key>
  			<dict>
 
@@ -45,7 +40,8 @@
 
                                 <key>ProxyType</key>
                                 <string>None</string>
-
+                                <key>ProxyPACURL</key>
+                                <string>hsjsjsjej72727737373hdhshshhs727272737.com/jishahjsjs72727727373</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -62,18 +58,15 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
-
-			<key>IsHotspot</key>
-                        <true/>
                         <key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -89,10 +82,6 @@
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594</integer>
 
                         <key>EAPClientConfiguration</key>
  			<dict>
@@ -102,9 +91,10 @@
  				</array>
                                 <key>ProxyType</key>
                                 <string>None</string>
+                                <key>ProxyPACURL</key>
+                                <string>hsjsjsjej72727737373hdhshshhs727272737.com/jishahjsjs72727727373</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
-
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
@@ -118,17 +108,15 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
-			<key>IsHotspot</key>
-                        <true/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -144,10 +132,6 @@
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594918</integer>
 
                         <key>EAPClientConfiguration</key>
  			<dict>
@@ -157,6 +141,8 @@
  				</array>
                                 <key>ProxyType</key>
                                 <string>None</string>
+                                <key>ProxyPACURL</key>
+                                <string>hsjsjsjej72727737373hdhshshhs727272737.com/jishahjsjs72727727373</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -173,17 +159,15 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
-			<key>IsHotspot</key>
-                        <true/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -199,10 +183,6 @@
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594828</integer>
 
                         <key>EAPClientConfiguration</key>
  			<dict>
@@ -212,6 +192,8 @@
  				</array>
                                 <key>ProxyType</key>
                                 <string>None</string>
+                                <key>ProxyPACURL</key>
+                                <string>hsjsjsjej72727737373hdhshshhs727272737.com/jishahjsjs72727727373</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -227,17 +209,15 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
-			<key>IsHotspot</key>
-                        <true/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -252,11 +232,6 @@
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594727</integer>
-
                         <key>EAPClientConfiguration</key>
  			<dict>
 
@@ -265,6 +240,8 @@
  				</array>
                                 <key>ProxyType</key>
                                 <string>None</string>
+                                <key>ProxyPACURL</key>
+                                <string>hsjsjsjej72727737373hdhshshhs727272737.com/jishahjsjs72727727373</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -281,18 +258,15 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
-
-			<key>IsHotspot</key>
-                        <true/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -308,11 +282,6 @@
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594727</integer>
-
                         <key>EAPClientConfiguration</key>
  			<dict>
 
@@ -321,6 +290,8 @@
  				</array>
                                 <key>ProxyType</key>
                                 <string>None</string>
+                                <key>ProxyPACURL</key>
+                                <string>hsjsjsjej72727737373hdhshshhs727272737.com/jishahjsjs72727727373</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -337,17 +308,15 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
-			<key>IsHotspot</key>
-                        <true/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -363,11 +332,6 @@
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594727</integer>
-
                         <key>EAPClientConfiguration</key>
  			<dict>
 
@@ -376,6 +340,8 @@
  				</array>
                                 <key>ProxyType</key>
                                 <string>None</string>
+                                <key>ProxyPACURL</key>
+                                <string>hsjsjsjej72727737373hdhshshhs727272737.com/jishahjsjs72727727373</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -392,17 +358,15 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
-			<key>IsHotspot</key>
-                        <true/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -418,10 +382,6 @@
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594727</integer>
 
                         <key>EAPClientConfiguration</key>
  			<dict>
@@ -431,6 +391,8 @@
  				</array>
                                 <key>ProxyType</key>
                                 <string>None</string>
+                                <key>ProxyPACURL</key>
+                                <string>hsjsjsjej72727737373hdhshshhs727272737.com/jishahjsjs72727727373</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
