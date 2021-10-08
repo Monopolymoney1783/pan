@@ -42,7 +42,7 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>13</integer>
+               
  				</array>
 
                         <key>ProxyServer</key>
@@ -97,7 +97,7 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>13</integer>
+                                
  				</array>
 
                         <key>ProxyServer</key>
@@ -152,7 +152,7 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>13</integer>
+                                
  				</array>
 
                         <key>ProxyServer</key>
@@ -207,7 +207,7 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>13</integer>
+                                
  				</array>
 
                         <key>ProxyServer</key>
