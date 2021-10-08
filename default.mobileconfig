@@ -6,9 +6,9 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
 			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -16,7 +16,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
-			<false/>
+			<true/>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
@@ -31,8 +31,6 @@
 			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>ProxyType</key>
-			<string>None</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
                         <key>SSID_STR</key>
@@ -41,9 +39,9 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
 			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -51,7 +49,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
-			<false/>
+			<true/>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
@@ -66,8 +64,6 @@
 			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>ProxyType</key>
-			<string>None</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
                         <key>SSID_STR</key>
@@ -76,9 +72,9 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
 			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -101,8 +97,6 @@
 			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>ProxyType</key>
-			<string>None</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
                         <key>SSID_STR</key>
@@ -111,9 +105,9 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
 			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -136,12 +130,10 @@
 			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>ProxyType</key>
-			<string>None</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
                         <key>SSID_STR</key>
-                        <string>ShawPasspoint</string>
+                        <string>ShawMobileHotspot</string>
 		</dict>
 	</array>
 
