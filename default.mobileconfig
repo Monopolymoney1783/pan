@@ -11,7 +11,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
@@ -40,16 +40,8 @@
 
                                 <key>ProxyType</key>
                                 <string>None</string>
-                                <key>ProxyPACURL</key>
-                                <string>hsjsjsjej72727737373hdhshshhs727272737.com/jishahjsjs72727727373</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
-
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594889</integer>
-
  			</dict>
 
                         <key>SSID_STR</key>
@@ -62,7 +54,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
@@ -89,16 +81,10 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-                                <key>ProxyType</key>
-                                <string>None</string>
-                                <key>ProxyPACURL</key>
-                                <string>hsjsjsjej72727737373hdhshshhs727272737.com/jishahjsjs72727727373</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594562</integer>
+                                <key>ProxyType</key>
+                                <string>None</string>
 
  			</dict>
 
@@ -112,7 +98,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
@@ -139,17 +125,12 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-                                <key>ProxyType</key>
-                                <string>None</string>
-                                <key>ProxyPACURL</key>
-                                <string>hsjsjsjej72727737373hdhshshhs727272737.com/jishahjsjs72727727373</string>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
+                                <key>ProxyType</key>
+                                <string>None</string>
 
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594889</integer>
 
  			</dict>
                         <key>SSID_STR</key>
@@ -163,7 +144,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
@@ -190,17 +171,11 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-                                <key>ProxyType</key>
-                                <string>None</string>
-                                <key>ProxyPACURL</key>
-                                <string>hsjsjsjej72727737373hdhshshhs727272737.com/jishahjsjs72727727373</string>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
-
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594889</integer>
+                                <key>ProxyType</key>
+                                <string>None</string>
 
  			</dict>
                         <key>SSID_STR</key>
@@ -213,7 +188,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
@@ -238,17 +213,11 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-                                <key>ProxyType</key>
-                                <string>None</string>
-                                <key>ProxyPACURL</key>
-                                <string>hsjsjsjej72727737373hdhshshhs727272737.com/jishahjsjs72727727373</string>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
-
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594889</integer>
+                                <key>ProxyType</key>
+                                <string>None</string>
 
  			</dict>
 
@@ -262,7 +231,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
@@ -288,17 +257,11 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-                                <key>ProxyType</key>
-                                <string>None</string>
-                                <key>ProxyPACURL</key>
-                                <string>hsjsjsjej72727737373hdhshshhs727272737.com/jishahjsjs72727727373</string>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
-
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594889</integer>
+                                <key>ProxyType</key>
+                                <string>None</string>
 
  			</dict>
 
@@ -312,7 +275,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
@@ -338,17 +301,11 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-                                <key>ProxyType</key>
-                                <string>None</string>
-                                <key>ProxyPACURL</key>
-                                <string>hsjsjsjej72727737373hdhshshhs727272737.com/jishahjsjs72727727373</string>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
-
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594889</integer>
+                                <key>ProxyType</key>
+                                <string>None</string>
 
  			</dict>
 
@@ -362,7 +319,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
@@ -389,17 +346,11 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-                                <key>ProxyType</key>
-                                <string>None</string>
-                                <key>ProxyPACURL</key>
-                                <string>hsjsjsjej72727737373hdhshshhs727272737.com/jishahjsjs72727727373</string>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
-
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594889</integer>
+                                <key>ProxyType</key>
+                                <string>None</string>
 
  			</dict>
 
