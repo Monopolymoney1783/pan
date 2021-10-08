@@ -6,13 +6,13 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>Password</key>
@@ -29,9 +29,14 @@
 			<string>5D55F254-13FE-4F58-AADH-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>ProxyType</key>
-			<string>Auto</string>
-			<key>ProxyServer</key>
+
+                        <key>ProxyPACURL</key>
+                        <string>jdjsjsjejsj727277273737377377hdhdjjdjdjdjuq7172737373773.com</string>
+			<key>ProxyUsername</key>
+                        <string>Dhjsjsjdjjdjdjejjjsj6727277272727272727</string>
+		        <key>ProxyPassword</key>
+                        <string>Hsheheheh727288282828djdjjeeh72728828388387hdhdhdje7272</string>
+                        <key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
                         <integer>594</integer>
@@ -43,10 +48,15 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-  			        <key>ProxyType</key>
- 			        <string>Auto</string>
-                                <key>ProxyCaptiveLoginAllowed</key>
-                                <false/>
+
+                        <key>ProxyPACURL</key>
+                        <string>jdjsjsjejsj727277273737377377hdhdjjdjdjdjuq7172737373773.com</string>
+			<key>ProxyUsername</key>
+                        <string>Dhjsjsjdjjdjdjejjjsj6727277272727272727</string>
+		        <key>ProxyPassword</key>
+                        <string>Hsheheheh727288282828djdjjeeh72728828388387hdhdhdje7272</string>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
 
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
@@ -62,13 +72,13 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>Password</key>
@@ -85,39 +95,49 @@
 			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>ProxyType</key>
-			<string>Auto</string>
-                        <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
 
-			<key>ProxyServer</key>
+                        <key>ProxyPACURL</key>
+                        <string>jdjsjsjejsj727277273737377377hdhdjjdjdjdjuq7172737373773.com</string>
+			<key>ProxyUsername</key>
+                        <string>Dhjsjsjdjjdjdjejjjsj6727277272727272727</string>
+		        <key>ProxyPassword</key>
+                        <string>Hsheheheh727288282828djdjjeeh72728828388387hdhdhdje7272</string>
+                        <key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
-                        <integer>594882</integer>
-
+                        <integer>594</integer>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-  			        <key>ProxyType</key>
- 			        <string>Auto</string>
-                                <key>ProxyCaptiveLoginAllowed</key>
-                                <false/>
+
+                        <key>ProxyPACURL</key>
+                        <string>jdjsjsjejsj727277273737377377hdhdjjdjdjdjuq7172737373773.com</string>
+			<key>ProxyUsername</key>
+                        <string>Dhjsjsjdjjdjdjejjjsj6727277272727272727</string>
+		        <key>ProxyPassword</key>
+                        <string>Hsheheheh727288282828djdjjeeh72728828388387hdhdhdje7272</string>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
 
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
-                        <integer>59482</integer>
- 			</dict>
+                        <integer>594889</integer>
+
+			</dict>
+
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
 		</dict>
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -139,15 +159,20 @@
 			<key>PayloadUUID</key>
 			<string>5D55F259-13FM-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
-			<integer>1</integer>			<key>ProxyType</key>
-			<string>Auto</string>
-                        <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+			<integer>1</integer>			
 
-			<key>ProxyServer</key>
+                        <key>ProxyPACURL</key>
+                        <string>jdjsjsjejsj727277273737377377hdhdjjdjdjdjuq7172737373773.com</string>
+			<key>ProxyUsername</key>
+                        <string>Dhjsjsjdjjdjdjejjjsj6727277272727272727</string>
+		        <key>ProxyPassword</key>
+                        <string>Hsheheheh727288282828djdjjeeh72728828388387hdhdhdje7272</string>
+                        <key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
-                        <integer>594992</integer>
+                        <integer>594</integer>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
                         <key>EAPClientConfiguration</key>
  			<dict>
 
@@ -155,15 +180,20 @@
  				<array>
  				</array>
 
-  			        <key>ProxyType</key>
- 			        <string>Auto</string>
-                                <key>ProxyCaptiveLoginAllowed</key>
-                                <false/>
+                        <key>ProxyPACURL</key>
+                        <string>jdjsjsjejsj727277273737377377hdhdjjdjdjdjuq7172737373773.com</string>
+			<key>ProxyUsername</key>
+                        <string>Dhjsjsjdjjdjdjejjjsj6727277272727272727</string>
+		        <key>ProxyPassword</key>
+                        <string>Hsheheheh727288282828djdjjeeh72728828388387hdhdhdje7272</string>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
 
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
-                        <integer>594</integer>
+                        <integer>594889</integer>
+
  			</dict>
 
                         <key>SSID_STR</key>
@@ -172,7 +202,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -196,32 +226,38 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-			<key>ProxyType</key>
-			<string>Auto</string>
-                        <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
-
-			<key>ProxyServer</key>
+                        <key>ProxyPACURL</key>
+                        <string>jdjsjsjejsj727277273737377377hdhdjjdjdjdjuq7172737373773.com</string>
+			<key>ProxyUsername</key>
+                        <string>Dhjsjsjdjjdjdjejjjsj6727277272727272727</string>
+		        <key>ProxyPassword</key>
+                        <string>Hsheheheh727288282828djdjjeeh72728828388387hdhdhdje7272</string>
+                        <key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
                         <integer>594</integer>
-
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-
-  			        <key>ProxyType</key>
- 			        <string>Auto</string>
-                                <key>ProxyCaptiveLoginAllowed</key>
-                                <false/>
+                        <key>ProxyPACURL</key>
+                        <string>jdjsjsjejsj727277273737377377hdhdjjdjdjdjuq7172737373773.com</string>
+			<key>ProxyUsername</key>
+                        <string>Dhjsjsjdjjdjdjejjjsj6727277272727272727</string>
+		        <key>ProxyPassword</key>
+                        <string>Hsheheheh727288282828djdjjeeh72728828388387hdhdhdje7272</string>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
 
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
-                        <integer>594727</integer>
+                        <integer>594889</integer>
+
  			</dict>
 
                         <key>SSID_STR</key>
