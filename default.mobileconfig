@@ -29,12 +29,8 @@
 			<string>5D55F254-13FE-4F58-AADH-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-
-                                <key>ProxyType</key>
- 			        <string>None</string>
-
 			<key>ProxyType</key>
-			<string>Manual</string>
+			<string>Auto</string>
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
@@ -47,11 +43,8 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-
-                                <key>ProxyType</key>
- 			        <string>None</string>
   			        <key>ProxyType</key>
- 			        <string>Manual</string>
+ 			        <string>Auto</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -92,12 +85,8 @@
 			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-
-                        <key>ProxyType</key>
- 		        <string>None</string>
-
 			<key>ProxyType</key>
-			<string>Manual</string>
+			<string>Auto</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -112,11 +101,8 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-
-                                <key>ProxyType</key>
- 			        <string>None</string>
   			        <key>ProxyType</key>
- 			        <string>Manual</string>
+ 			        <string>Auto</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -153,11 +139,8 @@
 			<key>PayloadUUID</key>
 			<string>5D55F259-13FM-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
-			<integer>1</integer>
-                        <key>ProxyType</key>
- 			<string>None</string>
-			<key>ProxyType</key>
-			<string>Manual</string>
+			<integer>1</integer>			<key>ProxyType</key>
+			<string>Auto</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -172,11 +155,8 @@
  				<array>
  				</array>
 
-                                <key>ProxyType</key>
- 			        <string>None</string>
-
   			        <key>ProxyType</key>
- 			        <string>Manual</string>
+ 			        <string>Auto</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -216,11 +196,8 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                        <key>ProxyType</key>
- 	                <string>None</string>
-
 			<key>ProxyType</key>
-			<string>Manual</string>
+			<string>Auto</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -236,11 +213,8 @@
  				<array>
  				</array>
 
-                                <key>ProxyType</key>
- 			        <string>None</string>
-
   			        <key>ProxyType</key>
- 			        <string>Manual</string>
+ 			        <string>Auto</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
