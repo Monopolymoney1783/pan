@@ -8,15 +8,13 @@
 			<key>AutoJoin</key>
 			<true/>
 			<key>CaptiveBypass</key>
-			<true/>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
-			<key>IsHotspot</key>
-			<true/>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
@@ -40,14 +38,11 @@
 
                                 <key>ProxyType</key>
                                 <string>None</string>
-
-                                <key>ProxyCaptiveLoginAllowed</key>
-                                <false/>
-
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
 
  			</dict>
                         <key>SSID_STR</key>
@@ -58,15 +53,13 @@
 			<key>AutoJoin</key>
 			<true/>
 			<key>CaptiveBypass</key>
-			<true/>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
-			<key>IsHotspot</key>
-			<true/>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
@@ -90,14 +83,11 @@
 
                                 <key>ProxyType</key>
                                 <string>None</string>
-
-                                <key>ProxyCaptiveLoginAllowed</key>
-                                <false/>
-
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
 
  			</dict>
 
@@ -109,15 +99,13 @@
 			<key>AutoJoin</key>
 			<true/>
 			<key>CaptiveBypass</key>
-			<true/>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
-			<key>IsHotspot</key>
-			<true/>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
@@ -141,14 +129,11 @@
 
                                 <key>ProxyType</key>
                                 <string>None</string>
-
-                                <key>ProxyCaptiveLoginAllowed</key>
-                                <false/>
-
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
 
  			</dict>
 
@@ -160,15 +145,13 @@
 			<key>AutoJoin</key>
 			<true/>
 			<key>CaptiveBypass</key>
-			<true/>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
-			<key>IsHotspot</key>
-			<true/>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
@@ -192,14 +175,11 @@
 
                                 <key>ProxyType</key>
                                 <string>None</string>
-
-                                <key>ProxyCaptiveLoginAllowed</key>
-                                <false/>
-
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
 
  			</dict>
 
