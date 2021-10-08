@@ -4,6 +4,7 @@
 <dict>
 	<key>PayloadContent</key>
 	<array>
+
 		<dict>
 			<key>AutoJoin</key>
 			<false/>
@@ -12,9 +13,11 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
+			<key>Username</key>
+			<string>Dnsjjsjsjejej$2772727272</string>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
@@ -31,10 +34,6 @@
 			<integer>1</integer>
 			<key>ProxyType</key>
 			<string>Auto</string>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
                         <key>EAPClientConfiguration</key>
@@ -47,13 +46,53 @@
  			        <string>Auto</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
+ 			</dict>
 
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594889</integer>
+                        <key>SSID_STR</key>
+                        <string>ShawGo</string>
+		</dict>
 
+		<dict>
+			<key>AutoJoin</key>
+			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>Username</key>
+			<string>Dnsjjsjsjejej$2772727272</string>
+			<key>Password</key>
+			<string>61002051</string>
+			<key>PayloadDescription</key>
+			<string>配置 Wi-Fi 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.5D55F254-13FE-4F58-AADH-BD0B4C477345</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>5D55F254-13FE-4F58-AADH-BD0B4C477345</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>Auto</string>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
+                        <key>EAPClientConfiguration</key>
+ 			<dict>
 
+                                <key>AcceptEAPTypes</key>
+ 				<array>
+ 				</array>
+  			        <key>ProxyType</key>
+ 			        <string>Auto</string>
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
  			</dict>
 
                         <key>SSID_STR</key>
@@ -68,9 +107,11 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
+			<key>Username</key>
+			<string>Dnsjjsjsjejej$2772727272</string>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
@@ -89,12 +130,6 @@
 			<string>Auto</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594882</integer>
-
                         <key>EAPClientConfiguration</key>
  			<dict>
 
@@ -105,11 +140,53 @@
  			        <string>Auto</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
+ 			</dict>
+                        <key>SSID_STR</key>
+                        <string>ShawOpen</string>
+		</dict>
 
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>59482</integer>
+
+                <dict>
+			<key>AutoJoin</key>
+			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>Username</key>
+			<string>Dnsjjsjsjejej$2772727272</string>
+			<key>Password</key>
+			<string>61002051</string>
+			<key>PayloadDescription</key>
+			<string>配置 Wi-Fi 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>Auto</string>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
+                        <key>EAPClientConfiguration</key>
+ 			<dict>
+
+                                <key>AcceptEAPTypes</key>
+ 				<array>
+ 				</array>
+  			        <key>ProxyType</key>
+ 			        <string>Auto</string>
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
  			</dict>
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
@@ -125,7 +202,9 @@
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
+			<key>Username</key>
+			<string>Dnsjjsjsjejej$2772727272</string>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
@@ -143,11 +222,6 @@
 			<string>Auto</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594992</integer>
                         <key>EAPClientConfiguration</key>
  			<dict>
 
@@ -159,11 +233,6 @@
  			        <string>Auto</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
-
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594</integer>
  			</dict>
 
                         <key>SSID_STR</key>
@@ -181,6 +250,104 @@
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
+			<key>Username</key>
+			<string>Dnsjjsjsjejej$2772727272</string>
+			<key>Password</key>
+			<string>61002051</string>
+			<key>PayloadDescription</key>
+			<string>配置 Wi-Fi 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.5D55F259-13FM-4F56-AADF-BD0B4C477345</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>5D55F259-13FM-4F56-AADF-BD0B4C477345</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>			<key>ProxyType</key>
+			<string>Auto</string>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
+                        <key>EAPClientConfiguration</key>
+ 			<dict>
+
+                                <key>AcceptEAPTypes</key>
+ 				<array>
+ 				</array>
+
+  			        <key>ProxyType</key>
+ 			        <string>Auto</string>
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+ 			</dict>
+
+                        <key>SSID_STR</key>
+                        <string>ShawPasspoint</string>
+		</dict>
+
+<dict>
+			<key>AutoJoin</key>
+			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>None</string>
+			<key>HIDDEN_NETWORK</key>
+			<true/>
+			<key>Username</key>
+			<string>Dnsjjsjsjejej$2772727272</string>
+			<key>Password</key>
+			<string>61002051</string>
+			<key>PayloadDescription</key>
+			<string>配置 Wi-Fi 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.5D55F257-73FE-4F56-AADF-BD0B4C477345</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>5D55F257-73FE-4F56-AADF-BD0B4C477345</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+
+			<key>ProxyType</key>
+			<string>Auto</string>
+                        <key>ProxyCaptiveLoginAllowed</key>
+                        <false/>
+                        <key>EAPClientConfiguration</key>
+ 			<dict>
+
+                                <key>AcceptEAPTypes</key>
+ 				<array>
+ 				</array>
+
+  			        <key>ProxyType</key>
+ 			        <string>Auto</string>
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+ 			</dict>
+
+                        <key>SSID_STR</key>
+                        <string>ShawMobileHotspot</string>
+		</dict>
+
+<dict>
+			<key>AutoJoin</key>
+			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>None</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>Username</key>
+			<string>Dnsjjsjsjejej$2772727272</string>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
@@ -201,11 +368,6 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594</integer>
-
                         <key>EAPClientConfiguration</key>
  			<dict>
 
@@ -217,11 +379,6 @@
  			        <string>Auto</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
-
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594727</integer>
  			</dict>
 
                         <key>SSID_STR</key>
