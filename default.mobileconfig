@@ -16,7 +16,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
-			<true/>
+			<false/>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
@@ -73,7 +73,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
-			<true/>
+			<false/>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
