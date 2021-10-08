@@ -6,9 +6,9 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<true/>
-			<key>CaptiveBypass</key>
 			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -39,9 +39,9 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
-			<key>CaptiveBypass</key>
 			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -72,9 +72,9 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
-			<key>CaptiveBypass</key>
 			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -82,7 +82,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
-			<false/>
+			<true/>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
@@ -105,9 +105,9 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
-			<key>CaptiveBypass</key>
 			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -115,7 +115,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
-			<false/>
+			<true/>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
