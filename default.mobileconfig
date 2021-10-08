@@ -31,12 +31,10 @@
 			<string>5D55F254-13FE-4F58-AADH-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>ProxyType</key>
-			<string>Auto</string>
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
-                        <integer>594</integer>
+                        <integer>594721</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
                         <key>EAPClientConfiguration</key>
@@ -54,7 +52,7 @@
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
-                        <integer>594</integer>
+                        <integer>594723</integer>
 
 
  			</dict>
@@ -90,15 +88,13 @@
 			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>ProxyType</key>
-			<string>Auto</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
-                        <integer>594</integer>
+                        <integer>594727</integer>
 
                         <key>EAPClientConfiguration</key>
  			<dict>
@@ -114,7 +110,7 @@
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
-                        <integer>594</integer>
+                        <integer>594728</integer>
  			</dict>
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
@@ -147,15 +143,13 @@
 			<string>5D55F259-13FM-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>ProxyType</key>
-			<string>Auto</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
-                        <integer>594</integer>
+                        <integer>597374</integer>
                         <key>EAPClientConfiguration</key>
  			<dict>
 
@@ -170,7 +164,7 @@
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
-                        <integer>594</integer>
+                        <integer>594728</integer>
  			</dict>
 
                         <key>SSID_STR</key>
@@ -189,7 +183,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
-			<true/>
+			<false/>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
@@ -204,15 +198,13 @@
 			<string>5D55F257-73FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>ProxyType</key>
-			<string>Auto</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
-                        <integer>594</integer>
+                        <integer>594727</integer>
 
                         <key>EAPClientConfiguration</key>
  			<dict>
@@ -228,11 +220,11 @@
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
-                        <integer>594</integer>
+                        <integer>594526</integer>
  			</dict>
 
                         <key>SSID_STR</key>
-                        <string>ShawPasspoint</string>
+                        <string>ShawMobileHotspot</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
