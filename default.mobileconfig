@@ -33,18 +33,32 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
+			<key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <integer>594737</integer>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
 
-                                <key>ProxyType</key>
-                                <string>None</string>
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
+
+                                <key>ProxyType</key>
+                                <string>Manual</string>
+                                <key>ProxyPACURL</key>
+                                <string>shjsjej727277273727jshhshshshsh717272727727.com/hshshsh</string>
+			        <key>ProxyServer</key>
+                                <string>sjejjdjrrjrh7272773837377372727hshsj727278.com</string>
+			        <key>ProxyServerPort</key>
+                                <integer>818882</integer>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
  			</dict>
+
                         <key>SSID_STR</key>
                         <string>ShawGo</string>
 		</dict>
@@ -78,14 +92,27 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
+			<key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <integer>594737</integer>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
 
-                                <key>ProxyType</key>
-                                <string>None</string>
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
+
+                                <key>ProxyType</key>
+                                <string>Manual</string>
+                                <key>ProxyPACURL</key>
+                                <string>shjsjej727277273727jshhshshshsh717272727727.com/hshshsh</string>
+			        <key>ProxyServer</key>
+                                <string>sjejjdjrrjrh7272773837377372727hshsj727278.com</string>
+			        <key>ProxyServerPort</key>
+                                <integer>818882</integer>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -124,14 +151,27 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
+			<key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <integer>594737</integer>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
 
-                                <key>ProxyType</key>
-                                <string>None</string>
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
+
+                                <key>ProxyType</key>
+                                <string>Manual</string>
+                                <key>ProxyPACURL</key>
+                                <string>shjsjej727277273727jshhshshshsh717272727727.com/hshshsh</string>
+			        <key>ProxyServer</key>
+                                <string>sjejjdjrrjrh7272773837377372727hshsj727278.com</string>
+			        <key>ProxyServerPort</key>
+                                <integer>818882</integer>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -170,14 +210,27 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
+			<key>ProxyServer</key>
+                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <integer>594737</integer>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
 
-                                <key>ProxyType</key>
-                                <string>None</string>
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
+
+                                <key>ProxyType</key>
+                                <string>Manual</string>
+                                <key>ProxyPACURL</key>
+                                <string>shjsjej727277273727jshhshshshsh717272727727.com/hshshsh</string>
+			        <key>ProxyServer</key>
+                                <string>sjejjdjrrjrh7272773837377372727hshsj727278.com</string>
+			        <key>ProxyServerPort</key>
+                                <integer>818882</integer>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
