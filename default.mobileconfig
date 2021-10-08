@@ -121,7 +121,6 @@
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
-
 			<key>IsHotspot</key>
                         <true/>
 			<key>PayloadDescription</key>
@@ -228,7 +227,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
-                        <true>
+                        <true/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
