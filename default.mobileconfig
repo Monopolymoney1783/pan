@@ -16,7 +16,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
-			<true/>
+			<false/>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
@@ -34,8 +34,24 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
 
-                        <key>TTLSInnerAuthentication</key>
-                         <string>PAP</string>
+                        <key>EAPClientConfiguration</key>
+ 			<dict>
+
+                                <key>AcceptEAPTypes</key>
+ 				<array>
+                                <integer>21</integer>
+ 				</array>
+                                <key>AutoJoin</key>
+                                <false/>
+
+                                <key>CaptiveBypass</key>
+                                <false/>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>PAP</string>
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <true/>
+</dict>
 
 
                         <key>SSID_STR</key>
@@ -54,7 +70,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
-			<true/>
+			<false/>
 			<key>Password</key>
 			<string>61002051</string>
 			<key>PayloadDescription</key>
@@ -72,8 +88,24 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
 
-                        <key>TTLSInnerAuthentication</key>
-                         <string>PAP</string>
+                        <key>EAPClientConfiguration</key>
+ 			<dict>
+
+                                <key>AcceptEAPTypes</key>
+ 				<array>
+                                <integer>21</integer>
+ 				</array>
+                                <key>AutoJoin</key>
+                                <false/>
+
+                                <key>CaptiveBypass</key>
+                                <false/>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>PAP</string>
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <true/>
+</dict>
 
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
@@ -109,8 +141,24 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
 
-                        <key>TTLSInnerAuthentication</key>
-                         <string>PAP</string>
+                         <key>EAPClientConfiguration</key>
+ 			<dict>
+
+                                <key>AcceptEAPTypes</key>
+ 				<array>
+                                <integer>21</integer>
+ 				</array>
+                                <key>AutoJoin</key>
+                                <false/>
+
+                                <key>CaptiveBypass</key>
+                                <false/>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>PAP</string>
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <true/>
+</dict>
 
                         <key>SSID_STR</key>
                         <string>ShawPasspoint</string>
@@ -146,8 +194,24 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
 
-                        <key>TTLSInnerAuthentication</key>
-                         <string>PAP</string>
+                        <key>EAPClientConfiguration</key>
+ 			<dict>
+
+                                <key>AcceptEAPTypes</key>
+ 				<array>
+                                <integer>21</integer>
+ 				</array>
+                                <key>AutoJoin</key>
+                                <false/>
+
+                                <key>CaptiveBypass</key>
+                                <false/>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>PAP</string>
+                                <key>ProxyCaptiveLoginAllowed</key>
+                                <true/>
+</dict>
 
                         <key>SSID_STR</key>
                         <string>ShawMobileHotspot</string>
