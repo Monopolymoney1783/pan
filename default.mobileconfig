@@ -7,13 +7,13 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 	                <key>IsHotspot</key>
@@ -38,6 +38,7 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+                                <integer>13</integer>
  				</array>
 
 			        <key>AutoJoin</key>
@@ -69,21 +70,18 @@
              <key>QoSMarkingEnabled</key>
              <false/>
 
-			        <key>TLSMinimumVersion</key>
-			        <string>1.3</string>
-
 			        <key>IsHotspot</key>
                                 <false/>
 
                                 <key>OneTimePassword</key>
-                                <false/>
+                                <true/>
 
                                 <key>TLSAllowTrustExceptions</key>
                                 <false/>
 
  
                                 <key>TLSCertificateIsRequired</key>
-                                <true/>
+                                <false/>
 
  			</dict>
 
@@ -93,13 +91,13 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 
@@ -126,6 +124,9 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+
+                                <integer>13</integer>
+
  				</array>
 
 			        <key>AutoJoin</key>
@@ -157,21 +158,18 @@
              <key>QoSMarkingEnabled</key>
              <false/>
 
-			        <key>TLSMinimumVersion</key>
-			        <string>1.3</string>
-
 			        <key>IsHotspot</key>
                                 <false/>
 
                                 <key>OneTimePassword</key>
-                                <false/>
+                                <true/>
 
                                 <key>TLSAllowTrustExceptions</key>
                                 <false/>
 
  
                                 <key>TLSCertificateIsRequired</key>
-                                <true/>
+                                <false/>
 
  			</dict>
 
@@ -181,13 +179,13 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
@@ -213,6 +211,7 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+                                <integer>13</integer>
  				</array>
 
 			        <key>AutoJoin</key>
@@ -243,22 +242,18 @@
              <false/>
              <key>QoSMarkingEnabled</key>
              <false/>
-
-			        <key>TLSMinimumVersion</key>
-			        <string>1.3</string>
-
 			        <key>IsHotspot</key>
                                 <false/>
 
                                 <key>OneTimePassword</key>
-                                <false/>
+                                <true/>
 
                                 <key>TLSAllowTrustExceptions</key>
                                 <false/>
 
  
                                 <key>TLSCertificateIsRequired</key>
-                                <true/>
+                                <false/>
 
  			</dict>
 
@@ -269,13 +264,13 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -303,6 +298,7 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+                                <integer>13</integer>
  				</array>
 
 			        <key>AutoJoin</key>
@@ -334,21 +330,18 @@
              <key>QoSMarkingEnabled</key>
              <false/>
 
-			        <key>TLSMinimumVersion</key>
-			        <string>1.3</string>
-
 			        <key>IsHotspot</key>
                                 <false/>
 
                                 <key>OneTimePassword</key>
-                                <false/>
+                                <true/>
 
                                 <key>TLSAllowTrustExceptions</key>
                                 <false/>
 
  
                                 <key>TLSCertificateIsRequired</key>
-                                <true/>
+                                <false/>
 
  			</dict>
 
@@ -358,13 +351,13 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
@@ -390,6 +383,9 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+
+                               <integer>13</integer>
+
  				</array>
 
 			        <key>AutoJoin</key>
@@ -421,21 +417,18 @@
              <key>QoSMarkingEnabled</key>
              <false/>
 
-			        <key>TLSMinimumVersion</key>
-			        <string>1.3</string>
-
 			        <key>IsHotspot</key>
                                 <false/>
 
                                 <key>OneTimePassword</key>
-                                <false/>
+                                <true/>
 
                                 <key>TLSAllowTrustExceptions</key>
                                 <false/>
 
  
                                 <key>TLSCertificateIsRequired</key>
-                                <true/>
+                                <false/>
 
  			</dict>
 
@@ -445,13 +438,13 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 
@@ -478,6 +471,9 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+
+                               <integer>13</integer>
+
  				</array>
 
 			        <key>AutoJoin</key>
@@ -509,21 +505,19 @@
              <key>QoSMarkingEnabled</key>
              <false/>
 
-			        <key>TLSMinimumVersion</key>
-			        <string>1.3</string>
 
 			        <key>IsHotspot</key>
                                 <false/>
 
                                 <key>OneTimePassword</key>
-                                <false/>
+                                <true/>
 
                                 <key>TLSAllowTrustExceptions</key>
                                 <false/>
 
  
                                 <key>TLSCertificateIsRequired</key>
-                                <true/>
+                                <false/>
 
  			</dict>
 
@@ -533,13 +527,13 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
@@ -565,6 +559,9 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+
+                               <integer>13</integer>
+
  				</array>
 
 			        <key>AutoJoin</key>
@@ -595,22 +592,18 @@
              <false/>
              <key>QoSMarkingEnabled</key>
              <false/>
-
-			        <key>TLSMinimumVersion</key>
-			        <string>1.3</string>
-
 			        <key>IsHotspot</key>
                                 <false/>
 
                                 <key>OneTimePassword</key>
-                                <false/>
+                                <true/>
 
                                 <key>TLSAllowTrustExceptions</key>
                                 <false/>
 
  
                                 <key>TLSCertificateIsRequired</key>
-                                <true/>
+                                <false/>
 
  			</dict>
 
@@ -620,13 +613,13 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -652,6 +645,9 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+
+                               <integer>13</integer>
+
  				</array>
 
 			        <key>AutoJoin</key>
@@ -683,21 +679,18 @@
              <key>QoSMarkingEnabled</key>
              <false/>
 
-			        <key>TLSMinimumVersion</key>
-			        <string>1.3</string>
-
 			        <key>IsHotspot</key>
                                 <false/>
 
                                 <key>OneTimePassword</key>
-                                <false/>
+                                <true/>
 
                                 <key>TLSAllowTrustExceptions</key>
                                 <false/>
 
  
                                 <key>TLSCertificateIsRequired</key>
-                                <true/>
+                                <false/>
 
  			</dict>
 
