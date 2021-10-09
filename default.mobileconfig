@@ -29,6 +29,8 @@
 			<string>5D55F254-13FE-4F58-AADH-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+                        <key>ProxyType</key>
+                        <string>None</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
    
@@ -61,6 +63,8 @@
 			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+                        <key>ProxyType</key>
+                        <string>None</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
                         <key>SSID_STR</key>
@@ -92,6 +96,8 @@
 			<string>5D55F259-13FM-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+                        <key>ProxyType</key>
+                        <string>None</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
                         <key>SSID_STR</key>
@@ -123,6 +129,8 @@
 			<string>5D55F257-73FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+                        <key>ProxyType</key>
+                        <string>None</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
                         <key>SSID_STR</key>
