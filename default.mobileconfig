@@ -26,7 +26,7 @@
 <key>PayloadDisplayName</key>
 <string>AD Certificate</string>
 	<key>PayloadIdentifier</key>
-	<string>hotspot.wifi.shaw.ca</string>
+	<string>hotspot.wifi.shaw.ca.e0d7b78b-2d7c-4fba-bc82-e25ab61c4b46</string>
         <key>PayloadOrganization</key>
         <string>Shaw Communications Inc.</string> 
 <key>PayloadType</key>
@@ -90,7 +90,7 @@
 			<true/>
 
 	                <key>PayloadIdentifier</key>
-	                <string>hotspot.wifi.shaw.ca</string>
+	                <string>hotspot.wifi.shaw.ca.38861E71-49EE-401E-9828-2C917F4F1DF6</string>
                         <key>PayloadOrganization</key>
                         <string>Shaw Communications Inc.</string>
 
