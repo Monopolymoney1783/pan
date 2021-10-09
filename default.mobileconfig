@@ -43,7 +43,7 @@
                                 <key>AutoJoin</key>
                                 <true/>
                                 <key>TTLSInnerAuthentication</key>
-                                <string>EA</string>
+                                <string>EAP</string>
 
   			        <key>ProxyType</key>
  			        <string>None</string>
@@ -101,7 +101,7 @@
                                 <key>AutoJoin</key>
                                 <true/>
                                 <key>TTLSInnerAuthentication</key>
-                                <string>EA</string>
+                                <string>EAP</string>
 
   			        <key>ProxyType</key>
  			        <string>None</string>
@@ -159,7 +159,7 @@
                                 <key>AutoJoin</key>
                                 <true/>
                                 <key>TTLSInnerAuthentication</key>
-                                <string>EA</string>
+                                <string>EAP</string>
 
   			        <key>ProxyType</key>
  			        <string>None</string>
@@ -218,7 +218,7 @@
                                 <key>AutoJoin</key>
                                 <true/>
                                 <key>TTLSInnerAuthentication</key>
-                                <string>EA</string>
+                                <string>EAP</string>
 
   			        <key>ProxyType</key>
  			        <string>None</string>
