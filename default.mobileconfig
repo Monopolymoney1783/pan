@@ -50,6 +50,17 @@
 			        <key>CaptiveBypass</key>
 			        <true/>
 
+			        <key>SystemModeUseOpenDirectoryCredentials</key>
+			        <false/>
+
+			        <key>SystemModeCredentialsSource</key>
+			        <string></string> 
+
+			        <key>TLSTrustedCertificates</key>
+			        <array>
+                                
+                                </array>
+
 			        <key>OuterIdentity</key>
                                 <string>hsjssjj717172772727277jhshshshshhsh717172</string>
 
