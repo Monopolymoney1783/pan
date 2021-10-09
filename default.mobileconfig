@@ -31,10 +31,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                                <key>TTLSInnerAuthentication</key>
-                                <string>PAP</string>
-
-
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -128,10 +124,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                                <key>TTLSInnerAuthentication</key>
-                                <string>PAP</string>
-
-
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -223,8 +215,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                                <key>TTLSInnerAuthentication</key>
-                                <string>PAP</string>
 
 
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -318,9 +308,6 @@
 			<string>5D55F254-13FE-4F56-AADN-BD0B4C477347</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-
-                                <key>TTLSInnerAuthentication</key>
-                                <string>PAP</string>
 
 
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -416,8 +403,8 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                                <key>TTLSInnerAuthentication</key>
-                                <string>PAP</string>
+                        
+
 
 
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -511,8 +498,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                                <key>TTLSInnerAuthentication</key>
-                                <string>PAP</string>
 
 
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -605,10 +590,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                                <key>TTLSInnerAuthentication</key>
-                                <string>PAP</string>
-
-
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -700,8 +681,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                                <key>TTLSInnerAuthentication</key>
-                                <string>PAP</string>
 
 
                         <key>ProxyCaptiveLoginAllowed</key>
