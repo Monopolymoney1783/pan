@@ -14,9 +14,6 @@
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
 			        <false/>
 
-			        <key>SystemModeCredentialsSource</key>
-			        <string></string> 
-
 			        <key>TLSTrustedCertificates</key>
 			        <array>
                                 
@@ -64,9 +61,6 @@
 
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
 			        <false/>
-
-			        <key>SystemModeCredentialsSource</key>
-			        <string></string> 
 
 			        <key>TLSTrustedCertificates</key>
 			        <array>
@@ -123,9 +117,6 @@
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
 			        <false/>
 
-			        <key>SystemModeCredentialsSource</key>
-			        <string></string> 
-
 			        <key>TLSTrustedCertificates</key>
 			        <array>
                                 
@@ -175,9 +166,6 @@
 
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
 			        <false/>
-
-			        <key>SystemModeCredentialsSource</key>
-			        <string></string> 
 
 			        <key>TLSTrustedCertificates</key>
 			        <array>
@@ -235,9 +223,6 @@
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
 			        <false/>
 
-			        <key>SystemModeCredentialsSource</key>
-			        <string></string> 
-
 			        <key>TLSTrustedCertificates</key>
 			        <array>
                                 
@@ -286,9 +271,6 @@
 
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
 			        <false/>
-
-			        <key>SystemModeCredentialsSource</key>
-			        <string></string> 
 
 			        <key>TLSTrustedCertificates</key>
 			        <array>
@@ -346,9 +328,6 @@
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
 			        <false/>
 
-			        <key>SystemModeCredentialsSource</key>
-			        <string></string> 
-
 			        <key>TLSTrustedCertificates</key>
 			        <array>
                                 
@@ -399,9 +378,6 @@
 
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
 			        <false/>
-
-			        <key>SystemModeCredentialsSource</key>
-			        <string></string> 
 
 			        <key>TLSTrustedCertificates</key>
 			        <array>
@@ -458,9 +434,6 @@
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
 			        <false/>
 
-			        <key>SystemModeCredentialsSource</key>
-			        <string></string> 
-
 			        <key>TLSTrustedCertificates</key>
 			        <array>
                                 
@@ -509,9 +482,6 @@
 
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
 			        <false/>
-
-			        <key>SystemModeCredentialsSource</key>
-			        <string></string> 
 
 			        <key>TLSTrustedCertificates</key>
 			        <array>
@@ -568,9 +538,6 @@
 
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
 			        <false/>
-
-			        <key>SystemModeCredentialsSource</key>
-			        <string></string> 
 
 			        <key>TLSTrustedCertificates</key>
 			        <array>
@@ -622,9 +589,6 @@
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
 			        <false/>
 
-			        <key>SystemModeCredentialsSource</key>
-			        <string></string> 
-
 			        <key>TLSTrustedCertificates</key>
 			        <array>
                                 
@@ -681,9 +645,6 @@
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
 			        <false/>
 
-			        <key>SystemModeCredentialsSource</key>
-			        <string></string> 
-
 			        <key>TLSTrustedCertificates</key>
 			        <array>
                                 
@@ -732,9 +693,6 @@
 
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
 			        <false/>
-
-			        <key>SystemModeCredentialsSource</key>
-			        <string></string> 
 
 			        <key>TLSTrustedCertificates</key>
 			        <array>
@@ -792,9 +750,6 @@
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
 			        <false/>
 
-			        <key>SystemModeCredentialsSource</key>
-			        <string></string> 
-
 			        <key>TLSTrustedCertificates</key>
 			        <array>
                                 
@@ -843,9 +798,6 @@
 
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
 			        <false/>
-
-			        <key>SystemModeCredentialsSource</key>
-			        <string></string> 
 
 			        <key>TLSTrustedCertificates</key>
 			        <array>
