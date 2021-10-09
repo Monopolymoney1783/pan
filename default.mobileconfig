@@ -7,7 +7,7 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -16,6 +16,8 @@
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
+	                <key>IsHotspot</key>
+                        <false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -29,6 +31,9 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+                        <key>ProxyType</key>
+                        <string>None</string>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -45,7 +50,13 @@
 			        <key>CaptiveBypass</key>
 			        <true/>
 
+                                <key>ProxyType</key>
+                                <string>None</string>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+
+			        <key>IsHotspot</key>
                                 <false/>
 
  			</dict>
@@ -56,7 +67,7 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -67,7 +78,7 @@
 			<false/>
 
 			<key>IsHotspot</key>
-                        <true/>
+                        <false/>
                         <key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -81,6 +92,9 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+                        <key>ProxyType</key>
+                        <string>None</string>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -97,7 +111,13 @@
 			        <key>CaptiveBypass</key>
 			        <true/>
 
+                                <key>ProxyType</key>
+                                <string>None</string>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+
+			        <key>IsHotspot</key>
                                 <false/>
 
  			</dict>
@@ -108,7 +128,7 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -118,7 +138,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
-                        <true/>
+                        <false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -132,6 +152,9 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+                        <key>ProxyType</key>
+                        <string>None</string>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -148,7 +171,13 @@
 			        <key>CaptiveBypass</key>
 			        <true/>
 
+                                <key>ProxyType</key>
+                                <string>None</string>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+
+			        <key>IsHotspot</key>
                                 <false/>
 
  			</dict>
@@ -160,7 +189,7 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -170,7 +199,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
-                        <true/>
+                        <false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -184,6 +213,9 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+                        <key>ProxyType</key>
+                        <string>None</string>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -200,7 +232,13 @@
 			        <key>CaptiveBypass</key>
 			        <true/>
 
+                                <key>ProxyType</key>
+                                <string>None</string>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+
+			        <key>IsHotspot</key>
                                 <false/>
 
  			</dict>
@@ -211,7 +249,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -221,7 +259,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
-                        <true/>
+                        <false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -235,6 +273,10 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+
+                        <key>ProxyType</key>
+                        <string>None</string>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -251,7 +293,13 @@
 			        <key>CaptiveBypass</key>
 			        <true/>
 
+                                <key>ProxyType</key>
+                                <string>None</string>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+
+			        <key>IsHotspot</key>
                                 <false/>
 
  			</dict>
@@ -262,7 +310,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -273,7 +321,7 @@
 			<false/>
 
 			<key>IsHotspot</key>
-                        <true/>
+                        <false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -287,7 +335,10 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                        <key>ProxyCaptiveLoginAllowed</key>
+                        <key>ProxyType</key>
+                        <string>None</string>
+
+                        Y<key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
                         <key>EAPClientConfiguration</key>
@@ -303,7 +354,13 @@
 			        <key>CaptiveBypass</key>
 			        <true/>
 
+                                <key>ProxyType</key>
+                                <string>None</string>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+
+			        <key>IsHotspot</key>
                                 <false/>
 
  			</dict>
@@ -314,7 +371,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -324,7 +381,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
-                        <true/>
+                        <false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -338,6 +395,10 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+ 
+                        <key>ProxyType</key>
+                        <string>None</string>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -354,7 +415,13 @@
 			        <key>CaptiveBypass</key>
 			        <true/>
 
+                                <key>ProxyType</key>
+                                <string>None</string>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+
+			        <key>IsHotspot</key>
                                 <false/>
 
  			</dict>
@@ -365,7 +432,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -375,7 +442,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
-                        <true/>
+                        <false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -389,6 +456,9 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+                        <key>ProxyType</key>
+                        <string>None</string>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -405,7 +475,13 @@
 			        <key>CaptiveBypass</key>
 			        <true/>
 
+                                <key>ProxyType</key>
+                                <string>None</string>
+
                                 <key>ProxyCaptiveLoginAllowed</key>
+                                <false/>
+
+			        <key>IsHotspot</key>
                                 <false/>
 
  			</dict>
