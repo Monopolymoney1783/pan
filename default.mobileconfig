@@ -6,6 +6,7 @@
 	<array>
 
 <dict>
+
 <key>AllowAllAppsAccess</key>
 <false/>
 <key>CertServer</key>
@@ -41,6 +42,7 @@
                 <true/>
 
 </dict>
+
 
 		<dict>
 			<key>AutoJoin</key>
