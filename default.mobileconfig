@@ -13,7 +13,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 	                <key>IsHotspot</key>
@@ -108,7 +108,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 
@@ -204,7 +204,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
@@ -300,7 +300,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -397,7 +397,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
@@ -491,7 +491,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 
@@ -586,7 +586,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
@@ -681,7 +681,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
