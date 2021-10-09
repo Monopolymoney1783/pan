@@ -45,7 +45,10 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <true/>
+			        <true/> 
+
+			        <key>ServiceProviderRoamingEnabled</key>
+			        <false/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -121,6 +124,9 @@
 			        <key>DisableAssociationMACRandomization</key>
 			        <false/>
 
+			        <key>ServiceProviderRoamingEnabled</key>
+			        <false/>
+
 			        <key>TLSMinimumVersion</key>
 			        <string>1.3</string>
 
@@ -181,6 +187,9 @@
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
+
+			        <key>ServiceProviderRoamingEnabled</key>
+			        <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
 			        <false/>
@@ -247,6 +256,9 @@
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
+			        <key>ServiceProviderRoamingEnabled</key>
+			        <false/>
+
 			        <key>DisableAssociationMACRandomization</key>
 			        <false/>
 
@@ -310,6 +322,9 @@
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
+
+			        <key>ServiceProviderRoamingEnabled</key>
+			        <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
 			        <false/>
@@ -376,6 +391,9 @@
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
+			        <key>ServiceProviderRoamingEnabled</key>
+			        <false/>
+
 			        <key>DisableAssociationMACRandomization</key>
 			        <false/>
 
@@ -441,6 +459,9 @@
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
+			        <key>ServiceProviderRoamingEnabled</key>
+			        <false/>
+
 			        <key>DisableAssociationMACRandomization</key>
 			        <false/>
 
@@ -504,6 +525,9 @@
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
+
+			        <key>ServiceProviderRoamingEnabled</key>
+			        <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
 			        <false/>
