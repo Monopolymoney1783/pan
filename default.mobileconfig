@@ -41,7 +41,7 @@
                                 <integer>13</integer>
  				</array>
                                 <key>AutoJoin</key>
-                                <true/>
+                                <false/>
                                 <key>TTLSInnerAuthentication</key>
                                 <string>EAP</string>
 
@@ -99,7 +99,7 @@
                                 <integer>13</integer>
  				</array>
                                 <key>AutoJoin</key>
-                                <true/>
+                                <false/>
                                 <key>TTLSInnerAuthentication</key>
                                 <string>EAP</string>
 
@@ -157,7 +157,7 @@
                                 <integer>13</integer>
  				</array>
                                 <key>AutoJoin</key>
-                                <true/>
+                                <false/>
                                 <key>TTLSInnerAuthentication</key>
                                 <string>EAP</string>
 
@@ -208,27 +208,35 @@
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
+
+			<key>ProxyServer</key>
+                        <string>Tsjejjdjrrjrh7272773837377372727hshsj.com</string>
+			<key>ProxyServerPort</key>
+                        <integer>594727</integer>
+
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>13</integer>
- 				</array>
+                                <integer>78</integer>
+      				</array>
                                 <key>AutoJoin</key>
+                                <false/>
+                                <key>CaptiveBypass</key>
                                 <true/>
                                 <key>TTLSInnerAuthentication</key>
                                 <string>EAP</string>
+                                <key>TLSCertificateIsRequired</key>
+                                <true/>
 
-  			        <key>ProxyType</key>
- 			        <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <true/>
 
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
-                        <integer>594</integer>
+                        <integer>594891</integer>
 
 
  			</dict>
