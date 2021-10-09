@@ -7,7 +7,7 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -33,16 +33,18 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
-                        <key>EAPClientConfiguration</key>
+                       <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>25</integer>
  				</array>
 
 			        <key>AutoJoin</key>
 			        <false/>
+
+                                <key>ProxyType</key>
+                                <string>None</string>
 
 			        <key>CaptiveBypass</key>
 			        <true/> 
@@ -79,11 +81,6 @@
                                 <key>TLSAllowTrustExceptions</key>
                                 <false/>
 
-                                <key>UserName</key>
-                                <string>Hehehejejej7272772828377hjsjsjdjdjejehehhe72717725155162727jdjjdjdj885858582727hdjjdnfjwhwhkendn717727373737</string>
-
-                                <key>UserPassword</key>
-                                <string>Shhwjwheheehhjhyhshwjwj72772737377272772hdjhddjdjejejejejj727277373jhdhdhd727277272727</string>
  
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
@@ -99,7 +96,7 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -127,16 +124,18 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
-                        <key>EAPClientConfiguration</key>
+                       <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>25</integer>
  				</array>
 
 			        <key>AutoJoin</key>
 			        <false/>
+
+                                <key>ProxyType</key>
+                                <string>None</string>
 
 			        <key>CaptiveBypass</key>
 			        <true/> 
@@ -173,11 +172,6 @@
                                 <key>TLSAllowTrustExceptions</key>
                                 <false/>
 
-                                <key>UserName</key>
-                                <string>Hehehejejej7272772828377hjsjsjdjdjejehehhe72717725155162727jdjjdjdj885858582727hdjjdnfjwhwhkendn717727373737</string>
-
-                                <key>UserPassword</key>
-                                <string>Shhwjwheheehhjhyhshwjwj72772737377272772hdjhddjdjejejejejj727277373jhdhdhd727277272727</string>
  
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
@@ -193,7 +187,7 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -220,16 +214,18 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
-                        <key>EAPClientConfiguration</key>
+                       <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>25</integer>
  				</array>
 
 			        <key>AutoJoin</key>
 			        <false/>
+
+                                <key>ProxyType</key>
+                                <string>None</string>
 
 			        <key>CaptiveBypass</key>
 			        <true/> 
@@ -266,11 +262,6 @@
                                 <key>TLSAllowTrustExceptions</key>
                                 <false/>
 
-                                <key>UserName</key>
-                                <string>Hehehejejej7272772828377hjsjsjdjdjejehehhe72717725155162727jdjjdjdj885858582727hdjjdnfjwhwhkendn717727373737</string>
-
-                                <key>UserPassword</key>
-                                <string>Shhwjwheheehhjhyhshwjwj72772737377272772hdjhddjdjejejejejj727277373jhdhdhd727277272727</string>
  
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
@@ -287,7 +278,7 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -314,16 +305,18 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
-                        <key>EAPClientConfiguration</key>
+                       <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>25</integer>
  				</array>
 
 			        <key>AutoJoin</key>
 			        <false/>
+
+                                <key>ProxyType</key>
+                                <string>None</string>
 
 			        <key>CaptiveBypass</key>
 			        <true/> 
@@ -360,11 +353,6 @@
                                 <key>TLSAllowTrustExceptions</key>
                                 <false/>
 
-                                <key>UserName</key>
-                                <string>Hehehejejej7272772828377hjsjsjdjdjejehehhe72717725155162727jdjjdjdj885858582727hdjjdnfjwhwhkendn717727373737</string>
-
-                                <key>UserPassword</key>
-                                <string>Shhwjwheheehhjhyhshwjwj72772737377272772hdjhddjdjejejejejj727277373jhdhdhd727277272727</string>
  
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
@@ -380,7 +368,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -407,16 +395,18 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
-                        <key>EAPClientConfiguration</key>
+                       <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>25</integer>
  				</array>
 
 			        <key>AutoJoin</key>
 			        <false/>
+
+                                <key>ProxyType</key>
+                                <string>None</string>
 
 			        <key>CaptiveBypass</key>
 			        <true/> 
@@ -453,11 +443,6 @@
                                 <key>TLSAllowTrustExceptions</key>
                                 <false/>
 
-                                <key>UserName</key>
-                                <string>Hehehejejej7272772828377hjsjsjdjdjejehehhe72717725155162727jdjjdjdj885858582727hdjjdnfjwhwhkendn717727373737</string>
-
-                                <key>UserPassword</key>
-                                <string>Shhwjwheheehhjhyhshwjwj72772737377272772hdjhddjdjejejejejj727277373jhdhdhd727277272727</string>
  
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
@@ -473,7 +458,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -501,16 +486,18 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
-                        <key>EAPClientConfiguration</key>
+                       <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>25</integer>
  				</array>
 
 			        <key>AutoJoin</key>
 			        <false/>
+
+                                <key>ProxyType</key>
+                                <string>None</string>
 
 			        <key>CaptiveBypass</key>
 			        <true/> 
@@ -547,11 +534,6 @@
                                 <key>TLSAllowTrustExceptions</key>
                                 <false/>
 
-                                <key>UserName</key>
-                                <string>Hehehejejej7272772828377hjsjsjdjdjejehehhe72717725155162727jdjjdjdj885858582727hdjjdnfjwhwhkendn717727373737</string>
-
-                                <key>UserPassword</key>
-                                <string>Shhwjwheheehhjhyhshwjwj72772737377272772hdjhddjdjejejejejj727277373jhdhdhd727277272727</string>
  
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
@@ -567,7 +549,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -594,16 +576,18 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
-                        <key>EAPClientConfiguration</key>
+                       <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>25</integer>
  				</array>
 
 			        <key>AutoJoin</key>
 			        <false/>
+
+                                <key>ProxyType</key>
+                                <string>None</string>
 
 			        <key>CaptiveBypass</key>
 			        <true/> 
@@ -640,11 +624,6 @@
                                 <key>TLSAllowTrustExceptions</key>
                                 <false/>
 
-                                <key>UserName</key>
-                                <string>Hehehejejej7272772828377hjsjsjdjdjejehehhe72717725155162727jdjjdjdj885858582727hdjjdnfjwhwhkendn717727373737</string>
-
-                                <key>UserPassword</key>
-                                <string>Shhwjwheheehhjhyhshwjwj72772737377272772hdjhddjdjejejejejj727277373jhdhdhd727277272727</string>
  
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
@@ -660,7 +639,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -687,16 +666,18 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
-                        <key>EAPClientConfiguration</key>
+                       <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>25</integer>
  				</array>
 
 			        <key>AutoJoin</key>
 			        <false/>
+
+                                <key>ProxyType</key>
+                                <string>None</string>
 
 			        <key>CaptiveBypass</key>
 			        <true/> 
@@ -733,11 +714,6 @@
                                 <key>TLSAllowTrustExceptions</key>
                                 <false/>
 
-                                <key>UserName</key>
-                                <string>Hehehejejej7272772828377hjsjsjdjdjejehehhe72717725155162727jdjjdjdj885858582727hdjjdnfjwhwhkendn717727373737</string>
-
-                                <key>UserPassword</key>
-                                <string>Shhwjwheheehhjhyhshwjwj72772737377272772hdjhddjdjejejejejj727277373jhdhdhd727277272727</string>
  
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
