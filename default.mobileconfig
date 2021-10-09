@@ -6,7 +6,7 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
@@ -41,7 +41,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
@@ -75,7 +75,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
@@ -109,7 +109,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
