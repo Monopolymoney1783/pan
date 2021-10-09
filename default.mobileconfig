@@ -6,6 +6,11 @@
 	<array>
 
 <dict>
+
+<key>PayloadContent</key>
+<array>
+<dict>
+
 <key>AllowAllAppsAccess</key>
 <false/>
 <key>CertServer</key>
@@ -40,6 +45,8 @@
                 <key>deleted</key>
                 <true/>
 
+</dict>
+</array>
 </dict>
 
 		<dict>
