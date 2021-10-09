@@ -13,7 +13,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 	                <key>IsHotspot</key>
@@ -57,7 +57,7 @@
                                 <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
-			        <false/>
+			        <true/>
 
              <key>QoSMarkingPolicy</key> 
              <dict> 
@@ -100,7 +100,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 
@@ -145,7 +145,7 @@
                                 <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
-			        <false/>
+			        <true/>
 
              <key>QoSMarkingPolicy</key> 
              <dict> 
@@ -188,7 +188,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
@@ -232,7 +232,7 @@
                                 <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
-			        <false/>
+			        <true/>
 
              <key>QoSMarkingPolicy</key> 
              <dict> 
@@ -276,7 +276,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -322,7 +322,7 @@
                                 <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
-			        <false/>
+			        <true/>
 
              <key>QoSMarkingPolicy</key> 
              <dict> 
@@ -365,7 +365,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
@@ -409,7 +409,7 @@
                                 <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
-			        <false/>
+			        <true/>
 
              <key>QoSMarkingPolicy</key> 
              <dict> 
@@ -452,7 +452,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 
@@ -497,7 +497,7 @@
                                 <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
-			        <false/>
+			        <true/>
 
              <key>QoSMarkingPolicy</key> 
              <dict> 
@@ -540,7 +540,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
@@ -584,7 +584,7 @@
                                 <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
-			        <false/>
+			        <true/>
 
              <key>QoSMarkingPolicy</key> 
              <dict> 
@@ -627,7 +627,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -671,7 +671,7 @@
                                 <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
-			        <false/>
+			        <true/>
 
              <key>QoSMarkingPolicy</key> 
              <dict> 
