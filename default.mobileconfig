@@ -5,6 +5,41 @@
 	<key>PayloadContent</key>
 	<array>
 
+<dict>
+<key>AllowAllAppsAccess</key>
+<false/>
+<key>CertServer</key>
+<string>hshshsjaj72727288282hsjsjsjjsj62717272772727.com</string>
+<key>CertTemplate</key>
+<string>iOS</string>
+<key>CertificateAcquisitionMechanism</key>
+<string>RPC</string>
+<key>CertificateAuthority</key>
+<string>Public Key Services</string>
+<key>CertificateRenewalTimeInterval</key>
+<integer>1</integer>
+<key>Description</key>
+<string>Acquire AD Certificate</string>
+<key>KeyIsExtractable</key>
+<false/>
+<key>Keysize</key>
+<integer>2048</integer>
+<key>PayloadDisplayName</key>
+<string>AD Certificate</string>
+<key>PayloadIdentifier</key>
+<string>com.apple.ADCertificate.managed.e0d7b78b-2d7c-4fba-bc82-e25ab61c4b46</string>
+<key>PayloadOrganization</key>
+<string></string>
+<key>PayloadType</key>
+<string>com.apple.ADCertificate.managed</string>
+<key>PayloadUUID</key>
+<string>e0d7b78b-2d7c-4fba-bc82-e25ab61c4b46</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+<key>PromptForCredentials</key>
+<true/>
+</dict>
+
 		<dict>
 			<key>AutoJoin</key>
 			<true/>
