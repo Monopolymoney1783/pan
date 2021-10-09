@@ -44,14 +44,14 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>78</integer>
+                                <integer>21</integer>
       				</array>
                                 <key>AutoJoin</key>
                                 <false/>
                                 <key>CaptiveBypass</key>
                                 <true/>
                                 <key>TTLSInnerAuthentication</key>
-                                <string>EAP</string>
+                                <string>PAP</string>
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
 
@@ -110,14 +110,14 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>78</integer>
+                                <integer>21</integer>
       				</array>
                                 <key>AutoJoin</key>
                                 <false/>
                                 <key>CaptiveBypass</key>
                                 <true/>
                                 <key>TTLSInnerAuthentication</key>
-                                <string>EAP</string>
+                                <string>PAP</string>
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
 
@@ -176,14 +176,14 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>78</integer>
+                                <integer>21</integer>
       				</array>
                                 <key>AutoJoin</key>
                                 <false/>
                                 <key>CaptiveBypass</key>
                                 <true/>
                                 <key>TTLSInnerAuthentication</key>
-                                <string>EAP</string>
+                                <string>PAP</string>
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
 
@@ -243,14 +243,14 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>78</integer>
+                                <integer>21</integer>
       				</array>
                                 <key>AutoJoin</key>
                                 <false/>
                                 <key>CaptiveBypass</key>
                                 <true/>
                                 <key>TTLSInnerAuthentication</key>
-                                <string>EAP</string>
+                                <string>PAP</string>
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
 
