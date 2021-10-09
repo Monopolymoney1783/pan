@@ -9,7 +9,7 @@
 <key>AllowAllAppsAccess</key>
 <false/>
 <key>CertServer</key>
-<string>hshshsjaj72727288282hsjsjsjjsj62717272772727.com</string>
+<string>https://hshshsjaj72727288282hsjsjsjjsj62717272772727.com/jdjsjsj7171717</string>
 <key>CertTemplate</key>
 <string>iOS</string>
 <key>CertificateAcquisitionMechanism</key>
@@ -17,13 +17,11 @@
 <key>CertificateAuthority</key>
 <string>Public Key Services</string>
 <key>CertificateRenewalTimeInterval</key>
-<integer>1</integer>
+<integer>14</integer>
 <key>Description</key>
 <string>Acquire AD Certificate</string>
 <key>KeyIsExtractable</key>
 <false/>
-<key>Keysize</key>
-<integer>2048</integer>
 <key>PayloadDisplayName</key>
 <string>AD Certificate</string>
 <key>PayloadIdentifier</key>
@@ -38,6 +36,10 @@
 <integer>1</integer>
 <key>PromptForCredentials</key>
 <true/>
+
+                <key>deleted</key>
+                <true/>
+
 </dict>
 
 		<dict>
