@@ -7,9 +7,9 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
 			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -30,10 +30,6 @@
 			<string>5D55F254-13FE-4F58-AADH-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-
-                        <key>ProxyType</key>
-                        <string>None</string>
-
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -48,7 +44,7 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <true/>
+			        <false/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -67,9 +63,9 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
 			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -92,9 +88,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                        <key>ProxyType</key>
-                        <string>None</string>
-
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -109,7 +102,7 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <true/>
+			        <false/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -128,9 +121,9 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
 			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -152,9 +145,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                        <key>ProxyType</key>
-                        <string>None</string>
-
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -169,7 +159,7 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <true/>
+			        <false/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -189,9 +179,9 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
 			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -213,9 +203,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                        <key>ProxyType</key>
-                        <string>None</string>
-
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -230,7 +217,7 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <true/>
+			        <false/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -249,9 +236,9 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
 			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -273,10 +260,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-
-                        <key>ProxyType</key>
-                        <string>None</string>
-
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -291,7 +274,7 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <true/>
+			        <false/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -310,9 +293,9 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
 			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -335,9 +318,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                        <key>ProxyType</key>
-                        <string>None</string>
-
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -352,7 +332,7 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <true/>
+			        <false/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -371,9 +351,9 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
 			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -395,10 +375,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
- 
-                        <key>ProxyType</key>
-                        <string>None</string>
-
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -413,7 +389,7 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <true/>
+			        <false/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -432,9 +408,9 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
 			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -456,9 +432,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                        <key>ProxyType</key>
-                        <string>None</string>
-
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -473,7 +446,7 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <true/>
+			        <false/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
