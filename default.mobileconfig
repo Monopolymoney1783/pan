@@ -31,6 +31,10 @@
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
+
+                        <key>TTLSInnerAuthentication</key>
+                        <string>EAP</string>
+
    
                         <key>SSID_STR</key>
                         <string>ShawGo</string>
@@ -63,6 +67,10 @@
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
+
+                        <key>TTLSInnerAuthentication</key>
+                        <string>EAP</string>
+
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
 		</dict>
@@ -94,6 +102,10 @@
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
+
+                        <key>TTLSInnerAuthentication</key>
+                        <string>EAP</string>
+
                         <key>SSID_STR</key>
                         <string>ShawPasspoint</string>
 		</dict>
@@ -125,6 +137,10 @@
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
+
+                        <key>TTLSInnerAuthentication</key>
+                        <string>EAP</string>
+
                         <key>SSID_STR</key>
                         <string>ShawMobileHotspot</string>
 		</dict>
