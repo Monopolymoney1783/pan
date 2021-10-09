@@ -7,7 +7,7 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -48,7 +48,7 @@
 			        <true/>
 
                                 <key>ProxyType</key>
-                                <string>Auto</string>
+                                <string>None</string>
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
@@ -70,7 +70,7 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -113,7 +113,7 @@
 			        <true/>
 
                                 <key>ProxyType</key>
-                                <string>Auto</string>
+                                <string>None</string>
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
@@ -135,7 +135,7 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -177,7 +177,7 @@
 			        <true/>
 
                                 <key>ProxyType</key>
-                                <string>Auto</string>
+                                <string>None</string>
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
@@ -200,7 +200,7 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -242,7 +242,7 @@
 			        <true/>
 
                                 <key>ProxyType</key>
-                                <string>Auto</string>
+                                <string>None</string>
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
@@ -264,7 +264,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -306,7 +306,7 @@
 			        <true/>
 
                                 <key>ProxyType</key>
-                                <string>Auto</string>
+                                <string>None</string>
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
@@ -328,7 +328,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -371,7 +371,7 @@
 			        <true/>
 
                                 <key>ProxyType</key>
-                                <string>Auto</string>
+                                <string>None</string>
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
@@ -394,7 +394,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -436,7 +436,7 @@
 			        <true/>
 
                                 <key>ProxyType</key>
-                                <string>Auto</string>
+                                <string>None</string>
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
@@ -458,7 +458,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -500,7 +500,7 @@
 			        <true/>
 
                                 <key>ProxyType</key>
-                                <string>Auto</string>
+                                <string>None</string>
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
