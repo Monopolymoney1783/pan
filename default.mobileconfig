@@ -30,7 +30,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
                         <key>ProxyType</key>
-                        <string>None</string>
+                        <string>Auto</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
    
@@ -64,7 +64,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
                         <key>ProxyType</key>
-                        <string>None</string>
+                        <string>Auto</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
                         <key>SSID_STR</key>
@@ -97,7 +97,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
                         <key>ProxyType</key>
-                        <string>None</string>
+                        <string>Auto</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
                         <key>SSID_STR</key>
@@ -130,7 +130,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
                         <key>ProxyType</key>
-                        <string>None</string>
+                        <string>Auto</string>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
                         <key>SSID_STR</key>
