@@ -25,10 +25,10 @@
 <false/>
 <key>PayloadDisplayName</key>
 <string>AD Certificate</string>
-<key>PayloadIdentifier</key>
-<string>com.apple.ADCertificate.managed</string>
-<key>PayloadOrganization</key>
-<string></string>
+	<key>PayloadIdentifier</key>
+	<string>hotspot.wifi.shaw.ca</string>
+        <key>PayloadOrganization</key>
+        <string>Shaw Communications Inc.</string> 
 <key>PayloadType</key>
 <string>com.apple.ADCertificate.managed</string>
 <key>PayloadUUID</key>
@@ -88,8 +88,12 @@
 			<string>Federal Common Policy CA</string>
 			<key>PayloadEnabled</key>
 			<true/>
-			<key>PayloadIdentifier</key>
-			<string>38861E71-49EE-401E-9828-2C917F4F1DF6</string>
+
+	                <key>PayloadIdentifier</key>
+	                <string>hotspot.wifi.shaw.ca</string>
+                        <key>PayloadOrganization</key>
+                        <string>Shaw Communications Inc.</string>
+
 			<key>PayloadType</key>
 			<string>com.apple.security.root</string>
 			<key>PayloadUUID</key>
@@ -119,7 +123,7 @@
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
-			<string>Wi-Fi</string>
+			<string>ShawGo</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.wifi.managed.5D55F254-13FE-4F58-AADH-BD0B4C477345</string>
 			<key>PayloadType</key>
@@ -213,7 +217,7 @@
                         <key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
-			<string>Wi-Fi</string>
+			<string>ShawGo</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.wifi.managed.5D55F254-13FM-4F57-AADJ-BD0B4C477345</string>
 			<key>PayloadType</key>
@@ -304,7 +308,7 @@
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
-			<string>Wi-Fi</string>
+			<string>ShawOpen</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.wifi.managed.5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadType</key>
@@ -398,7 +402,7 @@
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
-			<string>Wi-Fi</string>
+			<string>ShawOpen</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.wifi.managed.5D55F254-13FE-4F56-AADN-BD0B4C477347</string>
 			<key>PayloadType</key>
@@ -492,7 +496,7 @@
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
-			<string>Wi-Fi</string>
+			<string>ShawPasspoint</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.wifi.managed.5D55F259-13FM-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadType</key>
@@ -587,7 +591,7 @@
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
-			<string>Wi-Fi</string>
+			<string>ShawPasspoint</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.wifi.managed.5D55F25T-13FM-4F56-AADB-BD0B4C477345</string>
 			<key>PayloadType</key>
@@ -679,7 +683,7 @@
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
-			<string>Wi-Fi</string>
+			<string>ShawMobileHotspot</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.wifi.managed.5D55F257-73FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadType</key>
@@ -770,7 +774,7 @@
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
-			<string>Wi-Fi</string>
+			<string>ShawMobileHotspot</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.wifi.managed.5D55F257-73FR-4F52-AADF-BD0B4C477345</string>
 			<key>PayloadType</key>
@@ -850,8 +854,10 @@
 	<key>PayloadDisplayName</key>
 	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
-	<string>wudeiMac.BC9F759D-DB99-4123-8605-68C1EB0DBFAF</string>
-	<key>PayloadRemovalDisallowed</key>
+	<string>hotspot.wifi.shaw.ca</string>
+        <key>PayloadOrganization</key>
+        <string>Shaw Communications Inc.</string>
+        <key>PayloadRemovalDisallowed</key>
 	<false/>
 
         <key>ConsentText</key>
