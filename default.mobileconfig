@@ -338,7 +338,7 @@
                         <key>ProxyType</key>
                         <string>None</string>
 
-                        Y<key>ProxyCaptiveLoginAllowed</key>
+                        <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
                         <key>EAPClientConfiguration</key>
