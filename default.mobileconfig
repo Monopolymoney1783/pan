@@ -30,6 +30,10 @@
 			<string>5D55F254-13FE-4F58-AADH-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>CHAP</string>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -123,6 +127,10 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+                                <key>TTLSInnerAuthentication</key>
+                                <string>CHAP</string>
+
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -213,6 +221,10 @@
 			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>CHAP</string>
+
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
@@ -305,6 +317,10 @@
 			<string>5D55F254-13FE-4F56-AADN-BD0B4C477347</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>CHAP</string>
+
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
@@ -399,6 +415,10 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+                                <key>TTLSInnerAuthentication</key>
+                                <string>CHAP</string>
+
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -490,6 +510,10 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+                                <key>TTLSInnerAuthentication</key>
+                                <string>CHAP</string>
+
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -579,6 +603,10 @@
 			<string>5D55F257-73FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>CHAP</string>
+
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
@@ -670,6 +698,10 @@
 			<string>5D55F257-73FR-4F52-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>CHAP</string>
+
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
