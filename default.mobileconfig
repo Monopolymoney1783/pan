@@ -32,7 +32,7 @@
 			<integer>1</integer>
 
                                 <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
+                                <string>PAP</string>
 
 
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -92,7 +92,7 @@
                                 <true/>
 
                                 <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
+                                <string>PAP</string>
 
 
  			</dict>
@@ -129,7 +129,7 @@
 			<integer>1</integer>
 
                                 <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
+                                <string>PAP</string>
 
 
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -188,7 +188,7 @@
                                 <true/>
 
                                 <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
+                                <string>PAP</string>
 
 
  			</dict>
@@ -224,7 +224,7 @@
 			<integer>1</integer>
 
                                 <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
+                                <string>PAP</string>
 
 
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -283,7 +283,7 @@
                                 <true/>
 
                                 <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
+                                <string>PAP</string>
 
 
  			</dict>
@@ -320,7 +320,7 @@
 			<integer>1</integer>
 
                                 <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
+                                <string>PAP</string>
 
 
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -381,7 +381,7 @@
                                 <true/>
 
                                 <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
+                                <string>PAP</string>
 
 
  			</dict>
@@ -417,7 +417,7 @@
 			<integer>1</integer>
 
                                 <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
+                                <string>PAP</string>
 
 
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -475,7 +475,7 @@
                                 <true/>
 
                                 <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
+                                <string>PAP</string>
 
 
  			</dict>
@@ -512,7 +512,7 @@
 			<integer>1</integer>
 
                                 <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
+                                <string>PAP</string>
 
 
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -571,7 +571,7 @@
                                 <true/>
 
                                 <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
+                                <string>PAP</string>
 
  			</dict>
 
@@ -606,7 +606,7 @@
 			<integer>1</integer>
 
                                 <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
+                                <string>PAP</string>
 
 
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -665,7 +665,7 @@
                                 <true/>
 
                                 <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
+                                <string>PAP</string>
 
 
  			</dict>
@@ -701,7 +701,7 @@
 			<integer>1</integer>
 
                                 <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
+                                <string>PAP</string>
 
 
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -760,7 +760,7 @@
                                 <true/>
 
                                 <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
+                                <string>PAP</string>
 
 
  			</dict>
