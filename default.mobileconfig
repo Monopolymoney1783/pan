@@ -7,13 +7,13 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 	                <key>IsHotspot</key>
@@ -30,9 +30,6 @@
 			<string>5D55F254-13FE-4F58-AADH-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-
-                                <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
@@ -102,13 +99,13 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 
@@ -126,9 +123,6 @@
 			<string>5D55F254-13FM-4F57-AADJ-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-
-                                <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
 
 
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -198,13 +192,13 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
@@ -221,10 +215,6 @@
 			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-
-                                <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
-
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
@@ -294,13 +284,13 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -317,9 +307,6 @@
 			<string>5D55F254-13FE-4F56-AADN-BD0B4C477347</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-
-                                <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
 
 
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -391,13 +378,13 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
@@ -414,10 +401,6 @@
 			<string>5D55F259-13FM-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-
-                                <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
-
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
@@ -485,13 +468,13 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 
@@ -510,10 +493,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                                <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
-
-
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
 
@@ -580,13 +559,13 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
@@ -603,10 +582,6 @@
 			<string>5D55F257-73FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-
-                                <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
-
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
@@ -675,13 +650,13 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -698,9 +673,6 @@
 			<string>5D55F257-73FR-4F52-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-
-                                <key>TTLSInnerAuthentication</key>
-                                <string>CHAP</string>
 
 
                         <key>ProxyCaptiveLoginAllowed</key>
