@@ -24,11 +24,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
+			<string>com.apple.wifi.managed.5D55F258-13FE-4F56-AADU-BD0B4C477345</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
+			<string>5D55F258-13FE-4F56-AADU-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -59,11 +59,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
+			<string>com.apple.wifi.managed.5D55F256-13FO-4F51-AADF-BD0B4C477345</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
+			<string>5D55F256-13FO-4F51-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -93,11 +93,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
+			<string>com.apple.wifi.managed.5D55F254-13FE-4G56-AADF-BD0B4C477348</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
+			<string>5D55F254-13FE-4G56-AADF-BD0B4C477348</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
@@ -127,11 +127,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
+			<string>com.apple.wifi.managed.5D55F254-13FE-4F66-AJDF-BD0B4C477345</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
+			<string>5D55F254-13FE-4F66-AJDF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
