@@ -32,7 +32,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+                        <true/>
                         <key>SSID_STR</key>
                         <string>ShawGo</string>
 		</dict>
@@ -65,7 +65,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+                        <true/>
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
 		</dict>
@@ -98,7 +98,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+                        <true/>
                         <key>SSID_STR</key>
                         <string>ShawPasspoint</string>
 		</dict>
@@ -131,7 +131,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
-                        <false/>
+                        <true/>
                         <key>SSID_STR</key>
                         <string>ShawMobileHotspot</string>
 		</dict>
