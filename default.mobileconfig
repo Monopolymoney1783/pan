@@ -34,17 +34,12 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
 
-			<key>ProxyServer</key>
-                        <string>Tsjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594727</integer>
-
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>21</integer>
+                                <integer>43</integer>
       				</array>
                                 <key>AutoJoin</key>
                                 <false/>
@@ -57,13 +52,6 @@
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <true/>
-
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594891</integer>
-
-
  			</dict>
 
                         <key>SSID_STR</key>
@@ -100,17 +88,12 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
 
-			<key>ProxyServer</key>
-                        <string>Tsjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594727</integer>
-
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>21</integer>
+                                <integer>43</integer>
       				</array>
                                 <key>AutoJoin</key>
                                 <false/>
@@ -123,13 +106,6 @@
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <true/>
-
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594891</integer>
-
-
  			</dict>
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
@@ -166,17 +142,12 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
 
-			<key>ProxyServer</key>
-                        <string>Tsjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594727</integer>
-
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>21</integer>
+                                <integer>43</integer>
       				</array>
                                 <key>AutoJoin</key>
                                 <false/>
@@ -189,13 +160,6 @@
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <true/>
-
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594891</integer>
-
-
  			</dict>
 
                         <key>SSID_STR</key>
@@ -232,18 +196,12 @@
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
-
-			<key>ProxyServer</key>
-                        <string>Tsjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594727</integer>
-
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-                                <integer>21</integer>
+                                <integer>43</integer>
       				</array>
                                 <key>AutoJoin</key>
                                 <false/>
@@ -256,13 +214,6 @@
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <true/>
-
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594891</integer>
-
-
  			</dict>
 
                         <key>SSID_STR</key>
