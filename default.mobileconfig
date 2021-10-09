@@ -7,7 +7,7 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -30,6 +30,10 @@
 			<string>5D55F254-13FE-4F58-AADH-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>PAP</string>
+
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
@@ -99,7 +103,7 @@
 
 		<dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -108,6 +112,10 @@
 			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>PAP</string>
+
 
 			<key>IsHotspot</key>
                         <false/>
@@ -191,7 +199,7 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -200,6 +208,10 @@
 			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>PAP</string>
+
 			<key>IsHotspot</key>
                         <false/>
 			<key>PayloadDescription</key>
@@ -285,7 +297,7 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -294,6 +306,10 @@
 			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>PAP</string>
+
 			<key>IsHotspot</key>
                         <false/>
 			<key>PayloadDescription</key>
@@ -379,7 +395,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -388,6 +404,10 @@
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>PAP</string>
+
 			<key>IsHotspot</key>
                         <false/>
 			<key>PayloadDescription</key>
@@ -473,7 +493,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -482,6 +502,9 @@
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>PAP</string>
 
 			<key>IsHotspot</key>
                         <false/>
@@ -566,7 +589,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -575,6 +598,10 @@
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>PAP</string>
+
 			<key>IsHotspot</key>
                         <false/>
 			<key>PayloadDescription</key>
@@ -657,7 +684,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -668,6 +695,10 @@
 			<false/>
 			<key>IsHotspot</key>
                         <false/>
+
+                                <key>TTLSInnerAuthentication</key>
+                                <string>PAP</string>
+
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
