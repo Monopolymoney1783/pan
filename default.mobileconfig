@@ -2,6 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+        <key>PayloadExpirationDate<
 	<key>PayloadContent</key>
 	<array>
 
@@ -42,6 +43,9 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
+
+			        <key>CaptiveBypass</key>
+			        <true/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -105,6 +109,9 @@
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
+			        <key>CaptiveBypass</key>
+			        <true/>
+
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
@@ -155,6 +162,10 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
+
+			        <key>CaptiveBypass</key>
+			        <true/>
+
                                 <key>ProxyType</key>
                                 <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
@@ -210,6 +221,10 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
+
+			        <key>CaptiveBypass</key>
+			        <true/>
+
                                 <key>ProxyType</key>
                                 <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
@@ -263,7 +278,8 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
-                                <key>ProxyType</key>
+			        <key>CaptiveBypass</key>
+			        <true/>			        <key>ProxyType</key>
                                 <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
@@ -319,6 +335,10 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
+
+			<key>CaptiveBypass</key>
+			<true/>
+
                                 <key>ProxyType</key>
                                 <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
@@ -374,6 +394,10 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
+
+			<key>CaptiveBypass</key>
+			<true/>
+
                                 <key>ProxyType</key>
                                 <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
@@ -429,6 +453,10 @@
                                 <key>AcceptEAPTypes</key>
  				<array>
  				</array>
+
+			<key>CaptiveBypass</key>
+			<true/>
+
                                 <key>ProxyType</key>
                                 <string>None</string>
                                 <key>ProxyCaptiveLoginAllowed</key>
