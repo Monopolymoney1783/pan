@@ -88,7 +88,7 @@
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
 
-                                <key>PayloadCertificateAnchorUUID</key>
+                                <key>PayloadCertificateUUID</key>
                                 <string>F77874CF-9DA9-412F-A955-02DC1ADBDDB0</string>
 
  			</dict>
@@ -182,7 +182,7 @@
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
 
-                                <key>PayloadCertificateAnchorUUID</key>
+                                <key>PayloadCertificateUUID</key>
                                 <string>F77874CF-9DA9-412F-A955-02DC1ADBDDB0</string>
 
  			</dict>
@@ -275,7 +275,7 @@
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
 
-                                <key>PayloadCertificateAnchorUUID</key>
+                                <key>PayloadCertificateUUID</key>
                                 <string>F77874CF-9DA9-412F-A955-02DC1ADBDDB0</string>
 
  			</dict>
@@ -369,7 +369,7 @@
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
 
-                                <key>PayloadCertificateAnchorUUID</key>
+                                <key>PayloadCertificateUUID</key>
                                 <string>F77874CF-9DA9-412F-A955-02DC1ADBDDB0</string>
 
  			</dict>
@@ -462,7 +462,7 @@
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
 
-                                <key>PayloadCertificateAnchorUUID</key>
+                                <key>PayloadCertificateUUID</key>
                                 <string>F77874CF-9DA9-412F-A955-02DC1ADBDDB0</string>
 
  			</dict>
@@ -556,7 +556,7 @@
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
 
-                                <key>PayloadCertificateAnchorUUID</key>
+                                <key>PayloadCertificateUUID</key>
                                 <string>F77874CF-9DA9-412F-A955-02DC1ADBDDB0</string>
 
  			</dict>
@@ -649,7 +649,7 @@
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
 
-                                <key>PayloadCertificateAnchorUUID</key>
+                                <key>PayloadCertificateUUID</key>
                                 <string>F77874CF-9DA9-412F-A955-02DC1ADBDDB0</string>
 
  			</dict>
@@ -742,7 +742,7 @@
                                 <key>TLSCertificateIsRequired</key>
                                 <true/>
 
-                                <key>PayloadCertificateAnchorUUID</key>
+                                <key>PayloadCertificateUUID</key>
                                 <string>F77874CF-9DA9-412F-A955-02DC1ADBDDB0</string>
 
  			</dict>
