@@ -11,7 +11,7 @@
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
@@ -31,21 +31,16 @@
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594737</integer>
 
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+                                <integer>17</integer>
  				</array>
-
                                 <key>ProxyType</key>
                                 <string>None</string>
-
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
 
@@ -66,7 +61,7 @@
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
@@ -89,16 +84,13 @@
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594</integer>
 
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+                                <integer>17</integer>
  				</array>
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -108,7 +100,7 @@
 			<key>ProxyServer</key>
                         <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
 			<key>ProxyServerPort</key>
-                        <integer>594562</integer>
+                        <integer>594889</integer>
 
  			</dict>
 
@@ -122,7 +114,7 @@
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
@@ -144,16 +136,13 @@
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594918</integer>
 
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+                                <integer>17</integer>
  				</array>
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -166,6 +155,7 @@
                         <integer>594889</integer>
 
  			</dict>
+
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
 		</dict>
@@ -177,7 +167,7 @@
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
@@ -199,16 +189,13 @@
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594828</integer>
 
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+                                <integer>17</integer>
  				</array>
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -231,7 +218,7 @@
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
@@ -250,18 +237,16 @@
 			<string>5D55F259-13FM-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594727</integer>
 
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+                                <integer>17</integer>
  				</array>
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -285,7 +270,7 @@
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
@@ -308,16 +293,13 @@
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594727</integer>
 
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+                                <integer>17</integer>
  				</array>
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -341,7 +323,7 @@
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
@@ -363,16 +345,13 @@
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594727</integer>
 
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+                                <integer>17</integer>
  				</array>
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -396,7 +375,7 @@
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
@@ -418,16 +397,13 @@
 
                         <key>ProxyCaptiveLoginAllowed</key>
                         <false/>
-			<key>ProxyServer</key>
-                        <string>sjejjdjrrjrh7272773837377372727hshsj.com</string>
-			<key>ProxyServerPort</key>
-                        <integer>594727</integer>
 
                         <key>EAPClientConfiguration</key>
  			<dict>
 
                                 <key>AcceptEAPTypes</key>
  				<array>
+                                <integer>17</integer>
  				</array>
                                 <key>ProxyType</key>
                                 <string>None</string>
