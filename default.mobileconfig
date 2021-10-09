@@ -11,10 +11,8 @@
 			<key>CaptiveBypass</key>
 			<true/>
 
-			        <key>TLSTrustedCertificates</key>
-			        <array>
-                                
-                                </array>
+			        <key>SystemModeUseOpenDirectoryCredentials</key>
+			        <true/>
 
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
@@ -57,7 +55,7 @@
 			        <true/>
 
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
-			        <true/>
+			        <false/>
 
 			        <key>OuterIdentity</key>
                                 <string>hsjssjj717172772727277jhshshshshhsh717172</string>
@@ -106,10 +104,8 @@
 			<key>CaptiveBypass</key>
 			<true/>
 
-			        <key>TLSTrustedCertificates</key>
-			        <array>
-                                
-                                </array>
+			        <key>SystemModeUseOpenDirectoryCredentials</key>
+			        <true/>
 
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
@@ -154,7 +150,7 @@
 			        <true/>
 
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
-			        <true/>
+			        <false/>
 
 			        <key>OuterIdentity</key>
                                 <string>hsjssjj717172772727277jhshshshshhsh717172</string>
@@ -203,12 +199,8 @@
 			<key>CaptiveBypass</key>
 			<true/>
 
-			        <key>TLSTrustedCertificates</key>
-			        <array>
-                                
-                                </array>
-
-			<key>DisableAssociationMACRandomization</key>
+			        <key>SystemModeUseOpenDirectoryCredentials</key>
+			        <true/>			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
 			<string>None</string>
@@ -250,7 +242,7 @@
 			        <true/>
 
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
-			        <true/>
+			        <false/>
 
 			        <key>OuterIdentity</key>
                                 <string>hsjssjj717172772727277jhshshshshhsh717172</string>
@@ -300,10 +292,8 @@
 			<key>CaptiveBypass</key>
 			<true/>
 
-			        <key>TLSTrustedCertificates</key>
-			        <array>
-                                
-                                </array>
+			        <key>SystemModeUseOpenDirectoryCredentials</key>
+			        <true/>
 
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
@@ -349,7 +339,7 @@
 			        <true/>
 
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
-			        <true/>
+			        <false/>
 
 			        <key>OuterIdentity</key>
                                 <string>hsjssjj717172772727277jhshshshshhsh717172</string>
@@ -398,10 +388,8 @@
 			<key>CaptiveBypass</key>
 			<true/>
 
-			        <key>TLSTrustedCertificates</key>
-			        <array>
-                                
-                                </array>
+			        <key>SystemModeUseOpenDirectoryCredentials</key>
+			        <true/>
 
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
@@ -445,7 +433,7 @@
 			        <true/>
 
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
-			        <true/>
+			        <false/>
 
 			        <key>OuterIdentity</key>
                                 <string>hsjssjj717172772727277jhshshshshhsh717172</string>
@@ -493,10 +481,9 @@
 			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
-			        <key>TLSTrustedCertificates</key>
-			        <array>
-                                
-                                </array>
+
+			        <key>SystemModeUseOpenDirectoryCredentials</key>
+			        <true/>
 
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
@@ -541,7 +528,7 @@
 			        <true/>
 
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
-			        <true/>
+			        <false/>
 
 			        <key>OuterIdentity</key>
                                 <string>hsjssjj717172772727277jhshshshshhsh717172</string>
@@ -590,10 +577,8 @@
 			<key>CaptiveBypass</key>
 			<true/>
 
-			        <key>TLSTrustedCertificates</key>
-			        <array>
-                                
-                                </array>
+			        <key>SystemModeUseOpenDirectoryCredentials</key>
+			        <true/>
 
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
@@ -637,7 +622,7 @@
 			        <true/>
 
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
-			        <true/>
+			        <false/>
 
 			        <key>OuterIdentity</key>
                                 <string>hsjssjj717172772727277jhshshshshhsh717172</string>
@@ -686,10 +671,8 @@
 			<key>CaptiveBypass</key>
 			<true/>
 
-			        <key>TLSTrustedCertificates</key>
-			        <array>
-                                
-                                </array>
+			        <key>SystemModeUseOpenDirectoryCredentials</key>
+			        <true/>
 
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
@@ -733,7 +716,7 @@
 			        <true/>
 
 			        <key>SystemModeUseOpenDirectoryCredentials</key>
-			        <true/>
+			        <false/>
 
 			        <key>OuterIdentity</key>
                                 <string>hsjssjj717172772727277jhshshshshhsh717172</string>
