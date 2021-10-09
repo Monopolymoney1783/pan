@@ -44,7 +44,7 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <false/>
+			        <true/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -102,7 +102,7 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <false/>
+			        <true/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -159,7 +159,7 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <false/>
+			        <true/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -217,7 +217,7 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <false/>
+			        <true/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -274,7 +274,7 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <false/>
+			        <true/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
@@ -332,13 +332,16 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <false/>
+			        <true/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
+
+			        <key>DisableAssociationMACRandomization</key>
+			        <false/>
 
 			        <key>IsHotspot</key>
                                 <false/>
@@ -353,11 +356,11 @@
 			<key>AutoJoin</key>
 			<true/>
 			<key>CaptiveBypass</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
@@ -389,13 +392,16 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <false/>
+			        <true/>
 
                                 <key>ProxyType</key>
                                 <string>None</string>
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
+
+			        <key>DisableAssociationMACRandomization</key>
+			        <false/>
 
 			        <key>IsHotspot</key>
                                 <false/>
@@ -410,11 +416,11 @@
 			<key>AutoJoin</key>
 			<true/>
 			<key>CaptiveBypass</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -446,13 +452,20 @@
 			        <false/>
 
 			        <key>CaptiveBypass</key>
-			        <false/>
+			        <true/>
 
                                 <key>ProxyType</key>
-                                <string>None</string>
+                                <string>Auto</string>
 
                                 <key>ProxyCaptiveLoginAllowed</key>
                                 <false/>
+
+			        <key>DisableAssociationMACRandomization</key>
+			        <false/>
+
+			        <key>TLSMinimumVersion</key>
+			        <string>1.3</string>
+
 
 			        <key>IsHotspot</key>
                                 <false/>
