@@ -11,11 +11,13 @@
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
+			<key>IsHotspot</key>
+                        <false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -61,14 +63,14 @@
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 
 			<key>IsHotspot</key>
-                        <true/>
+                        <false/>
                         <key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -114,13 +116,13 @@
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
-                        <true/>
+                        <false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -167,13 +169,13 @@
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
-                        <true/>
+                        <false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -218,13 +220,13 @@
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
-                        <true/>
+                        <false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -270,14 +272,14 @@
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 
 			<key>IsHotspot</key>
-                        <true/>
+                        <false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -323,13 +325,13 @@
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
 			<key>IsHotspot</key>
-                        <true/>
+                        <false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -375,13 +377,13 @@
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
-                        <true/>
+                        <false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
