@@ -48,7 +48,10 @@
                                 <string>None</string>
 
 			        <key>CaptiveBypass</key>
-			        <true/> 
+			        <true/>
+
+			        <key>OuterIdentity</key>
+                                <string>hsjssjj717172772727277jhshshshshhsh717172</string>
 
 			        <key>ServiceProviderRoamingEnabled</key>
 			        <false/>
@@ -57,7 +60,7 @@
                                 <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
-			        <true/>
+			        <false/>
 
              <key>QoSMarkingPolicy</key> 
              <dict> 
@@ -69,7 +72,6 @@
              <false/>
              <key>QoSMarkingEnabled</key>
              <false/>
-
 			        <key>IsHotspot</key>
                                 <false/>
 
@@ -81,7 +83,7 @@
 
  
                                 <key>TLSCertificateIsRequired</key>
-                                <false/>
+                                <true/>
 
  			</dict>
 
@@ -124,9 +126,7 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-
                                 <integer>13</integer>
-
  				</array>
 
 			        <key>AutoJoin</key>
@@ -136,7 +136,10 @@
                                 <string>None</string>
 
 			        <key>CaptiveBypass</key>
-			        <true/> 
+			        <true/>
+
+			        <key>OuterIdentity</key>
+                                <string>hsjssjj717172772727277jhshshshshhsh717172</string>
 
 			        <key>ServiceProviderRoamingEnabled</key>
 			        <false/>
@@ -145,7 +148,7 @@
                                 <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
-			        <true/>
+			        <false/>
 
              <key>QoSMarkingPolicy</key> 
              <dict> 
@@ -157,7 +160,6 @@
              <false/>
              <key>QoSMarkingEnabled</key>
              <false/>
-
 			        <key>IsHotspot</key>
                                 <false/>
 
@@ -169,7 +171,7 @@
 
  
                                 <key>TLSCertificateIsRequired</key>
-                                <false/>
+                                <true/>
 
  			</dict>
 
@@ -221,7 +223,10 @@
                                 <string>None</string>
 
 			        <key>CaptiveBypass</key>
-			        <true/> 
+			        <true/>
+
+			        <key>OuterIdentity</key>
+                                <string>hsjssjj717172772727277jhshshshshhsh717172</string>
 
 			        <key>ServiceProviderRoamingEnabled</key>
 			        <false/>
@@ -230,7 +235,7 @@
                                 <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
-			        <true/>
+			        <false/>
 
              <key>QoSMarkingPolicy</key> 
              <dict> 
@@ -253,7 +258,7 @@
 
  
                                 <key>TLSCertificateIsRequired</key>
-                                <false/>
+                                <true/>
 
  			</dict>
 
@@ -308,7 +313,10 @@
                                 <string>None</string>
 
 			        <key>CaptiveBypass</key>
-			        <true/> 
+			        <true/>
+
+			        <key>OuterIdentity</key>
+                                <string>hsjssjj717172772727277jhshshshshhsh717172</string>
 
 			        <key>ServiceProviderRoamingEnabled</key>
 			        <false/>
@@ -317,7 +325,7 @@
                                 <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
-			        <true/>
+			        <false/>
 
              <key>QoSMarkingPolicy</key> 
              <dict> 
@@ -329,7 +337,6 @@
              <false/>
              <key>QoSMarkingEnabled</key>
              <false/>
-
 			        <key>IsHotspot</key>
                                 <false/>
 
@@ -341,7 +348,7 @@
 
  
                                 <key>TLSCertificateIsRequired</key>
-                                <false/>
+                                <true/>
 
  			</dict>
 
@@ -383,9 +390,7 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-
-                               <integer>13</integer>
-
+                                <integer>13</integer>
  				</array>
 
 			        <key>AutoJoin</key>
@@ -395,7 +400,10 @@
                                 <string>None</string>
 
 			        <key>CaptiveBypass</key>
-			        <true/> 
+			        <true/>
+
+			        <key>OuterIdentity</key>
+                                <string>hsjssjj717172772727277jhshshshshhsh717172</string>
 
 			        <key>ServiceProviderRoamingEnabled</key>
 			        <false/>
@@ -404,7 +412,7 @@
                                 <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
-			        <true/>
+			        <false/>
 
              <key>QoSMarkingPolicy</key> 
              <dict> 
@@ -416,7 +424,6 @@
              <false/>
              <key>QoSMarkingEnabled</key>
              <false/>
-
 			        <key>IsHotspot</key>
                                 <false/>
 
@@ -428,7 +435,7 @@
 
  
                                 <key>TLSCertificateIsRequired</key>
-                                <false/>
+                                <true/>
 
  			</dict>
 
@@ -471,9 +478,7 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-
-                               <integer>13</integer>
-
+                                <integer>13</integer>
  				</array>
 
 			        <key>AutoJoin</key>
@@ -483,7 +488,10 @@
                                 <string>None</string>
 
 			        <key>CaptiveBypass</key>
-			        <true/> 
+			        <true/>
+
+			        <key>OuterIdentity</key>
+                                <string>hsjssjj717172772727277jhshshshshhsh717172</string>
 
 			        <key>ServiceProviderRoamingEnabled</key>
 			        <false/>
@@ -492,7 +500,7 @@
                                 <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
-			        <true/>
+			        <false/>
 
              <key>QoSMarkingPolicy</key> 
              <dict> 
@@ -504,8 +512,6 @@
              <false/>
              <key>QoSMarkingEnabled</key>
              <false/>
-
-
 			        <key>IsHotspot</key>
                                 <false/>
 
@@ -517,7 +523,7 @@
 
  
                                 <key>TLSCertificateIsRequired</key>
-                                <false/>
+                                <true/>
 
  			</dict>
 
@@ -559,9 +565,7 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-
-                               <integer>13</integer>
-
+                                <integer>13</integer>
  				</array>
 
 			        <key>AutoJoin</key>
@@ -571,7 +575,10 @@
                                 <string>None</string>
 
 			        <key>CaptiveBypass</key>
-			        <true/> 
+			        <true/>
+
+			        <key>OuterIdentity</key>
+                                <string>hsjssjj717172772727277jhshshshshhsh717172</string>
 
 			        <key>ServiceProviderRoamingEnabled</key>
 			        <false/>
@@ -580,7 +587,7 @@
                                 <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
-			        <true/>
+			        <false/>
 
              <key>QoSMarkingPolicy</key> 
              <dict> 
@@ -603,7 +610,7 @@
 
  
                                 <key>TLSCertificateIsRequired</key>
-                                <false/>
+                                <true/>
 
  			</dict>
 
@@ -645,9 +652,7 @@
 
                                 <key>AcceptEAPTypes</key>
  				<array>
-
-                               <integer>13</integer>
-
+                                <integer>13</integer>
  				</array>
 
 			        <key>AutoJoin</key>
@@ -657,7 +662,10 @@
                                 <string>None</string>
 
 			        <key>CaptiveBypass</key>
-			        <true/> 
+			        <true/>
+
+			        <key>OuterIdentity</key>
+                                <string>hsjssjj717172772727277jhshshshshhsh717172</string>
 
 			        <key>ServiceProviderRoamingEnabled</key>
 			        <false/>
@@ -666,7 +674,7 @@
                                 <false/>
 
 			        <key>DisableAssociationMACRandomization</key>
-			        <true/>
+			        <false/>
 
              <key>QoSMarkingPolicy</key> 
              <dict> 
@@ -678,7 +686,6 @@
              <false/>
              <key>QoSMarkingEnabled</key>
              <false/>
-
 			        <key>IsHotspot</key>
                                 <false/>
 
@@ -690,7 +697,7 @@
 
  
                                 <key>TLSCertificateIsRequired</key>
-                                <false/>
+                                <true/>
 
  			</dict>
 
