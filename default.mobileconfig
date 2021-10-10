@@ -37,7 +37,7 @@
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <false/>
+                                 <true/>
 
                                  <key>TTLSInnerAuthentication</key>
                                  <string>PAP</string>
@@ -52,7 +52,7 @@
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <false/>
+                                 <true/>
 
                                  <key>TTLSInnerAuthentication</key>
                                  <string>PAP</string>
@@ -108,7 +108,7 @@
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <false/>
+                                 <true/>
 
                                  <key>TTLSInnerAuthentication</key>
                                  <string>PAP</string>
@@ -122,7 +122,7 @@
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <false/>
+                                 <true/>
 
                                  <key>TTLSInnerAuthentication</key>
                                  <string>PAP</string>
