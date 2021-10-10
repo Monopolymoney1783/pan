@@ -37,6 +37,7 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
+                                 <integer>23</integer>
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
@@ -51,6 +52,9 @@
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <true/>
                         </dict>
+
+                                 <key>EAPSIMAKAConservativePeer</key>
+                                 <false/>
 
    
                         <key>SSID_STR</key>
