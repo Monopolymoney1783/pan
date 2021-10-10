@@ -31,6 +31,28 @@
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
+
+                       <key>EAPClientConfiguration</key>
+  			<dict>
+
+                                 <key>AcceptEAPTypes</key>
+  				 <array>
+                                 <integer>23</integer>
+       				 </array>
+
+                                 <key>TTLSInnerAuthentication</key>
+                                 <string>CHAP</string>
+
+                                 <key>AutoJoin</key>
+                                 <true/>
+
+                                 <key>AutoJoin</key>
+                                 <false/>
+
+                                 <key>ProxyCaptiveLoginAllowed</key>
+                                 <true/>
+                        </dict>
+
    
                         <key>SSID_STR</key>
                         <string>ShawGo</string>
@@ -63,6 +85,28 @@
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
+
+                       <key>EAPClientConfiguration</key>
+  			<dict>
+
+                                 <key>AcceptEAPTypes</key>
+  				 <array>
+                                 <integer>23</integer>
+       				 </array>
+
+                                 <key>TTLSInnerAuthentication</key>
+                                 <string>CHAP</string>
+
+                                 <key>AutoJoin</key>
+                                 <true/>
+
+                                 <key>AutoJoin</key>
+                                 <false/>
+
+                                 <key>ProxyCaptiveLoginAllowed</key>
+                                 <true/>
+                        </dict>
+
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
 		</dict>
@@ -75,7 +119,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>WPA2</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -100,21 +144,21 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
-                                 <integer>21</integer>
+                                 <integer>23</integer>
        				 </array>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>PAP</string>
+                                 <string>CHAP</string>
 
                                  <key>AutoJoin</key>
                                  <true/>
+
+                                 <key>AutoJoin</key>
+                                 <false/>
 
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <true/>
                         </dict>
-
-                                 <key>AutoJoin</key>
-                                 <false/>
 
                         <key>SSID_STR</key>
                         <string>ShawPasspoint</string>
@@ -128,7 +172,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>WPA2</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -153,21 +197,21 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
-                                 <integer>21</integer>
+                                 <integer>23</integer>
        				 </array>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>PAP</string>
+                                 <string>CHAP</string>
 
                                  <key>AutoJoin</key>
                                  <true/>
+
+                                 <key>AutoJoin</key>
+                                 <false/>
 
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <true/>
                         </dict>
-
-                                 <key>AutoJoin</key>
-                                 <false/>
 
                         <key>SSID_STR</key>
                         <string>ShawMobileHotspot</string>
