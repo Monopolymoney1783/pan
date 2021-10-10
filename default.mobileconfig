@@ -43,14 +43,15 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
+                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>240000</integer>
+
+
                                  <key>TTLSInnerAuthentication</key>
                                  <string>PAP</string>
 
                                  <key>AutoJoin</key>
                                  <true/>
-
-                                 <key>AutoJoin</key>
-                                 <false/>
 
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <true/>
@@ -100,14 +101,16 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
+                               <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>240000</integer>
+
+
                                  <key>TTLSInnerAuthentication</key>
                                  <string>PAP</string>
 
                                  <key>AutoJoin</key>
                                  <true/>
 
-                                 <key>AutoJoin</key>
-                                 <false/>
 
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <true/>
@@ -156,14 +159,15 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
+                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>240000</integer>
+			
+
                                  <key>TTLSInnerAuthentication</key>
                                  <string>PAP</string>
 
                                  <key>AutoJoin</key>
                                  <true/>
-
-                                 <key>AutoJoin</key>
-                                 <false/>
 
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <true/>
@@ -211,14 +215,15 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
+                               <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>240000</integer>
+
+
                                  <key>TTLSInnerAuthentication</key>
                                  <string>PAP</string>
 
                                  <key>AutoJoin</key>
                                  <true/>
-
-                                 <key>AutoJoin</key>
-                                 <false/>
 
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <true/>
