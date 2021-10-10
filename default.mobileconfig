@@ -6,7 +6,7 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -35,14 +35,15 @@
                                  <key>AcceptEAPTypes</key>
   				 <array>
 
-           
+                                          <integer>23</integer>
+
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>CHAP</string>
+                                 <string>PAP</string>
 
 
 
@@ -60,7 +61,7 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>EAP</string>
+                                 <string>PAP</string>
 
                                  <key>AutoJoin</key>
                                  <false/>
@@ -79,7 +80,7 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -107,6 +108,8 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
+
+                               <integer>23</integer>
 
        				 </array>
 
@@ -151,7 +154,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -180,7 +183,8 @@
                                  <key>AcceptEAPTypes</key>
   				 <array>
 
-         
+                                        <integer>23</integer>
+
 
        				 </array>
 
@@ -226,7 +230,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -254,6 +258,8 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
+
+                               <integer>23</integer>
 
        				 </array>
 
