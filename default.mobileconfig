@@ -12,7 +12,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -41,7 +41,7 @@
 
 
                                 <key>deleted</key>
-                                 <false/>
+                                 <true/>
 
    
                         <key>SSID_STR</key>
@@ -56,7 +56,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -84,7 +84,7 @@
                                  <true/>
 
                                 <key>deleted</key>
-                                 <false/>
+                                 <true/>
 
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
@@ -98,7 +98,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA2</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -128,7 +128,7 @@
                                  <true/>
 
                                  <key>deleted</key>
-                                 <false/>
+                                 <true/>
 
                         <key>SSID_STR</key>
                         <string>ShawPasspoint</string>
@@ -142,7 +142,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA2</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -171,7 +171,7 @@
                                  <true/>
 
                                  <key>deleted</key>
-                                 <false/>
+                                 <true/>
 
                         <key>SSID_STR</key>
                         <string>ShawMobileHotspot</string>
