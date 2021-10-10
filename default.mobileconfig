@@ -61,7 +61,7 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>CHAP</string>
+                                 <string>EAP</string>
 
                                  <key>AutoJoin</key>
                                  <false/>
@@ -131,7 +131,7 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>CHAP</string>
+                                 <string>EAP</string>
 
                                  <key>AutoJoin</key>
                                  <false/>
@@ -202,7 +202,7 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>CHAP</string>
+                                 <string>EAP</string>
 
                                  <key>AutoJoin</key>
                                  <false/>
@@ -272,7 +272,7 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>CHAP</string>
+                                 <string>EAP</string>
 
                                  <key>AutoJoin</key>
                                  <false/>
