@@ -192,7 +192,7 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>EAP</string>
+                                 <string>PAP</string>
 
 
 
@@ -210,7 +210,7 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>EAP</string>
+                                 <string>PAP</string>
 
                                  <key>AutoJoin</key>
                                  <false/>
@@ -267,7 +267,7 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>EAP</string>
+                                 <string>PAP</string>
 
 
                         <key>EAPClientConfiguration</key>
@@ -284,7 +284,7 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>EAP</string>
+                                 <string>PAP</string>
 
                                  <key>AutoJoin</key>
                                  <false/>
