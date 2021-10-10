@@ -12,7 +12,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -38,13 +38,13 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WEP</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -75,7 +75,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -94,7 +94,7 @@
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
-                        <key>SSID_STR</key>
+                        <key>DomainName</key>
                         <string>ShawPasspoint</string>
 		</dict>
 
@@ -106,7 +106,7 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -125,7 +125,7 @@
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
-                        <key>SSID_STR</key>
+                        <key>DomainName</key>
                         <string>ShawMobileHotspot</string>
 		</dict>
 	</array>
