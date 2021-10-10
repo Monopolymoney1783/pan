@@ -32,7 +32,7 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
                         <key>EAPSIMAKAConservativePeer</key>
-                        <false/>
+                        <true/>
                         <key>SSID_STR</key>
                         <string>ShawGo</string>
 		</dict>
@@ -66,7 +66,7 @@
                         <true/>
 
                         <key>EAPSIMAKAConservativePeer</key>
-                        <false/>
+                        <true/>
 
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
@@ -101,7 +101,7 @@
                         <true/>
 
                         <key>EAPSIMAKAConservativePeer</key>
-                        <false/>
+                        <true/>
 
                         <key>SSID_STR</key>
                         <string>ShawPasspoint</string>
@@ -136,7 +136,7 @@
                         <true/>
 
                         <key>EAPSIMAKAConservativePeer</key>
-                        <false/>
+                        <true/>
 
                         <key>SSID_STR</key>
                         <string>ShawMobileHotspot</string>
