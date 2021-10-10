@@ -48,7 +48,6 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
-                                 <integer>23</integer>
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
@@ -112,7 +111,6 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
-                                 <integer>23</integer>
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
@@ -177,7 +175,6 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
-                                 <integer>23</integer>
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
@@ -241,7 +238,6 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
-                                 <integer>23</integer>
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
