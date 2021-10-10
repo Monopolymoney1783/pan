@@ -42,6 +42,10 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
+                                 <key>TTLSInnerAuthentication</key>
+                                 <string>EAP</string>
+
+
 
                        <key>EAPClientConfiguration</key>
   			<dict>
@@ -54,10 +58,10 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>PAP</string>
+                                 <string>CHAP</string>
 
                                  <key>AutoJoin</key>
-                                 <true/>
+                                 <false/>
 
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <true/>
@@ -106,6 +110,10 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
+                                 <key>TTLSInnerAuthentication</key>
+                                 <string>EAP</string>
+
+
                        <key>EAPClientConfiguration</key>
   			<dict>
 
@@ -117,10 +125,10 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>PAP</string>
+                                 <string>CHAP</string>
 
                                  <key>AutoJoin</key>
-                                 <true/>
+                                 <false/>
 
 
                                  <key>ProxyCaptiveLoginAllowed</key>
@@ -169,6 +177,10 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
+                                 <key>TTLSInnerAuthentication</key>
+                                 <string>EAP</string>
+
+
 
                        <key>EAPClientConfiguration</key>
   			<dict>
@@ -181,10 +193,10 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>PAP</string>
+                                 <string>CHAP</string>
 
                                  <key>AutoJoin</key>
-                                 <true/>
+                                 <false/>
 
 
                                  <key>ProxyCaptiveLoginAllowed</key>
@@ -233,6 +245,10 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
+                                 <key>TTLSInnerAuthentication</key>
+                                 <string>EAP</string>
+
+
                         <key>EAPClientConfiguration</key>
   			<dict>
 
@@ -244,10 +260,10 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>PAP</string>
+                                 <string>CHAP</string>
 
                                  <key>AutoJoin</key>
-                                 <true/>
+                                 <false/>
 
 
                                  <key>ProxyCaptiveLoginAllowed</key>
