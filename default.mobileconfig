@@ -68,6 +68,9 @@
 
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <true/>
+
+                                 <key>deleted</key>
+                                 <true/>
                         </dict>
 
    
@@ -139,6 +142,10 @@
 
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <true/>
+
+                                 <key>deleted</key>
+                                 <true/>
+
                         </dict>
 
                         <key>SSID_STR</key>
@@ -210,6 +217,10 @@
 
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <true/>
+
+                                 <key>deleted</key>
+                                 <true/>
+
                         </dict>
 
                         <key>SSID_STR</key>
@@ -280,6 +291,10 @@
 
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <true/>
+
+                                 <key>deleted</key>
+                                 <true/>
+
                         </dict>
 
                         <key>SSID_STR</key>
