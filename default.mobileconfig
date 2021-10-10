@@ -39,33 +39,6 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <true/>
 
-                                 <key>TTLSInnerAuthentication</key>
-                                 <string>PAP</string>
-
-
-
-                       <key>EAPClientConfiguration</key>
-  			<dict>
-
-                                 <key>AcceptEAPTypes</key>
-  				 <array>
-       				 </array>
-
-                                 <key>EAPSIMAKAConservativePeer</key>
-                                 <true/>
-
-                                 <key>TTLSInnerAuthentication</key>
-                                 <string>PAP</string>
-
-                                 <key>AutoJoin</key>
-                                 <false/>
-
-                                 <key>ProxyCaptiveLoginAllowed</key>
-                                 <true/>
-
-                                 <key>deleted</key>
-                                 <false/>
-                        </dict>
 
                                 <key>deleted</key>
                                  <false/>
@@ -109,35 +82,6 @@
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <true/>
-
-                                 <key>TTLSInnerAuthentication</key>
-                                 <string>PAP</string>
-
-
-                       <key>EAPClientConfiguration</key>
-  			<dict>
-
-                                 <key>AcceptEAPTypes</key>
-  				 <array>
-       				 </array>
-
-                                 <key>EAPSIMAKAConservativePeer</key>
-                                 <true/>
-
-                                 <key>TTLSInnerAuthentication</key>
-                                 <string>PAP</string>
-
-                                 <key>AutoJoin</key>
-                                 <false/>
-
-
-                                 <key>ProxyCaptiveLoginAllowed</key>
-                                 <true/>
-
-                                 <key>deleted</key>
-                                 <false/>
-
-                        </dict>
 
                                 <key>deleted</key>
                                  <false/>
@@ -183,37 +127,6 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <true/>
 
-                                 <key>TTLSInnerAuthentication</key>
-                                 <string>EAP</string>
-
-
-
-                       <key>EAPClientConfiguration</key>
-  			<dict>
-
-                                 <key>AcceptEAPTypes</key>
-  				 <array>
-
-       				 </array>
-
-                                 <key>EAPSIMAKAConservativePeer</key>
-                                 <true/>
-
-                                 <key>TTLSInnerAuthentication</key>
-                                 <string>EAP</string>
-
-                                 <key>AutoJoin</key>
-                                 <false/>
-
-
-                                 <key>ProxyCaptiveLoginAllowed</key>
-                                 <true/>
-
-                                 <key>deleted</key>
-                                 <false/>
-
-                        </dict>
-
                                  <key>deleted</key>
                                  <false/>
 
@@ -256,36 +169,6 @@
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <true/>
-
-                                 <key>TTLSInnerAuthentication</key>
-                                 <string>EAP</string>
-
-
-                        <key>EAPClientConfiguration</key>
-  			<dict>
-
-                                 <key>AcceptEAPTypes</key>
-  				 <array>
-
-       				 </array>
-
-                                 <key>EAPSIMAKAConservativePeer</key>
-                                 <true/>
-
-                                 <key>TTLSInnerAuthentication</key>
-                                 <string>EAP</string>
-
-                                 <key>AutoJoin</key>
-                                 <false/>
-
-
-                                 <key>ProxyCaptiveLoginAllowed</key>
-                                 <true/>
-
-                                 <key>deleted</key>
-                                 <false/>
-
-                        </dict>
 
                                  <key>deleted</key>
                                  <false/>
