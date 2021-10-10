@@ -41,7 +41,7 @@
 
 
                                 <key>deleted</key>
-                                 <false/>
+                                 <true/>
 
    
                         <key>SSID_STR</key>
@@ -84,7 +84,7 @@
                                  <false/>
 
                                 <key>deleted</key>
-                                 <false/>
+                                 <true/>
 
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
@@ -128,7 +128,7 @@
                                  <false/>
 
                                  <key>deleted</key>
-                                 <false/>
+                                 <true/>
 
                         <key>SSID_STR</key>
                         <string>ShawPasspoint</string>
@@ -171,7 +171,7 @@
                                  <false/>
 
                                  <key>deleted</key>
-                                 <false/>
+                                 <true/>
 
                         <key>SSID_STR</key>
                         <string>ShawMobileHotspot</string>
