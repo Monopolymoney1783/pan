@@ -63,7 +63,7 @@
                                  <string>EAP</string>
 
                                  <key>AutoJoin</key>
-                                 <true/>
+                                 <false/>
 
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <true/>
@@ -114,7 +114,7 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>CHAP</string>
+                                 <string>PAP</string>
 
 
                        <key>EAPClientConfiguration</key>
@@ -131,10 +131,10 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>EAP</string>
+                                 <string>PAP</string>
 
                                  <key>AutoJoin</key>
-                                 <true/>
+                                 <false/>
 
 
                                  <key>ProxyCaptiveLoginAllowed</key>
@@ -188,7 +188,7 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>CHAP</string>
+                                 <string>EAP</string>
 
 
 
@@ -209,7 +209,7 @@
                                  <string>EAP</string>
 
                                  <key>AutoJoin</key>
-                                 <true/>
+                                 <false/>
 
 
                                  <key>ProxyCaptiveLoginAllowed</key>
@@ -261,7 +261,7 @@
                                  <false/>
 
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>CHAP</string>
+                                 <string>EAP</string>
 
 
                         <key>EAPClientConfiguration</key>
@@ -281,7 +281,7 @@
                                  <string>EAP</string>
 
                                  <key>AutoJoin</key>
-                                 <true/>
+                                 <false/>
 
 
                                  <key>ProxyCaptiveLoginAllowed</key>
