@@ -94,6 +94,28 @@
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
+
+                       <key>EAPClientConfiguration</key>
+  			<dict>
+
+                                 <key>AcceptEAPTypes</key>
+  				 <array>
+                                 <integer>21</integer>
+       				 </array>
+
+                                 <key>TTLSInnerAuthentication</key>
+                                 <string>PAP</string>
+
+                                 <key>AutoJoin</key>
+                                 <true/>
+
+                                 <key>ProxyCaptiveLoginAllowed</key>
+                                 <true/>
+                        </dict>
+
+                                 <key>AutoJoin</key>
+                                 <false/>
+
                         <key>DomainName</key>
                         <string>ShawPasspoint</string>
 		</dict>
@@ -125,6 +147,28 @@
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
+
+                       <key>EAPClientConfiguration</key>
+  			<dict>
+
+                                 <key>AcceptEAPTypes</key>
+  				 <array>
+                                 <integer>21</integer>
+       				 </array>
+
+                                 <key>TTLSInnerAuthentication</key>
+                                 <string>PAP</string>
+
+                                 <key>AutoJoin</key>
+                                 <true/>
+
+                                 <key>ProxyCaptiveLoginAllowed</key>
+                                 <true/>
+                        </dict>
+
+                                 <key>AutoJoin</key>
+                                 <false/>
+
                         <key>DomainName</key>
                         <string>ShawMobileHotspot</string>
 		</dict>
