@@ -6,7 +6,7 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -51,7 +51,10 @@
                                  <string>PAP</string>
 
                                  <key>AutoJoin</key>
-                                 <true/>
+                                 <false/>
+
+                                 <key>ProxyType</key>
+                                 <string>None</string>
 
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <true/>
@@ -64,7 +67,7 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -109,7 +112,11 @@
                                  <string>PAP</string>
 
                                  <key>AutoJoin</key>
-                                 <true/>
+                                 <false/>
+
+                                 <key>ProxyType</key>
+                                 <string>None</string>
+
 
 
                                  <key>ProxyCaptiveLoginAllowed</key>
@@ -122,7 +129,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -167,7 +174,10 @@
                                  <string>PAP</string>
 
                                  <key>AutoJoin</key>
-                                 <true/>
+                                 <false/>
+
+                                 <key>ProxyType</key>
+                                 <string>None</string>
 
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <true/>
@@ -179,7 +189,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -223,7 +233,11 @@
                                  <string>PAP</string>
 
                                  <key>AutoJoin</key>
-                                 <true/>
+                                 <false/>
+
+                                 <key>ProxyType</key>
+                                 <string>None</string>
+
 
                                  <key>ProxyCaptiveLoginAllowed</key>
                                  <true/>
