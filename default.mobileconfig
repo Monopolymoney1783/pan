@@ -40,8 +40,11 @@
                                  <integer>23</integer>
        				 </array>
 
+                                 <key>EAPSIMAKAConservativePeer</key>
+                                 <false/>
+
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>CHAP</string>
+                                 <string>PAP</string>
 
                                  <key>AutoJoin</key>
                                  <true/>
@@ -94,8 +97,11 @@
                                  <integer>23</integer>
        				 </array>
 
+                                 <key>EAPSIMAKAConservativePeer</key>
+                                 <false/>
+
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>CHAP</string>
+                                 <string>PAP</string>
 
                                  <key>AutoJoin</key>
                                  <true/>
@@ -147,8 +153,11 @@
                                  <integer>23</integer>
        				 </array>
 
+                                 <key>EAPSIMAKAConservativePeer</key>
+                                 <false/>
+
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>CHAP</string>
+                                 <string>PAP</string>
 
                                  <key>AutoJoin</key>
                                  <true/>
@@ -190,9 +199,8 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
                         <key>ProxyCaptiveLoginAllowed</key>
-                        <true/>
-
-                       <key>EAPClientConfiguration</key>
+                        <true/                       
+                        <key>EAPClientConfiguration</key>
   			<dict>
 
                                  <key>AcceptEAPTypes</key>
@@ -200,8 +208,11 @@
                                  <integer>23</integer>
        				 </array>
 
+                                 <key>EAPSIMAKAConservativePeer</key>
+                                 <false/>
+
                                  <key>TTLSInnerAuthentication</key>
-                                 <string>CHAP</string>
+                                 <string>PAP</string>
 
                                  <key>AutoJoin</key>
                                  <true/>
