@@ -6,7 +6,7 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -41,7 +41,7 @@
 
 
                                 <key>deleted</key>
-                                 <true/>
+                                 <false/>
 
    
                         <key>SSID_STR</key>
@@ -50,7 +50,7 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -84,7 +84,7 @@
                                  <false/>
 
                                 <key>deleted</key>
-                                 <true/>
+                                 <false/>
 
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
@@ -92,7 +92,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -128,7 +128,7 @@
                                  <false/>
 
                                  <key>deleted</key>
-                                 <true/>
+                                 <false/>
 
                         <key>SSID_STR</key>
                         <string>ShawPasspoint</string>
@@ -136,7 +136,7 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
@@ -171,7 +171,7 @@
                                  <false/>
 
                                  <key>deleted</key>
-                                 <true/>
+                                 <false/>
 
                         <key>SSID_STR</key>
                         <string>ShawMobileHotspot</string>
