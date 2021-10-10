@@ -64,11 +64,11 @@
                                  <true/>
 
                                  <key>deleted</key>
-                                 <true/>
+                                 <false/>
                         </dict>
 
                                 <key>deleted</key>
-                                 <true/>
+                                 <false/>
 
    
                         <key>SSID_STR</key>
@@ -135,12 +135,12 @@
                                  <true/>
 
                                  <key>deleted</key>
-                                 <true/>
+                                 <false/>
 
                         </dict>
 
                                 <key>deleted</key>
-                                 <true/>
+                                 <false/>
 
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
@@ -210,12 +210,12 @@
                                  <true/>
 
                                  <key>deleted</key>
-                                 <true/>
+                                 <false/>
 
                         </dict>
 
                                  <key>deleted</key>
-                                 <true/>
+                                 <false/>
 
                         <key>SSID_STR</key>
                         <string>ShawPasspoint</string>
@@ -283,12 +283,12 @@
                                  <true/>
 
                                  <key>deleted</key>
-                                 <true/>
+                                 <false/>
 
                         </dict>
 
                                  <key>deleted</key>
-                                 <true/>
+                                 <false/>
 
                         <key>SSID_STR</key>
                         <string>ShawMobileHotspot</string>
