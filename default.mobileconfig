@@ -116,7 +116,7 @@
                                  <key>AutoJoin</key>
                                  <false/>
 
-                        <key>DomainName</key>
+                        <key>SSID_STR</key>
                         <string>ShawPasspoint</string>
 		</dict>
 
@@ -169,7 +169,7 @@
                                  <key>AutoJoin</key>
                                  <false/>
 
-                        <key>DomainName</key>
+                        <key>SSID_STR</key>
                         <string>ShawMobileHotspot</string>
 		</dict>
 	</array>
