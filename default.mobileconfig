@@ -38,7 +38,7 @@
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <true/>
+                                 <false/>
 
                                  <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
@@ -82,7 +82,7 @@
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <true/>
+                                 <false/>
 
                                  <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
@@ -161,7 +161,7 @@
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <true/>
+                                 <false/>
 
                                  <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
@@ -203,7 +203,7 @@
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <true/>
+                                 <false/>
 
                                  <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
@@ -280,7 +280,7 @@
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <true/>
+                                 <false/>
 
                                  <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
@@ -324,7 +324,7 @@
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <true/>
+                                 <false/>
 
                                  <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
@@ -402,7 +402,7 @@
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <true/>
+                                 <false/>
 
                                  <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
@@ -446,7 +446,7 @@
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <true/>
+                                 <false/>
 
                                  <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
