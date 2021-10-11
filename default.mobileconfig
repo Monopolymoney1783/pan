@@ -6,17 +6,17 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA2</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>IsHotspot</key>
-			<false/>
+			<true/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -44,19 +44,19 @@
                                  <false/>
 
                                  <key>EAPSIMAKAIdentityType</key>
-                                 <string>FullAuthentication</string> 
+                                 <string>Permanent</string> 
+
+
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
-                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
+                                 <string>shjsjsjjsehjwwjj72721661172771717277272jsjsjjsjsjs71717</string> 
+                                 <key>EAPSIMAKAOPc</key>
+                                 <data>jajwjwjwjwj718182888199282727272277jsjjsjsjsjejejejj71717282772717282882828281818jsjsjjsjsjjs</data>                               
                                  <key>EAPSIMAKAKi</key>
-                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
-
-                                <key>EAPSIMAKAOPc</key>
-                                <data>jajwjwjwjwj71818288282727272277jsjjsjsjsjejejejj71717282772717282882828281818jsjsjjsjsjjs</data>
-
+                                 <data>hdhejsjejjehehe72727hehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
                                  <key>EAPSIMAKAIMSI</key>
                                  <string>35 683611 256473 4</string> 
                                  <key>EAPSIMAKARealm</key>
-                                 <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
+                                 <string>hdhshshejeheh262777282828282882sjjsjsjsjdjdj72728282828.com</string>
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -82,7 +82,7 @@
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <true/>
+                                 <false/>
 
                                  <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
@@ -94,18 +94,20 @@
                                  <true/>
  
                                  <key>EAPSIMAKAIdentityType</key>
-                                 <string>FullAuthentication</string> 
+                                 <string>Permanent</string> 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
-                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
-                                 <key>EAPSIMAKAOPc</key>
-                                 <data>jajwjwjwjwj71818288282727272277jsjjsjsjsjejejejj71717282772717282882828281818jsjsjjsjsjjs</data>
+                                 <string>shjsjsjjsehjwwj8838j727272771717277272jsjsjjsjsjs71717</string> 
+                                  <key>EAPSIMAKAOPc</key>
+                                 <data>jajwjwjwjwj71817188288282727272277jsjjsjsjsjejejejj71717282772717282882828281818jsjsjjsjsjjs</data>                               
                                  <key>EAPSIMAKAKi</key>
-                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
+                                 <data>hdhejsjejjeh71718ehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
                                  <key>EAPSIMAKAIMSI</key>
                                  <string>35 683611 256473 4</string> 
                                  <key>EAPSIMAKARealm</key>
                                  <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
 
+                                <key>ProxyType</key>
+                                <string>None</string>
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
 
@@ -129,17 +131,17 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA2</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>IsHotspot</key>
-			<false/>
+			<true/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -167,17 +169,19 @@
                                  <false/>
 
                                  <key>EAPSIMAKAIdentityType</key>
-                                 <string>FullAuthentication</string> 
+                                 <string>Permanent</string> 
+
+
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
-                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
+                                 <string>shjsjsjjsehjwwjj72721661172771717277272jsjsjjsjsjs71717</string> 
                                  <key>EAPSIMAKAOPc</key>
-                                 <data>jajwjwjwjwj71818288282727272277jsjjsjsjsjejejejj71717282772717282882828281818jsjsjjsjsjjs</data>
+                                 <data>jajwjwjwjwj718182888199282727272277jsjjsjsjsjejejejj71717282772717282882828281818jsjsjjsjsjjs</data>                               
                                  <key>EAPSIMAKAKi</key>
-                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
+                                 <data>hdhejsjejjehehe72727hehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
                                  <key>EAPSIMAKAIMSI</key>
                                  <string>35 683611 256473 4</string> 
                                  <key>EAPSIMAKARealm</key>
-                                 <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
+                                 <string>hdhshshejeheh262777282828282882sjjsjsjsjdjdj72728282828.com</string>
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -203,7 +207,7 @@
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <true/>
+                                 <false/>
 
                                  <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
@@ -215,18 +219,20 @@
                                  <true/>
  
                                  <key>EAPSIMAKAIdentityType</key>
-                                 <string>FullAuthentication</string> 
+                                 <string>Permanent</string> 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
-                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
-                                 <key>EAPSIMAKAOPc</key>
-                                 <data>jajwjwjwjwj71818288282727272277jsjjsjsjsjejejejj71717282772717282882828281818jsjsjjsjsjjs</data>
+                                 <string>shjsjsjjsehjwwj8838j727272771717277272jsjsjjsjsjs71717</string> 
+                                  <key>EAPSIMAKAOPc</key>
+                                 <data>jajwjwjwjwj71817188288282727272277jsjjsjsjsjejejejj71717282772717282882828281818jsjsjjsjsjjs</data>                               
                                  <key>EAPSIMAKAKi</key>
-                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
+                                 <data>hdhejsjejjeh71718ehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
                                  <key>EAPSIMAKAIMSI</key>
                                  <string>35 683611 256473 4</string> 
                                  <key>EAPSIMAKARealm</key>
                                  <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
 
+                                <key>ProxyType</key>
+                                <string>None</string>
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
 
@@ -249,17 +255,17 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA2</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>IsHotspot</key>
-			<false/>
+			<true/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -277,6 +283,7 @@
 
                                 <key>AcceptEAPTypes</key>
   				 <array>       		
+
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
@@ -285,20 +292,20 @@
                                  <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
 
-                                  <key>EAPSIMAKAIdentityType</key>
-                                 <string>FullAuthentication</string> 
+                                 <key>EAPSIMAKAIdentityType</key>
+                                 <string>Permanent</string> 
+
+
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
-                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
-
+                                 <string>shjsjsjjsehjwwjj72721661172771717277272jsjsjjsjsjs71717</string> 
                                  <key>EAPSIMAKAOPc</key>
-                                 <data>jajwjwjwjwj71818288282727272277jsjjsjsjsjejejejj71717282772717282882828281818jsjsjjsjsjjs</data>
-
+                                 <data>jajwjwjwjwj718182888199282727272277jsjjsjsjsjejejejj71717282772717282882828281818jsjsjjsjsjjs</data>                               
                                  <key>EAPSIMAKAKi</key>
-                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
+                                 <data>hdhejsjejjehehe72727hehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
                                  <key>EAPSIMAKAIMSI</key>
                                  <string>35 683611 256473 4</string> 
                                  <key>EAPSIMAKARealm</key>
-                                 <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
+                                 <string>hdhshshejeheh262777282828282882sjjsjsjsjdjdj72728282828.com</string>
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -324,7 +331,7 @@
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <true/>
+                                 <false/>
 
                                  <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
@@ -335,19 +342,21 @@
                                  <key>CaptiveBypass</key>
                                  <true/>
  
-                                  <key>EAPSIMAKAIdentityType</key>
-                                 <string>FullAuthentication</string> 
+                                 <key>EAPSIMAKAIdentityType</key>
+                                 <string>Permanent</string> 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
-                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
-                                 <key>EAPSIMAKAOPc</key>
-                                 <data>jajwjwjwjwj71818288282727272277jsjjsjsjsjejejejj71717282772717282882828281818jsjsjjsjsjjs</data>
+                                 <string>shjsjsjjsehjwwj8838j727272771717277272jsjsjjsjsjs71717</string> 
+                                  <key>EAPSIMAKAOPc</key>
+                                 <data>jajwjwjwjwj71817188288282727272277jsjjsjsjsjejejejj71717282772717282882828281818jsjsjjsjsjjs</data>                               
                                  <key>EAPSIMAKAKi</key>
-                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
+                                 <data>hdhejsjejjeh71718ehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
                                  <key>EAPSIMAKAIMSI</key>
                                  <string>35 683611 256473 4</string> 
                                  <key>EAPSIMAKARealm</key>
                                  <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
 
+                                <key>ProxyType</key>
+                                <string>None</string>
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
 
@@ -370,17 +379,17 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA2</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>IsHotspot</key>
-			<false/>
+			<true/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -408,19 +417,19 @@
                                  <false/>
 
                                  <key>EAPSIMAKAIdentityType</key>
-                                 <string>FullAuthentication</string> 
+                                 <string>Permanent</string> 
 
 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
-                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
+                                 <string>shjsjsjjsehjwwjj72721661172771717277272jsjsjjsjsjs71717</string> 
                                  <key>EAPSIMAKAOPc</key>
-                                 <data>jajwjwjwjwj71818288282727272277jsjjsjsjsjejejejj71717282772717282882828281818jsjsjjsjsjjs</data>                               
+                                 <data>jajwjwjwjwj718182888199282727272277jsjjsjsjsjejejejj71717282772717282882828281818jsjsjjsjsjjs</data>                               
                                  <key>EAPSIMAKAKi</key>
-                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
+                                 <data>hdhejsjejjehehe72727hehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
                                  <key>EAPSIMAKAIMSI</key>
                                  <string>35 683611 256473 4</string> 
                                  <key>EAPSIMAKARealm</key>
-                                 <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
+                                 <string>hdhshshejeheh262777282828282882sjjsjsjsjdjdj72728282828.com</string>
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -446,7 +455,7 @@
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <true/>
+                                 <false/>
 
                                  <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
@@ -458,19 +467,20 @@
                                  <true/>
  
                                  <key>EAPSIMAKAIdentityType</key>
-                                 <string>FullAuthentication</string> 
+                                 <string>Permanent</string> 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
-                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
+                                 <string>shjsjsjjsehjwwj8838j727272771717277272jsjsjjsjsjs71717</string> 
                                   <key>EAPSIMAKAOPc</key>
-                                 <data>jajwjwjwjwj71818288282727272277jsjjsjsjsjejejejj71717282772717282882828281818jsjsjjsjsjjs</data>                               
+                                 <data>jajwjwjwjwj71817188288282727272277jsjjsjsjsjejejejj71717282772717282882828281818jsjsjjsjsjjs</data>                               
                                  <key>EAPSIMAKAKi</key>
-                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
+                                 <data>hdhejsjejjeh71718ehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
                                  <key>EAPSIMAKAIMSI</key>
                                  <string>35 683611 256473 4</string> 
                                  <key>EAPSIMAKARealm</key>
                                  <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
 
-
+                                <key>ProxyType</key>
+                                <string>None</string>
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
 
