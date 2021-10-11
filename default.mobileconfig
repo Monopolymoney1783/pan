@@ -144,6 +144,9 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
+                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>24000000</integer>
+
                                 <key>EAPFASTUsePAC</key>
                                 <false/>
 
@@ -165,6 +168,21 @@
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
+
+                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>24000000</integer>
+
+                                <key>NAIRealmNames</key>
+				<array>
+                                <string>jdjejsheheh7271727277272377hshhehsjejejejejejejejej.com</string>
+                                </array>
+
+                                <key>MCCAndMNCs</key>
+				<array>
+                                <string>819391</string>
+                                </array> 
+
+
 
                                  <key>AutoJoin</key>
                                  <false/>
@@ -225,6 +243,9 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
+                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>24000000</integer>
+
                                 <key>EAPFASTUsePAC</key>
                                 <false/>
 
@@ -247,8 +268,20 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
-                                 <key>EAPSIMNumberOfRANDs</key>
-                                 <integer>2</integer>
+                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>24000000</integer>
+
+                                <key>NAIRealmNames</key>
+				<array>
+                                <string>jdjejsheheh7271727277272377hshhehsjejejejejejejejej.com</string>
+                                </array>
+
+                                <key>MCCAndMNCs</key>
+				<array>
+                                <string>819391</string>
+                                </array> 
+
+
 
                                  <key>AutoJoin</key>
                                  <false/>
@@ -310,6 +343,9 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
+                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>24000000</integer>
+
                                 <key>EAPFASTUsePAC</key>
                                 <false/>
 
@@ -331,6 +367,21 @@
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
+
+                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>24000000</integer>
+
+                                <key>NAIRealmNames</key>
+				<array>
+                                <string>jdjejsheheh7271727277272377hshhehsjejejejejejejejej.com</string>
+                                </array>
+
+                                <key>MCCAndMNCs</key>
+				<array>
+                                <string>819391</string>
+                                </array> 
+
+
 
                                  <key>AutoJoin</key>
                                  <false/>
