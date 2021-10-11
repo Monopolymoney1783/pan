@@ -48,11 +48,21 @@
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
 
-                                <key>EAPFASTUsePAC</key>
-                                <false/>
-
                                 <key>deleted</key>
                                  <true/>
+
+                               <key>QoSMarkingPolicy</key>
+                                <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                                
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                                </dict>
+
 
                               <key>EAPClientConfiguration</key>
   			      <dict>
@@ -83,12 +93,35 @@
                                 <string>819391</string>
                                 </array> 
 
+                               <key>ServiceProviderRoamingEnabled</key>
+                                 <false/>
+
+                                 <key>IsHotspot</key>
+                                 <false/>
+
+                                <key>EAPSIMNumberOfRANDs</key>
+				<integer>2</integer>
+
+                                <key>EAPFASTUsePAC</key>
+                                <false/>
+
+                                <key>EAPFASTProvisionPAC</key>
+				<false>
+
+                                <key>QoSMarkingPolicy</key>
+                                <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                                
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                                </dict>
 
 
                                  <key>AutoJoin</key>
-                                 <false/>
-
-                                 <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
 
                                  <key>CaptiveBypass</key>
@@ -118,7 +151,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
-			<true/>
+			<false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -150,11 +183,21 @@
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
 
-                                <key>EAPFASTUsePAC</key>
-                                <false/>
-
                                 <key>deleted</key>
                                  <true/>
+
+                               <key>QoSMarkingPolicy</key>
+                                <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                                
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                                </dict>
+
 
                               <key>EAPClientConfiguration</key>
   			      <dict>
@@ -187,6 +230,31 @@
 
                                <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
+
+                                 <key>IsHotspot</key>
+                                 <false/>
+
+                                <key>EAPSIMNumberOfRANDs</key>
+				<integer>2</integer>
+
+                                <key>EAPFASTUsePAC</key>
+                                <false/>
+
+                                <key>EAPFASTProvisionPAC</key>
+				<false>
+
+                                <key>QoSMarkingPolicy</key>
+                                <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                                
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                                </dict>
+
 
                                  <key>AutoJoin</key>
                                  <false/>
@@ -218,7 +286,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
-			<true/>
+			<false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -250,11 +318,21 @@
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
 
-                                <key>EAPFASTUsePAC</key>
-                                <false/>
-
                                 <key>deleted</key>
                                  <true/>
+
+                               <key>QoSMarkingPolicy</key>
+                                <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                                
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                                </dict>
+
 
                               <key>EAPClientConfiguration</key>
   			      <dict>
@@ -287,6 +365,31 @@
 
                                <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
+
+                                 <key>IsHotspot</key>
+                                 <false/>
+
+                                <key>EAPSIMNumberOfRANDs</key>
+				<integer>2</integer>
+
+                                <key>EAPFASTUsePAC</key>
+                                <false/>
+
+                                <key>EAPFASTProvisionPAC</key>
+				<false>
+
+                                <key>QoSMarkingPolicy</key>
+                                <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                                
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                                </dict>
+
 
                                  <key>AutoJoin</key>
                                  <false/>
@@ -351,11 +454,21 @@
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
 
-                                <key>EAPFASTUsePAC</key>
-                                <false/>
-
                                 <key>deleted</key>
                                  <true/>
+
+                               <key>QoSMarkingPolicy</key>
+                                <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                                
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                                </dict>
+
 
                               <key>EAPClientConfiguration</key>
   			      <dict>
@@ -388,6 +501,31 @@
 
                                <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
+
+                                 <key>IsHotspot</key>
+                                 <false/>
+
+                                <key>EAPSIMNumberOfRANDs</key>
+				<integer>2</integer>
+
+                                <key>EAPFASTUsePAC</key>
+                                <false/>
+
+                                <key>EAPFASTProvisionPAC</key>
+				<false>
+
+                                <key>QoSMarkingPolicy</key>
+                                <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                                
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                                </dict>
+
 
                                  <key>AutoJoin</key>
                                  <false/>
