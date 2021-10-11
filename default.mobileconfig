@@ -45,9 +45,6 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
-                                 <key>EAPSIMNumberOfRANDs</key>
-                                 <integer>2</integer>
-
                                 <key>EAPFASTUsePAC</key>
                                 <false/>
 
@@ -69,9 +66,6 @@
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
-
-                                 <key>EAPSIMNumberOfRANDs</key>
-                                 <integer>2</integer>
 
                                  <key>AutoJoin</key>
                                  <false/>
@@ -132,9 +126,6 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
-                                 <key>EAPSIMNumberOfRANDs</key>
-                                 <integer>2</integer>
-
                                 <key>EAPFASTUsePAC</key>
                                 <false/>
 
@@ -156,9 +147,6 @@
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
-
-                                 <key>EAPSIMNumberOfRANDs</key>
-                                 <integer>2</integer>
 
                                  <key>AutoJoin</key>
                                  <false/>
@@ -218,9 +206,6 @@
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
-
-                                 <key>EAPSIMNumberOfRANDs</key>
-                                 <integer>2</integer>
 
                                 <key>EAPFASTUsePAC</key>
                                 <false/>
@@ -307,9 +292,6 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
-                                 <key>EAPSIMNumberOfRANDs</key>
-                                 <integer>2</integer>
-
                                 <key>EAPFASTUsePAC</key>
                                 <false/>
 
@@ -331,9 +313,6 @@
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
-
-                                 <key>EAPSIMNumberOfRANDs</key>
-                                 <integer>2</integer>
 
                                  <key>AutoJoin</key>
                                  <false/>
