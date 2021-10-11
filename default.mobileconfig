@@ -34,12 +34,6 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
-                                 <integer>18</integer>
-                                 <integer>23</integer>
-                                 <integer>43</integer>
-                                 <integer>21</integer>
-                                 <integer>17</integer>
-                                 <integer>13</integer>
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
@@ -47,15 +41,12 @@
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
-
-                                <key>deleted</key>
-                                 <true/>
 
                                <key>QoSMarkingPolicy</key>
                                 <dict>
                                 <key>QoSMarkingWhitelistedAppIdentifiers</key>
                                 <array>
-                                
+                              
                                 </array>
                                 <key>QoSMarkingAppleAudioVideoCalls</key>
                                 <false/>
@@ -64,77 +55,6 @@
                                 </dict>
 
 
-                              <key>EAPClientConfiguration</key>
-  			      <dict>
-
-                                 <key>AcceptEAPTypes</key>
-  				 <array>
-                                 <integer>18</integer>
-                                 <integer>23</integer>
-                                 <integer>43</integer>
-                                 <integer>21</integer>
-                                 <integer>17</integer>
-                                 <integer>13</integer>
-       				 </array>
-
-                                 <key>EAPSIMAKAConservativePeer</key>
-                                 <false/>
-
-                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
-				<integer>24000000</integer>
-
-                                <key>NAIRealmNames</key>
-				<array>
-                                <string>jdjejsheheh7271727277272377hshhehsjejejejejejejejej.com</string>
-                                </array>
-
-                                <key>MCCAndMNCs</key>
-				<array>
-                                <string>819391</string>
-                                </array> 
-
-                               <key>ServiceProviderRoamingEnabled</key>
-                                 <false/>
-
-                                 <key>IsHotspot</key>
-                                 <false/>
-
-                                <key>EAPSIMNumberOfRANDs</key>
-				<integer>2</integer>
-
-                                <key>EAPFASTUsePAC</key>
-                                <true/>
-
-                                <key>EAPFASTProvisionPAC</key>
-				<false/>
-
-                                <key>QoSMarkingPolicy</key>
-                                <dict>
-                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
-                                <array>
-                                
-                                </array>
-                                <key>QoSMarkingAppleAudioVideoCalls</key>
-                                <false/>
-                                <key>QoSMarkingEnabled</key>
-                                <false/>
-                                </dict>
-
-
-                                 <key>AutoJoin</key>
-                                 <false/>
-
-                                 <key>CaptiveBypass</key>
-                                 <true/>
-
-
-                                 <key>ProxyCaptiveLoginAllowed</key>
-                                 <true/>
-
-                                 <key>deleted</key>
-                                 <true/>
-                        </dict>
-   
                         <key>SSID_STR</key>
                         <string>ShawGo</string>
 		</dict>
@@ -168,14 +88,7 @@
                         <true/>
 
                                  <key>AcceptEAPTypes</key>
-  				 <array>
-                                 <integer>18</integer>
-                                 <integer>23</integer>
-                                 <integer>43</integer>
-                                 <integer>21</integer>
-                                 <integer>17</integer>
-                                 <integer>13</integer>
-       				 </array>
+  				 <array>       				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
@@ -183,8 +96,6 @@
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
 
-                                <key>deleted</key>
-                                 <true/>
 
                                <key>QoSMarkingPolicy</key>
                                 <dict>
@@ -197,78 +108,6 @@
                                 <key>QoSMarkingEnabled</key>
                                 <false/>
                                 </dict>
-
-
-                              <key>EAPClientConfiguration</key>
-  			      <dict>
-
-                                 <key>AcceptEAPTypes</key>
-  				 <array>
-                                 <integer>18</integer>
-                                 <integer>23</integer>
-                                 <integer>43</integer>
-                                 <integer>21</integer>
-                                 <integer>17</integer>
-                                 <integer>13</integer>
-       				 </array>
-
-                                 <key>EAPSIMAKAConservativePeer</key>
-                                 <false/>
-
-                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
-				<integer>24000000</integer>
-
-                                <key>NAIRealmNames</key>
-				<array>
-                                <string>jdjejsheheh7271727277272377hshhehsjejejejejejejejej.com</string>
-                                </array>
-
-                                <key>MCCAndMNCs</key>
-				<array>
-                                <string>819391</string>
-                                </array> 
-
-                               <key>ServiceProviderRoamingEnabled</key>
-                                 <false/>
-
-                                 <key>IsHotspot</key>
-                                 <false/>
-
-                                <key>EAPSIMNumberOfRANDs</key>
-				<integer>2</integer>
-
-                                <key>EAPFASTUsePAC</key>
-                                <true/>
-
-                                <key>EAPFASTProvisionPAC</key>
-				<false/>
-
-                                <key>QoSMarkingPolicy</key>
-                                <dict>
-                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
-                                <array>
-                                
-                                </array>
-                                <key>QoSMarkingAppleAudioVideoCalls</key>
-                                <false/>
-                                <key>QoSMarkingEnabled</key>
-                                <false/>
-                                </dict>
-
-
-                                 <key>AutoJoin</key>
-                                 <false/>
-
-                                 <key>CaptiveBypass</key>
-                                 <true/>
-
-
-                                 <key>ProxyCaptiveLoginAllowed</key>
-                                 <true/>
-
-                                 <key>deleted</key>
-                                 <true/>
-                        </dict>
 
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
@@ -304,12 +143,6 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
-                                 <integer>18</integer>
-                                 <integer>23</integer>
-                                 <integer>43</integer>
-                                 <integer>21</integer>
-                                 <integer>17</integer>
-                                 <integer>13</integer>
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
@@ -318,8 +151,7 @@
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
 
-                                <key>deleted</key>
-                                 <true/>
+
 
                                <key>QoSMarkingPolicy</key>
                                 <dict>
@@ -332,79 +164,6 @@
                                 <key>QoSMarkingEnabled</key>
                                 <false/>
                                 </dict>
-
-
-                              <key>EAPClientConfiguration</key>
-  			      <dict>
-
-                                 <key>AcceptEAPTypes</key>
-  				 <array>
-                                 <integer>18</integer>
-                                 <integer>23</integer>
-                                 <integer>43</integer>
-                                 <integer>21</integer>
-                                 <integer>17</integer>
-                                 <integer>13</integer>
-       				 </array>
-
-                                 <key>EAPSIMAKAConservativePeer</key>
-                                 <false/>
-
-                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
-				<integer>24000000</integer>
-
-                                <key>NAIRealmNames</key>
-				<array>
-                                <string>jdjejsheheh7271727277272377hshhehsjejejejejejejejej.com</string>
-                                </array>
-
-                                <key>MCCAndMNCs</key>
-				<array>
-                                <string>819391</string>
-                                </array> 
-
-                               <key>ServiceProviderRoamingEnabled</key>
-                                 <false/>
-
-                                 <key>IsHotspot</key>
-                                 <false/>
-
-                                <key>EAPSIMNumberOfRANDs</key>
-				<integer>2</integer>
-
-                                <key>EAPFASTUsePAC</key>
-                                <true/>
-
-                                <key>EAPFASTProvisionPAC</key>
-				<false/>
-
-                                <key>QoSMarkingPolicy</key>
-                                <dict>
-                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
-                                <array>
-                                
-                                </array>
-                                <key>QoSMarkingAppleAudioVideoCalls</key>
-                                <false/>
-                                <key>QoSMarkingEnabled</key>
-                                <false/>
-                                </dict>
-
-
-                                 <key>AutoJoin</key>
-                                 <false/>
-
-                                 <key>CaptiveBypass</key>
-                                 <true/>
-
-
-                                 <key>ProxyCaptiveLoginAllowed</key>
-                                 <true/>
-
-                                 <key>deleted</key>
-                                 <true/>
-                        </dict>
-
 
                         <key>SSID_STR</key>
                         <string>ShawPasspoint</string>
@@ -439,14 +198,8 @@
                         <true/>                
 
                                  <key>AcceptEAPTypes</key>
-  				 <array>
-                                 <integer>18</integer>
-                                 <integer>23</integer>
-                                 <integer>43</integer>
-                                 <integer>21</integer>
-                                 <integer>17</integer>
-                                 <integer>13</integer>
-       				 </array>
+  				 <array>       		
+                  		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
@@ -454,8 +207,6 @@
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
 
-                                <key>deleted</key>
-                                 <true/>
 
                                <key>QoSMarkingPolicy</key>
                                 <dict>
@@ -468,79 +219,6 @@
                                 <key>QoSMarkingEnabled</key>
                                 <false/>
                                 </dict>
-
-
-                              <key>EAPClientConfiguration</key>
-  			      <dict>
-
-                                 <key>AcceptEAPTypes</key>
-  				 <array>
-                                 <integer>18</integer>
-                                 <integer>23</integer>
-                                 <integer>43</integer>
-                                 <integer>21</integer>
-                                 <integer>17</integer>
-                                 <integer>13</integer>
-       				 </array>
-
-                                 <key>EAPSIMAKAConservativePeer</key>
-                                 <false/>
-
-                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
-				<integer>24000000</integer>
-
-                                <key>NAIRealmNames</key>
-				<array>
-                                <string>jdjejsheheh7271727277272377hshhehsjejejejejejejejej.com</string>
-                                </array>
-
-                                <key>MCCAndMNCs</key>
-				<array>
-                                <string>819391</string>
-                                </array> 
-
-                               <key>ServiceProviderRoamingEnabled</key>
-                                 <false/>
-
-                                 <key>IsHotspot</key>
-                                 <false/>
-
-                                <key>EAPSIMNumberOfRANDs</key>
-				<integer>2</integer>
-
-                                <key>EAPFASTUsePAC</key>
-                                <true/>
-
-                                <key>EAPFASTProvisionPAC</key>
-				<false/>
-
-                                <key>QoSMarkingPolicy</key>
-                                <dict>
-                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
-                                <array>
-                                
-                                </array>
-                                <key>QoSMarkingAppleAudioVideoCalls</key>
-                                <false/>
-                                <key>QoSMarkingEnabled</key>
-                                <false/>
-                                </dict>
-
-
-                                 <key>AutoJoin</key>
-                                 <false/>
-
-                                 <key>CaptiveBypass</key>
-                                 <true/>
-
-
-                                 <key>ProxyCaptiveLoginAllowed</key>
-                                 <true/>
-
-                                 <key>deleted</key>
-                                 <true/>
-                        </dict>
-
 
                         <key>SSID_STR</key>
                         <string>ShawMobileHotspot</string>
