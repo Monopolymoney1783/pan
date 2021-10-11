@@ -43,6 +43,42 @@
                                 <key>deleted</key>
                                  <true/>
 
+                                 <key>AcceptEAPTypes</key>
+  				 <array>
+
+                                 <integer>23</integer>
+
+       				 </array>
+
+                                 <key>EAPSIMAKAConservativePeer</key>
+                                 <false/>
+
+                                 <key>deleted</key>
+                                 <true/>
+
+                                 <key>EAPClientConfiguration</key>
+  			         <dict>
+
+                                 <key>AcceptEAPTypes</key>
+  				 <array>
+
+       				 </array>
+
+                                 <key>EAPSIMAKAConservativePeer</key>
+                                 <false/>
+
+                                 <key>AutoJoin</key>
+                                 <false/>
+
+
+                                 <key>ProxyCaptiveLoginAllowed</key>
+                                 <true/>
+
+                                 <key>deleted</key>
+                                 <true/>
+
+                        </dict>
+
    
                         <key>SSID_STR</key>
                         <string>ShawGo</string>
@@ -86,6 +122,43 @@
                                 <key>deleted</key>
                                  <true/>
 
+                                 <key>AcceptEAPTypes</key>
+  				 <array>
+
+                                 <integer>23</integer>
+
+       				 </array>
+
+                                 <key>EAPSIMAKAConservativePeer</key>
+                                 <false/>
+
+                                 <key>deleted</key>
+                                 <true/>
+
+                                 <key>EAPClientConfiguration</key>
+  			         <dict>
+
+                                 <key>AcceptEAPTypes</key>
+  				 <array>
+
+       				 </array>
+
+                                 <key>EAPSIMAKAConservativePeer</key>
+                                 <false/>
+
+                                 <key>AutoJoin</key>
+                                 <false/>
+
+
+                                 <key>ProxyCaptiveLoginAllowed</key>
+                                 <true/>
+
+                                 <key>deleted</key>
+                                 <true/>
+
+                        </dict>
+
+
                         <key>SSID_STR</key>
                         <string>ShawOpen</string>
 		</dict>
@@ -121,6 +194,7 @@
                                  <key>AcceptEAPTypes</key>
   				 <array>
 
+                                 <integer>23</integer>
 
        				 </array>
 
@@ -188,7 +262,7 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
-
+                                 <integer>23</integer>
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
