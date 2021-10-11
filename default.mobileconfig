@@ -34,14 +34,6 @@
 
                                 <key>AcceptEAPTypes</key>
   				 <array>       		
-                                 <integer>18</integer>
-                                 <integer>23</integer>
-                                 <integer>13</integer>
-                                 <integer>17</integer>
-                                 <integer>21</integer>
-                                 <integer>23</integer>
-                                 <integer>25</integer>
-                                 <integer>43</integer>
 
                   		 </array>
 
@@ -53,17 +45,14 @@
 
                                  <key>EAPSIMAKAIdentityType</key>
                                  <string>Permanent</string> 
-
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
-                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs</string> 
+                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
                                  <key>EAPSIMAKAKi</key>
-                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727</data>
-
+                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
                                  <key>EAPSIMAKAIMSI</key>
-                                 <string>288192731952742</string> 
+                                 <string>288192731952742727272777188188488482</string> 
                                  <key>EAPSIMAKARealm</key>
                                  <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
-
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -85,14 +74,6 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>   
-                                 <integer>18</integer>
-                                 <integer>23</integer>
-                                 <integer>13</integer>
-                                 <integer>17</integer>
-                                 <integer>21</integer>
-                                 <integer>23</integer>
-                                 <integer>25</integer>
-                                 <integer>43</integer>
    		
                   		 </array>
 
@@ -111,14 +92,13 @@
                                  <key>EAPSIMAKAIdentityType</key>
                                  <string>Permanent</string> 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
-                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs</string> 
+                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
                                  <key>EAPSIMAKAKi</key>
-                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727</data>
+                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
                                  <key>EAPSIMAKAIMSI</key>
-                                 <string>288192731952742</string> 
+                                 <string>288192731952742727272777188188488482</string> 
                                  <key>EAPSIMAKARealm</key>
                                  <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
-
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -171,14 +151,6 @@
 
                                 <key>AcceptEAPTypes</key>
   				 <array>       		
-                                 <integer>18</integer>
-                                 <integer>23</integer>
-                                 <integer>13</integer>
-                                 <integer>17</integer>
-                                 <integer>21</integer>
-                                 <integer>23</integer>
-                                 <integer>25</integer>
-                                 <integer>43</integer>
 
                   		 </array>
 
@@ -190,17 +162,14 @@
 
                                  <key>EAPSIMAKAIdentityType</key>
                                  <string>Permanent</string> 
-
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
-                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs</string> 
+                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
                                  <key>EAPSIMAKAKi</key>
-                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727</data>
-
+                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
                                  <key>EAPSIMAKAIMSI</key>
-                                 <string>288192731952742</string> 
+                                 <string>288192731952742727272777188188488482</string> 
                                  <key>EAPSIMAKARealm</key>
                                  <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
-
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -222,14 +191,6 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>   
-                                 <integer>18</integer>
-                                 <integer>23</integer>
-                                 <integer>13</integer>
-                                 <integer>17</integer>
-                                 <integer>21</integer>
-                                 <integer>23</integer>
-                                 <integer>25</integer>
-                                 <integer>43</integer>
    		
                   		 </array>
 
@@ -248,14 +209,13 @@
                                  <key>EAPSIMAKAIdentityType</key>
                                  <string>Permanent</string> 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
-                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs</string> 
+                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
                                  <key>EAPSIMAKAKi</key>
-                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727</data>
+                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
                                  <key>EAPSIMAKAIMSI</key>
-                                 <string>288192731952742</string> 
+                                 <string>288192731952742727272777188188488482</string> 
                                  <key>EAPSIMAKARealm</key>
                                  <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
-
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -307,15 +267,6 @@
 
                                 <key>AcceptEAPTypes</key>
   				 <array>       		
-                                 <integer>18</integer>
-                                 <integer>23</integer>
-                                 <integer>13</integer>
-                                 <integer>17</integer>
-                                 <integer>21</integer>
-                                 <integer>23</integer>
-                                 <integer>25</integer>
-                                 <integer>43</integer>
-
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
@@ -324,19 +275,16 @@
                                  <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
 
-                                 <key>EAPSIMAKAIdentityType</key>
+                                  <key>EAPSIMAKAIdentityType</key>
                                  <string>Permanent</string> 
-
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
-                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs</string> 
+                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
                                  <key>EAPSIMAKAKi</key>
-                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727</data>
-
+                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
                                  <key>EAPSIMAKAIMSI</key>
-                                 <string>288192731952742</string> 
+                                 <string>288192731952742727272777188188488482</string> 
                                  <key>EAPSIMAKARealm</key>
                                  <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
-
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -358,14 +306,6 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>   
-                                 <integer>18</integer>
-                                 <integer>23</integer>
-                                 <integer>13</integer>
-                                 <integer>17</integer>
-                                 <integer>21</integer>
-                                 <integer>23</integer>
-                                 <integer>25</integer>
-                                 <integer>43</integer>
    		
                   		 </array>
 
@@ -381,17 +321,16 @@
                                  <key>CaptiveBypass</key>
                                  <true/>
  
-                                 <key>EAPSIMAKAIdentityType</key>
+                                  <key>EAPSIMAKAIdentityType</key>
                                  <string>Permanent</string> 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
-                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs</string> 
+                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
                                  <key>EAPSIMAKAKi</key>
-                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727</data>
+                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
                                  <key>EAPSIMAKAIMSI</key>
-                                 <string>288192731952742</string> 
+                                 <string>288192731952742727272777188188488482</string> 
                                  <key>EAPSIMAKARealm</key>
                                  <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
-
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -443,14 +382,6 @@
 
                                 <key>AcceptEAPTypes</key>
   				 <array>       		
-                                 <integer>18</integer>
-                                 <integer>23</integer>
-                                 <integer>13</integer>
-                                 <integer>17</integer>
-                                 <integer>21</integer>
-                                 <integer>23</integer>
-                                 <integer>25</integer>
-                                 <integer>43</integer>
 
                   		 </array>
 
@@ -463,16 +394,15 @@
                                  <key>EAPSIMAKAIdentityType</key>
                                  <string>Permanent</string> 
 
-                                 <key>EAPSIMAKAOutOfBandPseudonym</key>
-                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs</string> 
-                                 <key>EAPSIMAKAKi</key>
-                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727</data>
 
+                                 <key>EAPSIMAKAOutOfBandPseudonym</key>
+                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
+                                 <key>EAPSIMAKAKi</key>
+                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
                                  <key>EAPSIMAKAIMSI</key>
-                                 <string>288192731952742</string> 
+                                 <string>288192731952742727272777188188488482</string> 
                                  <key>EAPSIMAKARealm</key>
                                  <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
-
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -494,14 +424,6 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>   
-                                 <integer>18</integer>
-                                 <integer>23</integer>
-                                 <integer>13</integer>
-                                 <integer>17</integer>
-                                 <integer>21</integer>
-                                 <integer>23</integer>
-                                 <integer>25</integer>
-                                 <integer>43</integer>
    		
                   		 </array>
 
@@ -520,11 +442,11 @@
                                  <key>EAPSIMAKAIdentityType</key>
                                  <string>Permanent</string> 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
-                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs</string> 
+                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
                                  <key>EAPSIMAKAKi</key>
-                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727</data>
+                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727819999</data>
                                  <key>EAPSIMAKAIMSI</key>
-                                 <string>288192731952742</string> 
+                                 <string>288192731952742727272777188188488482</string> 
                                  <key>EAPSIMAKARealm</key>
                                  <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
 
