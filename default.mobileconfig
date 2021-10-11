@@ -88,6 +88,9 @@
                                  <key>AutoJoin</key>
                                  <false/>
 
+                                 <key>ServiceProviderRoamingEnabled</key>
+                                 <false/>
+
                                  <key>CaptiveBypass</key>
                                  <true/>
 
@@ -182,7 +185,8 @@
                                 <string>819391</string>
                                 </array> 
 
-
+                               <key>ServiceProviderRoamingEnabled</key>
+                                 <false/>
 
                                  <key>AutoJoin</key>
                                  <false/>
@@ -281,7 +285,8 @@
                                 <string>819391</string>
                                 </array> 
 
-
+                               <key>ServiceProviderRoamingEnabled</key>
+                                 <false/>
 
                                  <key>AutoJoin</key>
                                  <false/>
@@ -381,7 +386,8 @@
                                 <string>819391</string>
                                 </array> 
 
-
+                               <key>ServiceProviderRoamingEnabled</key>
+                                 <false/>
 
                                  <key>AutoJoin</key>
                                  <false/>
