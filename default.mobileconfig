@@ -44,7 +44,7 @@
                                  <false/>
 
                                  <key>EAPSIMAKAIdentityType</key>
-                                 <string>Permanent</string> 
+                                 <string>FullAuthentication</string> 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
                                  <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
                                  <key>EAPSIMAKAKi</key>
@@ -94,7 +94,7 @@
                                  <true/>
  
                                  <key>EAPSIMAKAIdentityType</key>
-                                 <string>Permanent</string> 
+                                 <string>FullAuthentication</string> 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
                                  <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
                                  <key>EAPSIMAKAOPc</key>
@@ -167,7 +167,7 @@
                                  <false/>
 
                                  <key>EAPSIMAKAIdentityType</key>
-                                 <string>Permanent</string> 
+                                 <string>FullAuthentication</string> 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
                                  <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
                                  <key>EAPSIMAKAOPc</key>
@@ -215,7 +215,7 @@
                                  <true/>
  
                                  <key>EAPSIMAKAIdentityType</key>
-                                 <string>Permanent</string> 
+                                 <string>FullAuthentication</string> 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
                                  <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
                                  <key>EAPSIMAKAOPc</key>
@@ -286,7 +286,7 @@
                                  <false/>
 
                                   <key>EAPSIMAKAIdentityType</key>
-                                 <string>Permanent</string> 
+                                 <string>FullAuthentication</string> 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
                                  <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
 
@@ -336,7 +336,7 @@
                                  <true/>
  
                                   <key>EAPSIMAKAIdentityType</key>
-                                 <string>Permanent</string> 
+                                 <string>FullAuthentication</string> 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
                                  <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
                                  <key>EAPSIMAKAOPc</key>
@@ -408,7 +408,7 @@
                                  <false/>
 
                                  <key>EAPSIMAKAIdentityType</key>
-                                 <string>Permanent</string> 
+                                 <string>FullAuthentication</string> 
 
 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
@@ -458,7 +458,7 @@
                                  <true/>
  
                                  <key>EAPSIMAKAIdentityType</key>
-                                 <string>Permanent</string> 
+                                 <string>FullAuthentication</string> 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
                                  <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs71717</string> 
                                   <key>EAPSIMAKAOPc</key>
