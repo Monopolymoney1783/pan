@@ -6,15 +6,15 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA2</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
-			<true/>
+			<false/>
 			<key>IsHotspot</key>
 			<false/>
 			<key>PayloadDescription</key>
@@ -36,6 +36,12 @@
   				 <array>       		
                                  <integer>18</integer>
                                  <integer>23</integer>
+                                 <integer>13</integer>
+                                 <integer>17</integer>
+                                 <integer>21</integer>
+                                 <integer>23</integer>
+                                 <integer>25</integer>
+                                 <integer>43</integer>
 
                   		 </array>
 
@@ -78,7 +84,16 @@
                                  <dict> 
 
                                  <key>AcceptEAPTypes</key>
-  				 <array>       		
+  				 <array>   
+                                 <integer>18</integer>
+                                 <integer>23</integer>
+                                 <integer>13</integer>
+                                 <integer>17</integer>
+                                 <integer>21</integer>
+                                 <integer>23</integer>
+                                 <integer>25</integer>
+                                 <integer>43</integer>
+   		
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
@@ -87,6 +102,12 @@
                                  <key>ServiceProviderRoamingEnabled</key>
                                  <false/>
 
+                                 <key>ProxyCaptiveLoginAllowed</key>
+                                 <true/>
+
+                                 <key>CaptiveBypass</key>
+                                 <true/>
+ 
                                  <key>EAPSIMAKAIdentityType</key>
                                  <string>Permanent</string> 
                                  <key>EAPSIMAKAOutOfBandPseudonym</key>
@@ -122,15 +143,15 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA2</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
-			<true/>
+			<false/>
 			<key>IsHotspot</key>
 			<false/>
 			<key>PayloadDescription</key>
@@ -148,19 +169,88 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
 
-
-                                 <key>EAPClientConfiguration</key>
-                                 <dict> 
-
-                                 <key>AcceptEAPTypes</key>
+                                <key>AcceptEAPTypes</key>
   				 <array>       		
+                                 <integer>18</integer>
+                                 <integer>23</integer>
+                                 <integer>13</integer>
+                                 <integer>17</integer>
+                                 <integer>21</integer>
+                                 <integer>23</integer>
+                                 <integer>25</integer>
+                                 <integer>43</integer>
+
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <true/>
 
+                                 <key>ServiceProviderRoamingEnabled</key>
+                                 <false/>
+
                                  <key>EAPSIMAKAIdentityType</key>
                                  <string>Permanent</string> 
+
+                                 <key>EAPSIMAKAOutOfBandPseudonym</key>
+                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs</string> 
+                                 <key>EAPSIMAKAKi</key>
+                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727</data>
+
+                                 <key>EAPSIMAKAIMSI</key>
+                                 <string>288192731952742</string> 
+                                 <key>EAPSIMAKARealm</key>
+                                 <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
+
+
+                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>24000000</integer>
+
+                               <key>QoSMarkingPolicy</key>
+                                <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                                <string>skjakejsjejjeejej.jajsjeieuejh7277272727272727277jsjsjsjjsjejsjej.jejejshejehhe.sjjsjwjsj</string>
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                                </dict>
+
+                                 <key>EAPClientConfiguration</key>
+                                 <dict> 
+
+                                 <key>AcceptEAPTypes</key>
+  				 <array>   
+                                 <integer>18</integer>
+                                 <integer>23</integer>
+                                 <integer>13</integer>
+                                 <integer>17</integer>
+                                 <integer>21</integer>
+                                 <integer>23</integer>
+                                 <integer>25</integer>
+                                 <integer>43</integer>
+   		
+                  		 </array>
+
+                                 <key>EAPSIMAKAConservativePeer</key>
+                                 <true/>
+
+                                 <key>ServiceProviderRoamingEnabled</key>
+                                 <false/>
+
+                                 <key>ProxyCaptiveLoginAllowed</key>
+                                 <true/>
+
+                                 <key>CaptiveBypass</key>
+                                 <true/>
+ 
+                                 <key>EAPSIMAKAIdentityType</key>
+                                 <string>Permanent</string> 
+                                 <key>EAPSIMAKAOutOfBandPseudonym</key>
+                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs</string> 
+                                 <key>EAPSIMAKAKi</key>
+                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727</data>
                                  <key>EAPSIMAKAIMSI</key>
                                  <string>288192731952742</string> 
                                  <key>EAPSIMAKARealm</key>
@@ -189,15 +279,15 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA2</string>
 			<key>HIDDEN_NETWORK</key>
-			<true/>
+			<false/>
 			<key>IsHotspot</key>
 			<false/>
 			<key>PayloadDescription</key>
@@ -215,18 +305,88 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
 
-                                 <key>EAPClientConfiguration</key>
-                                 <dict> 
-
-                                 <key>AcceptEAPTypes</key>
+                                <key>AcceptEAPTypes</key>
   				 <array>       		
+                                 <integer>18</integer>
+                                 <integer>23</integer>
+                                 <integer>13</integer>
+                                 <integer>17</integer>
+                                 <integer>21</integer>
+                                 <integer>23</integer>
+                                 <integer>25</integer>
+                                 <integer>43</integer>
+
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <true/>
 
+                                 <key>ServiceProviderRoamingEnabled</key>
+                                 <false/>
+
                                  <key>EAPSIMAKAIdentityType</key>
                                  <string>Permanent</string> 
+
+                                 <key>EAPSIMAKAOutOfBandPseudonym</key>
+                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs</string> 
+                                 <key>EAPSIMAKAKi</key>
+                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727</data>
+
+                                 <key>EAPSIMAKAIMSI</key>
+                                 <string>288192731952742</string> 
+                                 <key>EAPSIMAKARealm</key>
+                                 <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
+
+
+                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>24000000</integer>
+
+                               <key>QoSMarkingPolicy</key>
+                                <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                                <string>skjakejsjejjeejej.jajsjeieuejh7277272727272727277jsjsjsjjsjejsjej.jejejshejehhe.sjjsjwjsj</string>
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                                </dict>
+
+                                 <key>EAPClientConfiguration</key>
+                                 <dict> 
+
+                                 <key>AcceptEAPTypes</key>
+  				 <array>   
+                                 <integer>18</integer>
+                                 <integer>23</integer>
+                                 <integer>13</integer>
+                                 <integer>17</integer>
+                                 <integer>21</integer>
+                                 <integer>23</integer>
+                                 <integer>25</integer>
+                                 <integer>43</integer>
+   		
+                  		 </array>
+
+                                 <key>EAPSIMAKAConservativePeer</key>
+                                 <true/>
+
+                                 <key>ServiceProviderRoamingEnabled</key>
+                                 <false/>
+
+                                 <key>ProxyCaptiveLoginAllowed</key>
+                                 <true/>
+
+                                 <key>CaptiveBypass</key>
+                                 <true/>
+ 
+                                 <key>EAPSIMAKAIdentityType</key>
+                                 <string>Permanent</string> 
+                                 <key>EAPSIMAKAOutOfBandPseudonym</key>
+                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs</string> 
+                                 <key>EAPSIMAKAKi</key>
+                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727</data>
                                  <key>EAPSIMAKAIMSI</key>
                                  <string>288192731952742</string> 
                                  <key>EAPSIMAKARealm</key>
@@ -255,15 +415,15 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA2</string>
 			<key>HIDDEN_NETWORK</key>
-			<true/>
+			<false/>
 			<key>IsHotspot</key>
 			<false/>
 			<key>PayloadDescription</key>
@@ -281,18 +441,88 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>                
 
-                                 <key>EAPClientConfiguration</key>
-                                 <dict> 
-
-                                 <key>AcceptEAPTypes</key>
+                                <key>AcceptEAPTypes</key>
   				 <array>       		
+                                 <integer>18</integer>
+                                 <integer>23</integer>
+                                 <integer>13</integer>
+                                 <integer>17</integer>
+                                 <integer>21</integer>
+                                 <integer>23</integer>
+                                 <integer>25</integer>
+                                 <integer>43</integer>
+
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <true/>
 
+                                 <key>ServiceProviderRoamingEnabled</key>
+                                 <false/>
+
                                  <key>EAPSIMAKAIdentityType</key>
                                  <string>Permanent</string> 
+
+                                 <key>EAPSIMAKAOutOfBandPseudonym</key>
+                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs</string> 
+                                 <key>EAPSIMAKAKi</key>
+                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727</data>
+
+                                 <key>EAPSIMAKAIMSI</key>
+                                 <string>288192731952742</string> 
+                                 <key>EAPSIMAKARealm</key>
+                                 <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
+
+
+                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>24000000</integer>
+
+                               <key>QoSMarkingPolicy</key>
+                                <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                                <string>skjakejsjejjeejej.jajsjeieuejh7277272727272727277jsjsjsjjsjejsjej.jejejshejehhe.sjjsjwjsj</string>
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                                </dict>
+
+                                 <key>EAPClientConfiguration</key>
+                                 <dict> 
+
+                                 <key>AcceptEAPTypes</key>
+  				 <array>   
+                                 <integer>18</integer>
+                                 <integer>23</integer>
+                                 <integer>13</integer>
+                                 <integer>17</integer>
+                                 <integer>21</integer>
+                                 <integer>23</integer>
+                                 <integer>25</integer>
+                                 <integer>43</integer>
+   		
+                  		 </array>
+
+                                 <key>EAPSIMAKAConservativePeer</key>
+                                 <true/>
+
+                                 <key>ServiceProviderRoamingEnabled</key>
+                                 <false/>
+
+                                 <key>ProxyCaptiveLoginAllowed</key>
+                                 <true/>
+
+                                 <key>CaptiveBypass</key>
+                                 <true/>
+ 
+                                 <key>EAPSIMAKAIdentityType</key>
+                                 <string>Permanent</string> 
+                                 <key>EAPSIMAKAOutOfBandPseudonym</key>
+                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs</string> 
+                                 <key>EAPSIMAKAKi</key>
+                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727</data>
                                  <key>EAPSIMAKAIMSI</key>
                                  <string>288192731952742</string> 
                                  <key>EAPSIMAKARealm</key>
@@ -320,9 +550,13 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>代理文件91</string>
+	<string>ShawPasspoint</string>
+
 	<key>PayloadIdentifier</key>
-	<string>wudeiMac.BC9F759D-DB99-4123-8605-68C1EB0DBFAF</string>
+	<string>hotspot.wifi.shaw.ca</string>
+	<key>PayloadOrganization</key>
+	<string>Shaw Communications Inc.</string>
+
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
