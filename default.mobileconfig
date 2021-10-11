@@ -119,27 +119,14 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
-                                <key>deleted</key>
-                                 <true/>
-
-                                 <key>AcceptEAPTypes</key>
-  				 <array>
-
-                                 <integer>23</integer>
-
-       				 </array>
-
-                                 <key>EAPSIMAKAConservativePeer</key>
-                                 <false/>
-
-                                 <key>deleted</key>
-                                 <true/>
 
                                  <key>EAPClientConfiguration</key>
   			         <dict>
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
+
+                                 <integer>23</integer>
 
        				 </array>
 
@@ -193,22 +180,19 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
-
-                                 <integer>23</integer>
-
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
-                                 <key>deleted</key>
-                                 <true/>
 
                                  <key>EAPClientConfiguration</key>
   			         <dict>
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
+
+                                 <integer>23</integer>
 
        				 </array>
 
@@ -262,20 +246,19 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
-                                 <integer>23</integer>
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
-                                 <key>deleted</key>
-                                 <true/>
 
                                  <key>EAPClientConfiguration</key>
   			         <dict>
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
+
+                                 <integer>23</integer>
 
        				 </array>
 
