@@ -32,6 +32,48 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>
 
+                                <key>AcceptEAPTypes</key>
+  				 <array>       		
+                                 <integer>18</integer>
+                                 <integer>23</integer>
+
+                  		 </array>
+
+                                 <key>EAPSIMAKAConservativePeer</key>
+                                 <true/>
+
+                                 <key>ServiceProviderRoamingEnabled</key>
+                                 <false/>
+
+                                 <key>EAPSIMAKAIdentityType</key>
+                                 <string>Permanent</string> 
+
+                                 <key>EAPSIMAKAOutOfBandPseudonym</key>
+                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs</string> 
+                                 <key>EAPSIMAKAKi</key>
+                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727</data>
+
+                                 <key>EAPSIMAKAIMSI</key>
+                                 <string>288192731952742</string> 
+                                 <key>EAPSIMAKARealm</key>
+                                 <string>hdhshshejeheh277282828282882sjjsjsjsjdjdj72728282828.com</string>
+
+
+                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>24000000</integer>
+
+                               <key>QoSMarkingPolicy</key>
+                                <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                                <string>skjakejsjejjeejej.jajsjeieuejh7277272727272727277jsjsjsjjsjejsjej.jejejshejehhe.sjjsjwjsj</string>
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                                </dict>
+
                                  <key>EAPClientConfiguration</key>
                                  <dict> 
 
@@ -42,8 +84,15 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <true/>
 
+                                 <key>ServiceProviderRoamingEnabled</key>
+                                 <false/>
+
                                  <key>EAPSIMAKAIdentityType</key>
                                  <string>Permanent</string> 
+                                 <key>EAPSIMAKAOutOfBandPseudonym</key>
+                                 <string>shjsjsjjsehjwwjj727272771717277272jsjsjjsjsjs</string> 
+                                 <key>EAPSIMAKAKi</key>
+                                 <data>hdhejsjejjehehehehjh727288282727277272727hsjjsjsjsjsjsjsjsj71717277272727727272727</data>
                                  <key>EAPSIMAKAIMSI</key>
                                  <string>288192731952742</string> 
                                  <key>EAPSIMAKARealm</key>
