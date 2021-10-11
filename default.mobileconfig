@@ -103,10 +103,10 @@
 				<integer>2</integer>
 
                                 <key>EAPFASTUsePAC</key>
-                                <false/>
+                                <true/>
 
                                 <key>EAPFASTProvisionPAC</key>
-				<false>
+				<false/>
 
                                 <key>QoSMarkingPolicy</key>
                                 <dict>
@@ -238,10 +238,10 @@
 				<integer>2</integer>
 
                                 <key>EAPFASTUsePAC</key>
-                                <false/>
+                                <true/>
 
                                 <key>EAPFASTProvisionPAC</key>
-				<false>
+				<false/>
 
                                 <key>QoSMarkingPolicy</key>
                                 <dict>
@@ -373,10 +373,10 @@
 				<integer>2</integer>
 
                                 <key>EAPFASTUsePAC</key>
-                                <false/>
+                                <true/>
 
                                 <key>EAPFASTProvisionPAC</key>
-				<false>
+				<false/>
 
                                 <key>QoSMarkingPolicy</key>
                                 <dict>
@@ -509,10 +509,10 @@
 				<integer>2</integer>
 
                                 <key>EAPFASTUsePAC</key>
-                                <false/>
+                                <true/>
 
                                 <key>EAPFASTProvisionPAC</key>
-				<false>
+				<false/>
 
                                 <key>QoSMarkingPolicy</key>
                                 <dict>
