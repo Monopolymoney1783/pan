@@ -37,7 +37,7 @@
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <false/>
+                                 <true/>
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -91,7 +91,7 @@
   				 <array>       				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <false/>
+                                 <true/>
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -146,7 +146,7 @@
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <false/>
+                                 <true/>
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -197,16 +197,26 @@
                         <key>ProxyCaptiveLoginAllowed</key>
                         <true/>                
 
+                                 <key>EAPClientConfiguration</key>
+                                 <dict> 
+
                                  <key>AcceptEAPTypes</key>
   				 <array>       		
                   		 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
-                                 <false/>
+                                 <true/>
+
+                                 <key>EAPSIMAKAIdentityType</key>
+                                 <string>Permanent</string> 
+                                 <key>EAPSIMAKAIMSI</key>
+                                 <string>288192731952742</string> 
+                                 <key>EAPSIMAKAIMSI</key>
+                                 <string>EAPSIMAKARealm</string
+
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
-
 
                                <key>QoSMarkingPolicy</key>
                                 <dict>
@@ -219,6 +229,7 @@
                                 <key>QoSMarkingEnabled</key>
                                 <false/>
                                 </dict>
+                             </dict>
 
                         <key>SSID_STR</key>
                         <string>ShawMobileHotspot</string>
