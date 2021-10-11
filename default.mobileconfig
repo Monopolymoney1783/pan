@@ -45,6 +45,9 @@
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
 
+                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>24000000</integer>
+
                                 <key>EAPFASTUsePAC</key>
                                 <false/>
 
@@ -66,6 +69,16 @@
 
                                  <key>EAPSIMAKAConservativePeer</key>
                                  <false/>
+
+                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>24000000</integer>
+
+                                <key>NAIRealmNames</key>
+				<array>
+                                <string>jdjejsheheh7271727277272377hshhehsjejejejejejejejej.com</string>
+                                </array>
+
+
 
                                  <key>AutoJoin</key>
                                  <false/>
