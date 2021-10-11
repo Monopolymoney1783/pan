@@ -6,17 +6,17 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA2</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
-			<key>IsHotspot</key>
 			<true/>
+			<key>IsHotspot</key>
+			<false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -46,7 +46,7 @@
                                 <dict>
                                 <key>QoSMarkingWhitelistedAppIdentifiers</key>
                                 <array>
-                              
+                              <string>skjakejsjejjeejej.jajsjeieuejh7277272727272727277jsjsjsjjsjejsjej.jejejshejehhe.sjjsjwjsj</string>
                                 </array>
                                 <key>QoSMarkingAppleAudioVideoCalls</key>
                                 <false/>
@@ -61,15 +61,15 @@
 
                 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA2</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>IsHotspot</key>
 			<false/>
 			<key>PayloadDescription</key>
@@ -101,7 +101,7 @@
                                 <dict>
                                 <key>QoSMarkingWhitelistedAppIdentifiers</key>
                                 <array>
-                                
+                                <string>skjakejsjejjeejej.jajsjeieuejh7277272727272727277jsjsjsjjsjejsjej.jejejshejehhe.sjjsjwjsj</string>
                                 </array>
                                 <key>QoSMarkingAppleAudioVideoCalls</key>
                                 <false/>
@@ -115,15 +115,15 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA2</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>IsHotspot</key>
 			<false/>
 			<key>PayloadDescription</key>
@@ -157,7 +157,7 @@
                                 <dict>
                                 <key>QoSMarkingWhitelistedAppIdentifiers</key>
                                 <array>
-                                
+                                <string>skjakejsjejjeejej.jajsjeieuejh7277272727272727277jsjsjsjjsjejsjej.jejejshejehhe.sjjsjwjsj</string>
                                 </array>
                                 <key>QoSMarkingAppleAudioVideoCalls</key>
                                 <false/>
@@ -171,17 +171,17 @@
 
 <dict>
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA2</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
-			<key>IsHotspot</key>
 			<true/>
+			<key>IsHotspot</key>
+			<false/>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -212,7 +212,7 @@
                                 <dict>
                                 <key>QoSMarkingWhitelistedAppIdentifiers</key>
                                 <array>
-                                
+                                <string>skjakejsjejjeejej.jajsjeieuejh7277272727272727277jsjsjsjjsjejsjej.jejejshejehhe.sjjsjwjsj</string>
                                 </array>
                                 <key>QoSMarkingAppleAudioVideoCalls</key>
                                 <false/>
