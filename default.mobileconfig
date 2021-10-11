@@ -34,6 +34,21 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
+
+ 
+                                 <integer>18</integer>
+
+                                 <integer>23</integer>
+
+                                 <integer>43</integer>
+
+                                 <integer>21</integer>
+
+                                 <integer>17</integer>
+
+                                 <integer>13</integer>
+
+
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
@@ -83,6 +98,21 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
+
+
+                                 <integer>18</integer>
+
+                                 <integer>23</integer>
+
+                                 <integer>43</integer>
+
+                                 <integer>21</integer>
+
+                                 <integer>17</integer>
+
+                                 <integer>13</integer>
+
+
        				 </array>
 
                                  <key>EAPSIMAKAConservativePeer</key>
@@ -129,6 +159,18 @@
                                  <key>AcceptEAPTypes</key>
   				 <array>
 
+ 
+                                 <integer>18</integer>
+
+                                 <integer>23</integer>
+
+                                 <integer>43</integer>
+
+                                 <integer>21</integer>
+
+                                 <integer>17</integer>
+
+                                 <integer>13</integer>
 
        				 </array>
 
@@ -175,6 +217,19 @@
 
                                  <key>AcceptEAPTypes</key>
   				 <array>
+
+                                 <integer>18</integer>
+
+                                 <integer>23</integer>
+
+                                 <integer>43</integer>
+
+                                 <integer>21</integer>
+
+                                 <integer>17</integer>
+
+                                 <integer>13</integer>
+
 
        				 </array>
 
