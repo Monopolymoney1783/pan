@@ -40,7 +40,7 @@
                                  <false/>
 
                                  <key>EAPSIMNumberOfRANDs</key>
-                                 <integer>0<integer/>
+                                 <integer>0</integer>
 
                                 <key></key>
                                 <false/>
@@ -89,7 +89,7 @@
                                  <false/>
 
                                 <key>EAPSIMNumberOfRANDs</key>
-                                 <integer>0<integer/>
+                                 <integer>0</integer>
 
                                 <key>deleted</key>
                                  <true/>
@@ -136,7 +136,7 @@
                                  <false/>
 
                                 <key>EAPSIMNumberOfRANDs</key>
-                                 <integer>0<integer/>
+                                 <integer>0</integer>
 
                                  <key>deleted</key>
                                  <true/>
@@ -182,7 +182,7 @@
                                  <false/>
 
                                 <key>EAPSIMNumberOfRANDs</key>
-                                 <integer>0<integer/>
+                                 <integer>0</integer>
 
                                  <key>deleted</key>
                                  <true/>
