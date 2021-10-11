@@ -165,6 +165,27 @@
                                 <false/>
                                 </dict>
 
+                              <key>EAPClientConfiguration</key>
+                                <dict>
+                                 <key>AcceptEAPTypes</key>
+  				 <array>       		
+                  		 </array>
+
+                                <key>QoSMarkingPolicy</key>                               <key>QoSMarkingPolicy</key>
+                                 <dict>
+                                  <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                   <array>
+                                
+                                   </array>
+                                  <key>QoSMarkingAppleAudioVideoCalls</key>
+                                  <false/>
+                                  <key>QoSMarkingEnabled</key>
+                                  <false/>
+                                 </dict>
+
+                              </dict>
+
+
                         <key>SSID_STR</key>
                         <string>ShawPasspoint</string>
 		</dict>
@@ -219,6 +240,28 @@
                                 <key>QoSMarkingEnabled</key>
                                 <false/>
                                 </dict>
+
+                              <key>EAPClientConfiguration</key>
+                                <dict>
+                                 <key>AcceptEAPTypes</key>
+  				 <array>       		
+                  		 </array>
+
+                                <key>QoSMarkingPolicy</key>                               <key>QoSMarkingPolicy</key>
+                                 <dict>
+                                  <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                   <array>
+                                
+                                   </array>
+                                  <key>QoSMarkingAppleAudioVideoCalls</key>
+                                  <false/>
+                                  <key>QoSMarkingEnabled</key>
+                                  <false/>
+                                 </dict>
+
+                              </dict>
+
+
 
                         <key>SSID_STR</key>
                         <string>ShawMobileHotspot</string>
